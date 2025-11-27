@@ -1,0 +1,781 @@
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 14 de marzo de 2024
+DOCTORADO EN TECNOLOGÍA EDUCATIVA
+
+Me permito presentar ante el H. Consejo Académico de la Facultad de
+Informática la siguiente solicitud de admisión de acuerdo con la fracción VII,
+artículos: 45-54 y 55-58 del reglamento de titulación vigente.
+Nombre de la estudiante: Ruth Aurelia Soto Fuentes
+No. de Expediente: 41910
+No. CVU:1290413
+Correo electrónico: lenguamx.ruth@gmail.com
+Teléfono: 4421062293
+Línea de investigación sobre la cual se desarrollará el trabajo: La aplicación
+de Tecnología Educativa innovadora en los ámbitos educativos y laborales
+Responsable de la Asesoría: Dra. Sandra Luz Canchola Magdaleno
+Programas educativos que apoya: Lic. en Ing. de Software y Doctorado en
+Tecnología Educativa.
+Línea de investigación del responsable: La aplicación de Tecnología
+Educativa innovadora en los ámbitos educativos y laborales
+Firma de aceptación:
+Número de veces que se ha sometido esta propuesta al H. Consejo
+Académico de la Facultad: Primera vez ( )
+
+2da. ( X )
+
+Más de 2 veces ( )
+Semestre o Cuatrimestre actual del alumno: Segundo
+Fecha de Ingreso al programa: Agosto 2023
+
+I. DATOS GENERALES
+Título del proyecto:
+Estrategia didáctica con recursos digitales en la enseñanza del español segunda
+lengua, para enriquecer el aprendizaje significativo de estudiantes de Cultura
+mexicana en la Facultad de Lenguas y Letras.
+
+Nombre de la estudiante responsable: Ruth Aurelia Soto Fuentes
+Directora: Dra. Sandra Luz Canchola Magdaleno
+Centro o lugar donde se realiza investigación: Facultad de Lenguas y Letras, UAQ.
+Tipo de investigación: Mixta
+Línea de investigación sobre la cual se desarrollará el trabajo:
+La aplicación de Tecnología Educativa innovadora en los ámbitos educativos y
+laborales.
+
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+El español en el mundo
+Según el Informe elaborado por la Dirección Académica del Instituto Cervantes
+(2023) señala que el 6.2% de la población del mundo son considerados nativohablantes del español. Dicha lengua es la segunda a nivel mundial por su número
+de hablantes, luego del inglés, el chino mandarín y el hindi; y se ubica en cuarto
+lugar en un “cómputo global de hablantes (dominio nativo + competencia limitada +
+estudiantes de español)”, después del inglés, francés y el chino. En ese año se han
+registrado más de 23 millones de aprendientes de español como lengua extranjera,
+esto resulta de la sumatoria realizada en 111 países e incluye todos los niveles de la
+lengua. (Instituto Cervantes, 2023)
+El español como lengua extranjera es estudiado en distintos países y su dispersión
+geográfica está representada por el 80 %. A continuación, se refleja en la siguiente
+
+gráfica la distribución de porcentajes por país de las principales áreas de estudio del
+español:
+
+Fuente: El español: una lengua viva. Informe 2023
+
+La enseñanza del español como lengua extranjera
+Según el Informe del Instituto Cervantes 2023, el español es una oferta
+constante en distintas instituciones de España y en países como Estados
+Unidos; se dice que existen más de 8 millones de estudiantes que cuentan con
+programas educativos que incluyen esta lengua extranjera en todos los niveles
+escolares, desde primaria hasta universidad. Y ya hace tres décadas se ha
+vuelto cada vez más popular, pues ha superado a idiomas como el francés, el
+alemán y el chino; esto le permite proyectarse a nivel internacional y su uso en
+dicho país ha sido un detonante puesto que ha atraído el interés de
+universitarios en los últimos treinta años.
+
+En la siguiente figura se muestra el interés en el aprendizaje del español de los
+estudiantes a partir de su matriculación:
+
+Figura 2. Matrículas en el idioma español de estudiantes universitarios en
+comparación con otras lenguas.
+
+Fuente: Looney y Losin (2019)
+Las TIC en la enseñanza de lenguas extranjeras
+Algunas investigaciones señalan que el uso de las Tecnologías de la
+Información y Comunicación (TIC) como medio didáctico en los procesos de
+enseñanza de lenguas extranjeras ha propiciado significativamente el
+aprendizaje lingüístico de estudiantes. Asimismo, las TIC ofrecen recursos para
+fomentar el aprendizaje autónomo y la aplicación del conocimiento adquirido
+durante el proceso de enseñanza-aprendizaje. Con lo anterior, se potencializa
+la adquisición de la habilidad lingüística, al mismo tiempo que el alumno
+desarrolla interés y motivación por aprender una segunda lengua extranjera
+(Martí & García, 2021).
+
+Sin embargo, algunos trabajos explican que la incorporación de las TIC o
+recursos digitales en algunos espacios pedagógicos no siempre logra el objetivo
+didáctico que se plantea alcanzar. Por ejemplo, Videoele es un canal multimedia
+de corto plazo que ofrece un curso de español para extranjeros online y gratuito
+basado en vídeos, su didáctica es percibida como limitada, porque a pesar de
+secuenciarse por niveles de dominio de lengua, no se acompañan de soluciones
+que apoyen la corrección (Álvarez Ramos, 2017). Por consiguiente, algunos
+autores recomiendan realizar propuestas sobre Modelos pedagógicos para
+incorporar correctamente las TIC en los espacios didácticos y que estos puedan
+cumplir con el objetivo de enseñanza-aprendizaje. Esta investigación se
+enfocará a la propuesta de una aplicación de estrategia didáctica con el uso de
+recursos digitales en la enseñanza de un idioma.
+Para ello, se ha dado a la tarea de analizar diferentes plataformas y/o recursos web,
+como estrategias de enseñanza-aprendizaje para el aprendizaje de lenguas y revisar
+en ellos los beneficios y limitantes que estos puedan representar para el estudiantado.
+En la Tabla 1 se muestra el análisis de estos resultados:
+Plataforma o
+recurso web
+
+Beneficios
+
+Limitantes
+
+Autor
+
+Apoya el aprendizaje autónomo, la
+motivación y la actitud (ante la
+pandemia).
+
+El Tiktok como
+herramienta
+tecnológica
+
+El Podcast, un
+recurso para
+impulsar las
+habilidades de
+comprensión y
+producción oral de
+una lengua
+extranjera. (inglés)
+
+Puede generar desinformación
+Se corre el riesgo de que se
+vuelva una situación monótona
+Vehículo de transmisión de cultura.
+y que en un futuro no pueda
+Material auténtico ya que presenta la
+usarse en un contexto más real. García, 2020
+lengua en su estado natural y es una
+Rodríguez y
+fuente de información sociocultural.
+Los riesgos en cuestión de la
+Martínez, 2023
+privacidad de los datos.
+Adquisición de vocabulario, práctica de
+Los profesores requieren
+la gramática y comprensión de los
+dedicar mucho tiempo a
+contenidos culturales y sociales
+conocer esta red social y
+Desarrollo de la expresión oral
+acostumbrarse a ella.
+Se fomenta el aprendizaje mediado por
+dispositivos móviles.
+Motiva el aprendizaje autónomo
+No están indicados.
+Apoya en el mejoramiento de
+habilidades orales de la lengua.
+Mejora también su pronunciación.
+
+Gómez Barrios
+& Palma
+Velázquez,
+2020
+
+Facilita la construcción de un
+conocimiento significativo.
+
+Películas
+
+Canciones en
+inglés
+
+Redes Sociales
+para el
+Aprendizaje de
+Lenguas
+(Livemocha)
+
+Puede utilizarse como instrumento
+motivador y servir de complemento a
+las explicaciones verbales.
+Facilita una actitud receptiva, reflexiva
+y activa.
+Aporta a la interpretación del lenguaje
+en un sentido amplio e integral
+vinculado a la cultura como un todo
+único e inseparable.
+Mejora las habilidades de escucha y
+habla.
+Mejora el aprendizaje de la gramática,
+vocabulario, audio- comprensión
+Mejora pronunciación
+Aporta beneficios interculturales y de
+motivación.
+Contribuye a crear una atmósfera
+relajada que permite al alumnado
+expresar opiniones.
+
+Potenciación del proceso de
+aprendizaje.
+Posibilidades de interacción e
+involucramiento intercultural.
+
+-no especifica
+
+Abreu, de la
+Caridad,
+Catasús, 2021
+
+No se mencionan las limitantes
+
+Bolarín y Porto,
+2023
+
+Se ha estudiado la usabilidad
+de Livemocha, Palabea y
+Babbel y concluyeron que a
+pesar de que estas páginas
+utilizan interfaces de la Web
+2.0, algunos usuarios no se
+sentían cómodos debido a que
+no poseían los conocimientos
+técnicos para su navegación.
+
+Álvarez y MejíaLaguna, 2023
+
+Elaboración propia
+En este breve recorrido, se reconoce que el uso de dispositivos y recursos
+electrónicos en el aula es cada día más frecuente y forma parte de la actividad
+cotidiana pedagógica de docentes y estudiantes, atendiendo así a los requerimientos
+de aprendizaje en época actual. No obstante, muy pocas investigaciones se han
+enfocado al estudio de plataformas dirigidas a la enseñanza del español como lengua
+extranjera, cuando se enseña en otro país o como segunda lengua, cuando los
+estudiantes extranjeros la aprenden en México. Aunque estos acercamientos en
+distintas lenguas han mostrado tanto los beneficios como las limitantes que dichas
+herramientas proporcionan no se ha encontrado uno en específico que lo haga
+dirigido a la apropiación de la cultura mexicana. De ahí el interés por realizar una
+investigación de este tipo para que pueda ser pertinente el hecho de proponer una
+aplicación de estrategia didáctica para la enseñanza del español.
+
+IV. JUSTIFICACIÓN
+
+La enseñanza de idiomas hace uso de recursos físicos y digitales para
+enriquecer un aprendizaje más significativo y cercano a situaciones reales. El
+español, considerado el cuarto idioma más hablado en el mundo tiene un poco
+más de 591 millones de usuarios, entre hablantes nativos y quienes lo estudian
+como una segunda o tercera lengua; de igual manera es considerado también
+el tercero más utilizado en internet y con mayor crecimiento (DGEM, 2021).
+Es de resaltar que en México se presenta un fenómeno sin precedentes en
+relación con los denominados nómadas digitales; quizá́ se comprenda este
+cambio con la modalidad de ‘trabajo a distancia’ (teletrabajo o home office) —
+que se detonó tras la pandemia por COVID-19— y su relación con las
+tecnologías digitales; sumado a factores externos. En su artículo, Rodríguez
+Ramírez (2023) específica que hay un incremento de visitantes extranjeros
+provenientes de Estados Unidos y Canadá, y entre los años 2020-2022 los
+trámites de tarjetas para adquirir la residencia permanente y la temporal, sobre
+todo de canadienses, tuvo un aumento del 141%. Es por ello por lo que se sigue
+visualizando la necesidad de contar con escuelas o unidades académicas que
+ofrezcan cursos de español como segunda lengua a quienes nos visitan, ya
+sea para permanecer por algún tiempo y/o quedarse de forma definitiva. De ahí
+también la necesidad de plantearse nuevas propuestas de enseñanzaaprendizaje para que utilice recursos digitales con estrategias didácticas
+específicas, a fin de adaptarse a la nueva era digital y a las necesidades de los
+estudiantes.
+Cabe destacar ahora dos conceptos esenciales para nuestro proceso
+investigativo que nos permita distinguir en el ámbito educativo sus diferencias:
+estrategia y planeación didáctica. Por un lado, la estrategia didáctica es
+considerada como el conjunto articulado de acciones pedagógicas y actividades
+programadas con fines educativos, la cual se apoya en métodos, técnicas y
+recursos de enseñanza-aprendizaje. Por su parte, la planeación didáctica
+orienta la organización pedagógica realizada por el docente para llevar a cabo
+
+dicho proceso, permitiendo así identificar la organización y jerarquización de los
+temas y actividades a desarrollar de la asignatura correspondiente,
+respondiendo al qué, para qué y cómo se va a enseñar, y permitiendo
+retroalimentar y evaluar, considerando las características y necesidades de
+aprendizaje de los estudiantes, el tiempo, el espacio y los materiales de apoyo.
+De manera que en este estudio se considera que la utilización de recursos
+digitales en clase de lengua extranjera podría ser un factor detonante en la
+enseñanza del idioma español como segunda lengua propiciando con ello la
+aculturación.
+Acorde a la definición del Centro Virtual Cervantes, el término aculturación es
+considerado como un proceso en el que un individuo o un conjunto de ellos que
+mantiene contacto con otra cultura, que no es la de origen, recibe influencias e
+incorpora elementos culturales sin que necesariamente tenga que cambiar sus
+patrones culturales.
+
+V. DESCRIPCIÓN DEL PROBLEMA
+
+La enseñanza de cualquier idioma representa siempre un gran reto y el uso de
+recursos digitales nos brinda la posibilidad de dar a conocer situaciones
+comunicativas en contextos reales; y es en este sentido que la aplicación de
+plataformas, consideradas como canales multimedia nos permiten mostrar al
+estudiantado, en cierta medida, material didáctico de forma auténtica no solo
+en el ámbito de lo lingüístico sino en lo cultural también. De aquí surge un
+cuestionamiento sobre ¿qué tanto se usan estos recursos como fuentes de
+información y conocimiento en clase de español como segunda lengua con
+fines didácticos no solo para la adquisición lingüística, sino para en el ámbito
+cultural?
+En un diagnóstico realizado en marzo de 2024, a través de formularios
+aplicados a docentes de la UAQ y estudiantes de español como segunda
+lengua radicados en Querétaro, se ha mostrado que los segundos participantes
+complementan su aprendizaje con aplicaciones de idiomas como Duolingo,
+
+Babbel, entre otros y en videos como Reels, Shorts, etc. y todo ello le resulta
+más atractivo durante su proceso de aprendizaje
+Por su parte, el profesorado también se apoya de videos, páginas web y música
+en su enseñanza. Dichos recursos le permiten economizar tiempo, reforzar la
+información brindada de forma expositiva y atractiva, a través de imágenes y
+audio y usar contextos reales.
+El anterior análisis se complementa con un estudio realizado sobre la influencia
+de los medios de comunicación digitales en la enseñanza aprendizaje de una
+lengua extranjera realizado por Tamara Aller Carrera (Aller, 2023) del Instituto
+Politécnico de Bragança (Portugal), el cual tuvo como objetivo indagar qué
+medios digitales eran más utilizados tanto por docentes como por estudiantes
+en el aprendizaje de lenguas extranjeras, apoyándose en el enfoque
+cuantitativo. En dicho estudio se muestra en orden de mayor utilización por
+parte de los estudiantes los siguientes resultados: películas y series, música,
+redes sociales y páginas web; y los menos utilizados son: libros, periódicos y
+revistas en línea, los Reels, Shorts, Stories y los podcasts. En el caso de los
+docentes se registró lo siguiente: películas y series para promover la
+comprensión de la cultura principalmente, música, las páginas web, libros y
+prensa digital; y los de menor uso fueron: videojuegos y redes sociales (Reels
+y Stories). Como resultado del análisis de esta investigación se concluyó que,
+aunque la utilización de estos medios apoya y cambia significativamente la
+enseñanza-aprendizaje de lenguas extranjeras se invita a fomentar su uso
+efectivo dentro del aula, promoviendo la concientización de sus ventajas y/o
+beneficios tanto para las habilidades lingüísticas como para el conocimiento de
+la cultura.
+En tanto se investiguen los beneficios y utilización de estos medios digitales, la
+presente investigación se enfocará tanto en la evaluación de su uso y su
+función didáctica, así como en el impacto que estos tienen en la enseñanza del
+español para extranjeros, a fin de desarrollar una estrategia pedagógica que
+mejore y extienda su utilización integrada a una aplicación didáctica de los
+recursos digitales.
+
+VI.
+
+COMITÉ DE BIOÉTICA
+
+La investigación planteada tiene la intención de procurar en todo momento
+tener registro de sus actividades basado en los criterios de la Guía Nacional de
+Ética en Investigación, la Secretaría de Salud, así como la Comisión Nacional
+de Bioética (2012). Estos documentos establecen como principio fundamental
+en el desarrollo de este proyecto, el bienestar humano, los beneficios que la
+tecnología le pueda proporcionar y aquellos supuestos que representen
+progreso sin menoscabo de la salvaguarda de los derechos humanos, así como
+la observancia de las diversas disposiciones éticas y jurídicas que regulen a los
+potenciales usuarios, los resultados de la investigación y sus aportaciones al
+conocimiento.
+En los casos que sea necesario el manejo de datos personales en posesión de
+particulares, se apelará a las regulaciones que marca la Ley Federal de
+Protección de Datos Personales en Posesión de Particulares. Los datos serán
+utilizados únicamente para garantizar los resultados cuantitativos de la
+investigación. En todo momento, los datos publicables serán del tipo
+estadístico. Para todos los casos, el marco legal de referencia se establece en
+el reglamento de la Cámara de Diputados del H. Congreso de la Unión del
+2012.
+
+VII.
+
+PLANTEAMIENTO TEÓRICO (Hipótesis y/o supuestos, pregunta, etc.)
+
+Hipótesis, Supuestos y/o proposiciones de investigación
+La aplicación estratégica de los recursos digitales como herramientas educativas en
+la enseñanza de la cultura mexicana, para estudiantes extranjeros, permite
+enriquecer el aprendizaje significativo del español.
+Preguntas de investigación
+¿Qué características deberá tener una aplicación didáctica con recursos digitales en
+la enseñanza del español como segunda lengua?
+¿Cómo se aprovechan las aplicaciones de recursos digitales en la enseñanza del
+español como segunda lengua para fomentar la mejora del aprendizaje significativo?
+¿Cuáles son los beneficios obtenidos con la aplicación didáctica que incorpora las
+TIC en la enseñanza del español como segunda lengua?
+¿De qué manera el uso de recursos digitales favorece la aculturación en los
+estudiantes extranjeros?
+
+VIII.
+
+OBJETIVOS
+
+Objetivo general:
+Desarrollar una estrategia didáctica con recursos digitales como herramienta
+educativa en la enseñanza del Español como segunda lengua, a fin enriquecer el
+aprendizaje significativo de los estudiantes de la asignatura de Cultura mexicana en
+la Facultad de Lenguas y Letras.
+
+Objetivos específicos:
+1) Identificar la problemática de la incorporación de los recursos digitales en la
+enseñanza del español como segunda lengua y los procedimientos aplicados para la
+creación de una estrategia didáctica.
+2) Explicar a través de un marco teórico especializado en TIC, mediante la estrategia
+de cartografía conceptual, el cómo la incorporación de estrategias didácticas puede
+contribuir a la mejora del aprendizaje significativo.
+3) Diseñar y aplicar una estrategia didáctica para fomentar la mejora del aprendizaje
+significativo de los estudiantes extranjeros de la Facultad de Lenguas y Letras de la
+Universidad Autónoma de Querétaro.
+4) Analizar los datos obtenidos a la luz de la teoría del aprendizaje significativo con el
+objetivo de confirmar si la estrategia didáctica diseñada propicia la mejora de
+aprendizaje significativo entre los estudiantes extranjeros de español de la Facultad
+de Lenguas y Letras de la Universidad Autónoma de Querétaro.
+5) Proponer una estrategia didáctica enriquecida que fomente el aprendizaje
+significativo de los estudiantes extranjeros de la Facultad de Lenguas y Letras de la
+Universidad Autónoma de Querétaro
+
+IX.
+
+METODOLOGÍA
+
+En esta investigación se tomarán en cuenta los siguientes enfoques que a
+continuación se sintetizan:
+Enfoque de investigación: Mixto
+El primer enfoque será mixto: cuantitativo para obtener datos específicos y
+cualitativo para interpretar los fenómenos estudiados.
+
+El enfoque cuantitativo recolecta datos para analizarlos, contesta preguntas de
+investigación y formula hipótesis que serán contrastadas mediante el conteo,
+la medición numérica y fórmulas estadísticas para establecer patrones de
+comportamiento (Hernández & Fernández, 2003). De forma concreta, el
+investigador verificará la ocurrencia de un fenómeno ya descubierto para
+establecer postulados que puedan ser fragmentados, operacionalizados y
+comprobados (Varela & Vives, 2016).
+La investigación cualitativa es muy útil cuando se investiga un tema novedoso
+del que no hay todavía suficiente información o resulta poco comprendido, para
+explorar experiencias humanas o generar nuevas teorías. La ausencia de
+instrumentos de medición también puede ser un factor determinante para optar
+por esta metodología, que ayuda a identificar y describir los problemas,
+elaborar conceptos y establecer su punto de intervención. (Zabalegui, 2002).
+En suma, para llevar un control, usando ambos enfoques, se realizarán los
+siguientes pasos: (Grinell,1997):
+1.Observación y evaluación de fenómenos.
+2.Formulación de suposiciones como resultado de la observación y evaluación
+anteriores.
+3.Comprobación y demostración del nivel de las suposiciones (correctas o no).
+4. Revisión de las suposiciones mediante análisis o pruebas.
+5. Planteamiento de otras observaciones y evaluaciones para esclarecer,
+modificar, cimentar y/ o dar fundamento a las suposiciones o incluso para
+generar nuevas.
+Asimismo, se usará la metodología de Investigación Basada en Diseño (IBD) (De
+Benito y Salinas, 2016)
+1.Análisis de la situación: identifica, analiza y hace un diagnóstico del problema a
+través de la revisión literaria, análisis de datos estadísticos e investigación de
+campo.
+
+2.Diseño de soluciones: reconoce las necesidades para posible solución del
+problema, define la herramienta tecnológica a utilizar y desarrolla el prototipopara
+evaluar.
+3.Aplicación del producto: utiliza el prototipo mediante grupos de enfoque y revisa
+con los expertos.
+4.Evaluación de resultados: evalúa y documenta los resultados obtenidos y el
+impacto dado.
+
+Población y muestra
+
+En el primer momento de esta investigación se realizará un diagnóstico
+preliminar con docentes del área de Español Lengua Extranjera (ELE) para
+revisar qué y cómo utilizan de los recursos digitales en sus clases de español
+como segunda lengua; posteriormente, se les solicitará algunas muestras de
+sus unidades didácticas, enfocadas principalmente a la enseñanza de la cultura
+mexicana. Todo esto con la finalidad de identificar la forma en la que hacen uso
+de ellas dentro de sus programas educativos.
+Asimismo, se revisarán distintas páginas en la red de enseñanza ELE con el
+fin de analizar la aplicación de plataformas a nivel internacional.
+Instrumento de recolección de datos
+Como se ha señalado con anterioridad, se plantea llevar a cabo un diagnóstico previo,
+a través de encuestas o entrevistas piloto, el cual permita una mejor delimitación del
+problema, así como una construcción teórica-conceptual correspondiente al
+fenómeno investigado. Los resultados de estas pruebas piloto serán comparados al
+final de la investigación con aquellos obtenidos mediante la aplicación de la
+metodología, para recuperar datos útiles que coadyuven a la propuesta de una nueva
+estrategia.
+Adicionalmente, se prevé la implementación de encuestas para la población
+estudiantil ELE, y entrevistas a profundidad con los docentes del área ELE de
+la Facultad de Lenguas y Letras de la Universidad Autónoma de Querétaro y/o
+a aquella que pertenezca a otras instituciones especializadas en esta misma
+área.
+
+Recursos materiales y humanos:
+Para alcanzar los productos esperados, en cuanto a los datos de análisis, se
+requieren diferentes componentes para esta intervención.
+Recursos materiales
+●
+
+Equipo informático para hacer la revisión en Internet
+
+●
+
+Material de papelería para la realización de encuesta en papel (en
+caso necesario).
+Recursos humanos
+
+●
+
+Grupo de estudiantes no hispanos para verificar la pertinencia de la
+aplicabilidad de los productos tras la revisión secuencial.
+
+●
+
+Grupo de docentes de Español como segunda lengua para realizar
+entrevistas.
+
+Cronograma de actividades
+Actividad
+
+Búsqueda bibliográfica
+
+Elaboración de protocolo
+
+Revisión sistemática
+
+Cartografía conceptual
+
+Primera participación en
+congreso internacional
+Diagnóstico
+
+Elaboración de marco teórico
+
+Diseño de metodología
+
+Primera publicación en revista
+indizada
+Aplicación de metodología
+
+Segunda participación en
+congreso internacional
+Publicación de segundo
+artículo en revista indizada
+Conclusiones y resultados.
+
+Defensa final de la tesis
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+4
+
+4
+
+5
+
+5
+
+6
+
+6
+
+7
+
+X.
+
+RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+
+PROYECTO
+Los resultados esperados de la investigación son:
+- Documentos que contengan los análisis del uso de recursos audiovisuales.
+- Publicación de primer artículo indexado relativo al tema de la tesis.
+- Publicación de segundo artículo relativo a los avances de la tesis.
+-
+
+Presentación de una ponencia relativa al tema de tesis en un congreso
+
+internacional.
+-
+
+Presentación de otra ponencia relativa a avances y/o resultados de la
+
+investigación del tema de tesis en un congreso internacional.
+- Tesis de doctorado relativa a la investigación sobre el tema.
+- Desarrollo y aplicación de estrategia didáctica que permita el uso educativo
+de recursos digitales de tecnología, en el proceso de enseñanza y aprendizaje
+del español como segunda lengua (L2).
+-
+
+Cursos-talleres de formación en esta área tanto para estudiantes -futuros
+
+docentes ELE- como para el profesorado.
+
+XI.
+
+ÍNDICE TENTATIVO DE LA TESIS
+
+Este contenido debe adaptarse a la investigación en proceso.
+Dedicatorias
+Agradecimientos
+Índice
+Índice de Figuras
+Índice de Tablas
+Abreviaturas y siglas Resumen en español
+Abstract
+I.
+
+Introducción / planteamiento del problema y justificación.
+
+II.
+
+Antecedentes/estado del arte.
+
+III.
+
+Fundamentación teórica.
+
+IV.
+
+Hipótesis o supuestos
+
+V.
+
+Objetivos.
+
+VI.
+
+Material y Métodos o Metodología
+
+VII.
+
+Resultados y discusión
+
+VIII.
+
+Conclusiones.
+
+IX.
+
+Bibliografía.
+
+X.
+
+Anexos.
+
+XI.
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+Abreu Márquez, E., Cabrera González, A. & Catasús Díaz, C. (2021). El uso de
+los medios audiovisuales: una experiencia en la enseñanza del español
+como lengua extranjera. Referencia Pedagógica, 9(3), 472-486.
+https://rrp.cujae.edu.cu/index.php/rrp/article/view/268/296
+Acevedo García, A. (2018). Aprendizaje del Español como Lengua Extranjera a
+través de la teoría de las inteligencias múltiples y de las tic. E-eleando. ELE
+en Red. UAH. https://ebuah.uah.es/dspace/handle/10017/34683
+Álvarez Ramos, E. (2017). La didáctica de la lengua en entornos virtuales de
+aprendizaje: el caso concreto de la enseñanza-aprendizaje del español
+como lengua extranjera y la plataforma Eleclips. Revista de Educación a
+Distancia, 17(55).
+Álvarez Valencia, J. A. & Mejía-Laguna, J. A. (2023). Retos y logros en la
+articulación de las Redes Sociales para el Aprendizaje de Lenguas
+(RESAL) en programas de formación de profesores de lenguas extranjeras,
+Signos, 56(111). http://dx.doi.org/10.4067/S0718-09342023000100004
+Barandela, A. M. & Abio, G, (2022). Cultura, territorio y memoria (de Nueva
+venecia): un análisis del videoclip cumbiana de Carlos Vives y su aplicación
+didáctica. Universidade Federal de Agoas, Maceió, Brasil.
+http://dx.doi.org/10.13140/RG.2.2.28458.95681
+Bejarano Criollo, S. N., Cárdenas Moyano, M. Y., Quishpe Hipo, L. A. (2023).
+Flipgrid: The video discussion platform to reinforce oral communication
+skills. Polo del Conocimiento, 8(7), 666-680.
+https://www.polodelconocimiento.com/ojs/index.php/es/article/view/5805/14
+468
+Bolarín Martínez, M. J. & Porto Currás, M. (2023). Recursos audiovisuales para
+la didáctica de la lengua extranjera. Revista de Educación a Distancia
+(RED), 23(76). https://revistas.um.es/red/article/view/563481
+Casañ Pitarch, R. (2019). Enseñanza de lenguas extranjeras a través de
+videojuegos: revisión de casos experimentales y prácticos en F. Olmo
+Cazevieille et al. (Eds.) Estudios de Lingüística Aplicada (27-36).
+Universitat Politecnica de Valencia.
+De Benito, B. & Salinas J.M. (2016). La investigación basada en diseño en
+Tecnología Educativa. RIITE. Revista Interuniversitaria en Tecnología
+Educativa. DOI: https://doi.org/10.6018/riite2016/260631
+Dirección General del Español en el Mundo (DGEM). (2021). El español en el
+mundo.https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/ElEspanol
+EnElMundo.aspx.
+
+Fernández Vítores, D. Dirección Académica del Instituto Cervantes. (2023). El
+español: una lengua viva. Informe 2023. Centro virtual Cervantes.
+https://cvc.cervantes.es/lengua/anuario/anuario_23/informes_ic/p04.htm
+García Barroso, L. (2020). Aprendiendo español al ritmo de Tik-Tok en el
+entorno virtual. Instituto Cervantes.
+https://cvc.cervantes.es/ensenanza/biblioteca_ele/publicaciones_centros/P
+DF/delhi_2020/09_garcia-barroso.pdf
+Gil Olivera, N. A. (2019). Ambiente virtual de aprendizaje: benificios y ventajas
+para enseñanza del francés como L2. Boletín Redipe, 8(11), 91-99.
+https://doi.org/10.36260/rbr.v8i11.852
+Grinnell, R. (1997). Social work research & evaluation: Quantitative and
+qualitative approaches (5a ed.). Itasca, Illinois: Peacock Publishers.
+Instituto Cervantes. (2019). El español, una lengua que hablan 580 millones de
+personas, 483 millones
+de
+ellos
+nativos.
+https://www.cervantes.es/sobre_instituto_cervantes/prensa/2019/noticias/prese
+ntacion_anuario_madrid.htm
+Lin, J. & Cheng Lee, L. (2022). El visionado de películas y series subtituladas
+en el aprendizaje de lengua española en los estudiantes chinos.
+MarcoELE, 34.
+https://www.redalyc.org/journal/921/92169591006/92169591006.pdf
+Martí Climent, A., & García Vidal, P. (2021). El videoling: uso educativo del
+vídeo en la enseñanza de la gramática. TEJUELO. Didáctica de La Lengua
+y La Literatura. Educación., 38. https://doi.org/10.17398/1988-8430.33.75
+Mercado-López, E. P., Mercado-López, C. R., & Vicario Solórzano, M. (2023).
+Análisis de los factores que limitan el uso del software de anatomía de RV
+3D Organon en Educación Superior. In R. Palacios-Díaz & A. EscuderoNahón (Eds.), Horizontes de la transformación digital (. Editorial
+Transdigital. https://doi.org/10.56162/transdigitalb18
+Rodríguez Ramírez, G. (2023). ¿Qué extranjeros viven en México? La Jornada.
+https://www.jornada.com.mx/2023/02/10/opinion/014a2pol
+Roses-Nieves, L & Barriel-Guevara, M. T. (2019). Propuesta didácticametodológica para el uso de materiales audiovisuales en las clases de
+Español como Lengua Extranjera. Maestro y Sociedad, 16(3), 506-519.
+https://maestroysociedad.uo.edu.cu/index.php/MyS/article/view/4952/429
+Roses-Nieves, L., Reynosa-Morales, M. & Barriel-Guevara, M. T. (2017).
+Desarrollo de la competencia sociocultural: uso de materiales audiovisuales
+en las clases de ELE en situaciones de inmersión sociocultural. Santiago
+(número especial), 93-106.
+https://santiago.uo.edu.cu/index.php/stgo/article/view/2576/2351
+
+Salinas, J. (2012). La investigación ante los desafíos de los escenarios de
+aprendizaje futuro. RED: Revista de Educación a Distancia, (32), 23
+Varela Ruiz, M., & Vives Varela, T. (2016). Autenticidad y calidad en la
+investigación educativa cualitativa: multivocalidad. Investigación en
+Educación Médica, 5 (19), 191–198.
+https://doi.org/10.1016/J.RIEM.2016.04.006
+Vega Rodríguez, A. M., & Suárez, C. D. (2017). El uso de los videojuegos como
+herramienta pedagógica para fortalecer y estimular la adquisición de léxico
+en el proceso de aprendizaje de francés como lengua extranjera con
+estudiantes de sexto semestre de una universidad pública colombiana.
+https://bdigital.uniquindio.edu.co/handle/001/4068
+Zabalegui, A. (2002). Más allá del dualismo cualitativo-cuantitativo. Enfermería
+clínica, 12(2), 74–79. https://doi.org/10.1016/S1130-8621(02)75850-6
+
+Ruth Aurelia Soto Fuentes
+
+Nivel de revisión: 02
+
+

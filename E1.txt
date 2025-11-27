@@ -1,0 +1,1163 @@
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Tecnolo
+
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 11 de diciembre de 2024
+
+Doctorado en Innovación en Tecnología Educativa
+Me permito presentar ante el H. Consejo Académico de la Facultad de Informática
+la siguiente solicitud de titulación por tesis de acuerdo con la fracción VII, artículos:
+45-54 y 55-58 del reglamento de titulación vigente.
+
+Nombre del Alumno: Nicolás Amado Moranchel
+No. de Expediente: 335527
+No. CVU: 2018094
+Correo electrónico: namadomoranchel@gmail.com
+Teléfono: 2447863207
+
+Línea de investigación sobre la cual se desarrollará el trabajo: Tecnología
+Educativa
+
+Responsable de la Asesoría: Dra. Verónica López Martínez
+Programas educativos que apoya: Doctorado en Innovación en Tecnología
+Educativa, Ingeniería en Software, Ingeniería en Computación.
+Línea de investigación del responsable: Tecnología Educativa
+
+Firma de aceptación:
+
+Número de veces que se a sometido esta propuesta al H. Consejo Académico de la
+Facultad: Primera vez ( X )
+
+2da. (
+
+)
+
+Más de 2 veces (
+
+)
+
+Semestre o Cuatrimestre actual del alumno: Primer
+Fecha de Ingreso al programa: Agosto 2024
+
+1
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+I. DATOS GENERALES
+● Título del Proyecto: "Desarrollo de una plataforma de aprendizaje interactivo
+para el desarrollo del pensamiento crítico en estudiantes de primer año de
+ingeniería"
+● Nombre del Alumno Responsable: Nicolás Amado Moranchel
+● Colaboradores (Directora): Dra. Verónica López Martínez
+● Centro o Lugar donde se Realiza Investigación: ITESM Campus Puebla
+● Tipo de Investigación: Investigación aplicada
+● Línea de Investigación: La aplicación de Tecnología Educativa innovadora en los
+ámbitos educativos y laborales.
+o El estudio de las transformaciones institucionales y personales que
+genera la innovación generada por la Tecnología Educativa en ambientes
+educativos y laborales.
+
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+La integración de la tecnología en la educación ha avanzado desde medios
+tradicionales como la radio y la televisión, hasta modernas plataformas de
+aprendizaje en línea y herramientas interactivas. Anderson & Dron, (2011) destacan
+que las tecnologías educativas han evolucionado en su capacidad para fomentar la
+interacción y la resolución de problemas en tiempo real, características que también
+son observadas por Pramono (2023), quienes añaden que las plataformas actuales
+permiten una mayor participación social y emocional de los estudiantes. Mientras
+que Greener (2022) subraya el impacto en el rendimiento académico, estos estudios
+coinciden en que la tecnología fomenta la colaboración y el pensamiento crítico,
+aunque Pramono (2023) enfatiza más el aspecto emocional y (Greener, 2022) el
+académico.
+Investigaciones en universidades muestran que la combinación de tecnología con
+metodologías pedagógicas innovadoras mejora significativamente las habilidades
+de pensamiento crítico, esenciales para el éxito laboral (Baghdadchi et al., 2020).
+El pensamiento crítico ha sido reconocido como una habilidad transversal esencial
+para los profesionales en ingeniería, ya que les permite no sólo analizar y resolver
+2
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+problemas técnicos, sino también tomar decisiones éticas y responsables en
+entornos complejos. En un mundo cada vez más globalizado y tecnológicamente
+más avanzado, los ingenieros enfrentan desafíos que requieren no sólo destrezas
+técnicas, sino también capacidad de evaluar situaciones, anticipar problemas y
+proponer soluciones innovadoras y responsables. El pensamiento crítico es una
+habilidad que involucra el análisis, la interpretación y la evaluación de la información
+para tomar decisiones informadas (Arancibia et al., 2022). Esta definición ha sido
+adoptada en investigaciones relacionadas con la educación en ingeniería, donde el
+desarrollo de esta competencia se ha convertido en un objetivo educativo crucial.
+En estudios recientes, se ha explorado como los estudiantes de ingeniería
+desarrollan esta competencia. Esto se ve reflejado en el análisis de Rojas et al.,
+(2019) donde se analiza los elementos del pensamiento crítico en estudiantes de
+ingeniería y arquitectura en una universidad, encontrando que no todos los
+elementos de esta habilidad estaban desarrollados, lo que nos indica la necesidad
+de aplicar estrategias pedagógicas dirigidas a mejorar las debilidades específicas
+en el pensamiento crítico. Este estudio destacó que los estudiantes presentaban
+fortalezas en los aspectos como el análisis de datos y la interpretación; pero
+mostraban deficiencias en áreas como la argumentación y la inferencia (Rojas et
+al., 2019). Estas brechas en el desarrollo del pensamiento crítico indican la
+necesidad de plantear estrategias pedagógicas dirigidas a mejorar las debilidades
+específicas de los estudiantes. Además, se observó que los estudiantes que
+recibieron instrucción explícita en pensamiento crítico a través de metodologías
+activas, como la resolución de problemas y el trabajo colaborativo, mostraron
+mejoras en comparación con aquellos que siguieron metodologías tradicionales.
+En este contexto, el pensamiento crítico influye en otras áreas de competencia de
+los estudiantes de ingeniería, por ejemplo, la capacidad de tomar decisiones
+basadas en datos y argumentos sólidos es una habilidad esencial en la ingeniería
+moderna, especialmente cuando se trata de resolver problemas complejos en los
+que las consecuencias de una mala decisión pueden ser significativos. Por lo tanto,
+los programas educativos que priorizan el pensamiento crítico no solo mejoran la
+capacidad de los estudiantes para enfrentar problemas técnicos, sino que también
+3
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+preparan a los futuros ingenieros para desempeñarse en roles de liderazgo, donde
+las decisiones éticas y responsables son clave.
+Una de las áreas de investigación en la enseñanza del pensamiento crítico en
+ingeniería ha sido la integración de plataformas interactivas y laboratorios remotos
+como herramientas pedagógicas. Estas tecnologías permiten que los estudiantes
+participen activamente en su proceso de aprendizaje, lo que ha demostrado ser
+clave para el desarrollo del pensamiento crítico. La participación activa no solo
+facilita el aprendizaje de conceptos técnicos, sino que también promueven la
+reflexión y el análisis, aspectos fundamentales del pensamiento crítico.
+En este sentido, Guerrero (2023) realizaron un estudio sobre la implementación de
+laboratorios remotos, obteniendo resultados significativos en la mejora del
+pensamiento crítico de los estudiantes. Este enfoque tecnológico ha demostrado ser
+efectivo para fomentar un aprendizaje reflexivo, ya que permite a los estudiantes
+experimentar con problemas técnicos en un entorno controlado, recibiendo
+retroalimentación en tiempo real. Esta investigación muestra la efectividad de las
+plataformas interactivas en el contexto de la educación en ingeniería.
+Además, el estudio de Flórez (2022) sobre estudiantes de ingeniería de sistemas
+muestra que las plataformas interactivas pueden facilitar el desarrollo del
+pensamiento crítico, aunque advierte que la falta de interacción física y
+retroalimentación inmediata puede limitar su efectividad. Esta investigación sugiere
+que las plataformas deben complementarse con estrategias pedagógicas
+adicionales para maximizar su impacto en el desarrollo de competencias críticas
+(Flórez et al., 2022).
+Estas tecnologías emergentes no solo mejoran el aprendizaje activo, sino que
+también fomentan una mentalidad crítica entre los estudiantes. Al interactuar con
+herramientas que simulan problemas del mundo real, los estudiantes son
+impulsados a analizar de manera crítica los datos que reciben y a tomar decisiones
+basadas en el razonamiento lógico.
+Los estudios sobre el desarrollo del pensamiento crítico en ingeniería se basan en
+una variedad de teorías y enfoques metodológicos. Uno de los marcos teóricos más
+influyentes ha sido el de Facione, quien propuso un enfoque del pensamiento crítico
+4
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+como una competencia cognitiva que incluye habilidades como la interpretación, el
+análisis, la evaluación y la inferencia. Esta teoría es muy utilizada para
+investigaciones de como los estudiantes de ingeniería pueden desarrollar estas
+habilidades a través de diferentes metodologías educativas.
+Por otro lado, el enfoque metodológico más utilizado es la investigación cuantitativa,
+con el uso de instrumentos de medición como el Watson-Glaser Critical Thinking
+Appraisal. Este instrumento ha sido validado en varios estudios y se ha utilizado
+para evaluar la efectividad de diferentes intervenciones pedagógicas, como en el
+estudio de Macedo (2022), donde se encontró una correlación positiva, aunque
+débil, entre el desarrollo del pensamiento crítico y el rendimiento académico en
+estudiantes de ingeniería, lo que sugiere que el rendimiento académico no siempre
+es un indicador directo del desarrollo de habilidades críticas.
+En cuanto a los métodos de implementación, (Arancibia et al., 2022) desarrolla un
+instrumento de medición del pensamiento crítico a través de las matemáticas,
+aplicado a estudiantes de ingeniería de primer año. Este instrumento ha permitido
+identificar deficiencias en el razonamiento lógico y la argumentación, lo que ofrece
+una herramienta valiosa para investigaciones que busquen evaluar la efectividad de
+las plataformas interactivas en la mejora de estas competencias.
+A pesar de los avances en la implementación de tecnologías educativas interactivas,
+aún existen brechas en la investigación. Un hallazgo es que, aunque estas
+plataformas pueden mejorar el pensamiento crítico, su impacto en el rendimiento
+académico sigue siendo inconsistente. Estudios como el de Mayor (2020)
+encontraron una relación débil entre el desarrollo del pensamiento crítico y el
+rendimiento académico en estudiantes de ingeniería, lo que sugiere que mejorar las
+competencias críticas no siempre se traduce en mejoras en el rendimiento (Mayor
+et al., 2020).
+Además, existe una escasez de estudios que midan el impacto a largo plazo de las
+plataformas interactivas en el desarrollo del pensamiento crítico. Si bien las
+investigaciones han demostrado que estas herramientas son efectivas en entornos
+controlados y a corto plazo, es necesario realizar más estudios que evalúen su
+efectividad en contextos más amplios.
+5
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Los estudios han revelado la necesidad de enfoques más holísticos para el
+desarrollo del pensamiento crítico. Además de utilizar tecnologías interactivas, los
+investigadores sugieren la implementación de metodologías híbridas que combinen
+lo mejor de los entornos presenciales y virtuales. La inclusión de plataformas
+colaborativas y el trabajo colaborativo en entornos físicos puede ser clave para
+superar las limitaciones de la enseñanza únicamente digital. A su vez es crucial que
+los programas educativos sigan diseñando evaluaciones robustas que no solo
+midan el desempeño académico, sino también el crecimiento de las habilidades
+críticas a lo largo del tiempo.
+El proyecto se basa en el enfoque constructivista, que concibe el aprendizaje como
+un proceso activo donde los estudiantes construyen nuevos conocimientos sobre
+sus experiencias previas. La tecnología se integra como una herramienta clave en
+este proceso, facilitando la interacción y la colaboración entre los estudiantes.
+Las variables principales serán las estrategias de enseñanza asistidas por
+tecnología, la participación de los estudiantes, el desarrollo de habilidades de
+pensamiento crítico y la aceptación de las tecnologías educativas. Se utilizará un
+análisis cuantitativo para evaluar el impacto de estas intervenciones tecnológicas
+mediante pruebas estandarizadas, análisis de las interacciones y de las
+percepciones de los estudiantes.
+
+III. JUSTIFICACIÓN
+En una era saturada tanto de información útil como de desinformación, la necesidad
+de cultivar habilidades de pensamiento crítico es crucial. Este estudio se centrará
+en estudiantes de primer año de ingeniería, quienes se encuentran en una etapa
+formativa clave para adquirir las competencias necesarias para resolver problemas
+complejos y enfrentar desafíos profesionales.
+Los estudiantes de primer año de ingeniería a menudo enfrentan desafíos que
+impactan en su desempeño académico y profesional. Entre estos, se encuentran la
+falta de pensamiento crítico, que limita su capacidad para resolver problemas
+complejos de manera efectiva, ya que tienden a aplicar fórmulas de forma mecánica,
+sin comprender el significado y la utilidad de los resultados obtenidos. Además, el
+6
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+aprendizaje pasivo, caracterizado por la baja participación y la dependencia de un
+aprendizaje receptivo dificulta el trabajo en equipo y la toma de decisiones
+colaborativas. Estas deficiencias son particularmente preocupantes en contextos
+profesionales que necesitan analizar información evaluar su veracidad y aplicar la
+para resolver problemas reales. Según Macredie et al., (2022) y Putra et al., (2023)
+esta falta de competencia afecta significativamente el desempeño académico de los
+estudiantes y compromete su preparación para enfrentar los retos de su futuro
+profesional. Esto subraya la importancia de implementar estrategias educativas que
+promuevan el desarrollo del pensamiento crítico y la colaboración desde los
+primeros semestres de su formación académica.
+A través del desarrollo y uso de una plataforma de aprendizaje interactivo, este
+proyecto busca no solo mejorar las capacidades de análisis y evaluación crítica de
+los estudiantes. Estas herramientas permiten la participación activa y proporcionan
+retroalimentación inmediata, lo que facilita un aprendizaje más profundo y
+significativo (Caratozzolo et al., 2022; Pramono et al., 2023).
+Investigaciones han demostrado que el pensamiento crítico es una competencia
+central en la educación superior y que influye en el rendimiento académico y la
+preparación para enfrentar los retos del mundo laboral (Macedo, 2022; Rojas et al.,
+2019). Este proyecto no solo busca mejorar estas habilidades, sino también
+contribuir a la transformación de las estrategias educativas en el ámbito de la
+ingeniería, preparando a los estudiantes para enfrentar con éxito los desafíos de un
+mundo globalizado y tecnológicamente avanzado.
+El Tecnológico de Monterrey, campus Puebla, proporciona un entorno adecuado
+para la implementación de esta intervención ya que cuenta con la infraestructura
+necesaria. Los estudiantes de primer año de ingeniería, quienes son el foco de esta
+investigación, están en una etapa formativa crítica, donde la integración de
+plataformas de aprendizaje interactivo puede influir significativamente en el
+desarrollo de su competencia de pensamiento crítico. Este entorno facilita tanto la
+implementación de la intervención como la evaluación de su impacto en los
+estudiantes.
+
+7
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+El desarrollo de una plataforma de aprendizaje interactivo ofrece una solución
+transformadora para este problema. Estas plataformas, que integran herramientas
+digitales especializadas, proporcionan experiencias de aprendizaje adaptativas e
+inmersivas (Greener, 2022), que fomentan la reflexión crítica, la discusión y la
+evaluación continua del progreso del estudiante en habilidades de razonamiento
+complejas (Caratozzolo et al., 2022; Pramono et al., 2023).
+
+IV. DESCRIPCIÓN DEL PROBLEMA
+En el ámbito de la educación en ingeniería, el desarrollo de habilidades como el
+pensamiento crítico es esencial para preparar a los estudiantes a enfrentar los
+desafíos complejos de su carrera profesional. Según Cárdenas-Oliveros et al.,
+(2022), esta competencia permite a los ingenieros conceptualizar, analizar,
+sintetizar y evaluar soluciones a problemas reales, habilidades indispensables para
+su desempeño eficiente en el mundo laboral. Sin embargo, en el contexto específico
+de estudiantes de primer año de ingeniería del Tecnológico de Monterrey, campus
+Puebla, se observan deficiencias significativas en esta competencia. Estas
+deficiencias no son un fenómeno aislado, ya que investigaciones como la de
+Arancibia et al., (2021) destacan que estudiantes de primer año de ingeniería suelen
+presentar debilidades en habilidades críticas como la argumentación y el
+razonamiento.
+La falta de desarrollo del pensamiento crítico en los estudiantes no sólo afecta su
+rendimiento académico, sino que limita su capacidad para generar soluciones
+innovadoras y adaptarse a las demandas del entorno profesional. Esta carencia está
+influenciada por un enfoque tradicional de enseñanza que prioriza la memorización
+sobre la reflexión crítica y la resolución de problemas complejos. Además, las
+estrategias pedagógicas actuales no parecen estar alineadas con las necesidades
+de un mundo en constante cambio, donde la capacidad de análisis crítico es cada
+vez más crucial.
+Para analizar esta problemática, se diseñó y aplicó un instrumento de medición
+estructurado con el objetivo de recolectar información clave sobre la percepción de
+los estudiantes respecto al pensamiento crítico, las limitaciones de los métodos de
+8
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+enseñanza actuales y el potencial de las plataformas interactivas como
+herramientas de aprendizaje (Anexo I). Este instrumento incluye preguntas
+diseñadas para evaluar tres dimensiones fundamentales: la importancia del
+pensamiento crítico, la efectividad de las metodologías pedagógicas tradicionales y
+la disposición hacia el uso de tecnologías educativas.
+El diseño del instrumento se basa en las competencias críticas en el ámbito de la
+ingeniería, metodologías pedagógicas y el impacto de la tecnología educativa en el
+aprendizaje. Se generaron preguntas que reflejan constructos esenciales para la
+investigación, asegurando que estén alineadas con los objetivos de estudio.
+Las preguntas se organizaron en torno a tres dimensiones principales:
+1. Percepción sobre la importancia del pensamiento crítico. Se incluyeron
+afirmaciones para medir como los estudiantes valoran estas habilidades y su
+impacto en la resolución de problemas, el análisis crítico y la toma de
+decisiones en su área de estudio.
+2. Efectividad de los métodos tradicionales de enseñanza. Estas preguntas
+exploran la percepción de los estudiantes sobre clases y métodos
+tradicionales, evaluando si éstas contribuyen al desarrollo del pensamiento
+crítico.
+3. Disposición del uso de plataformas interactivas. Esta sección mide la actitud
+de los estudiantes hacia la tecnología educativa, enfocándose en la
+percepción de su efectividad para promover habilidades críticas mediante el
+aprendizaje activo y colaborativo.
+El enfoque metodológico se basó en una escala Likert de 5 puntos, que permite
+medir la intensidad de las percepciones de los estudiantes de manera cuantitativa.
+Esto facilita la identificación de patrones y tendencias en las respuestas,
+proporcionando datos estadísticamente relevantes que respaldan los objetivos de
+la investigación.
+Adicionalmente, se incluye un consentimiento informado, asegurando la aceptación
+de los estudiantes para participar en el estudio de manera voluntaria. El instrumento
+fue aplicado a una muestra de 90 estudiantes de primer año de ingeniería,
+seleccionados mediante un muestreo no probabilístico por conveniencia. Este grupo
+9
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+fue elegido debido a que se encuentran en etapa formativa donde el desarrollo de
+habilidades de pensamiento crítico es esencial para su éxito académico y
+profesional.
+Los resultados de la encuesta muestran que el 93% de los estudiantes reconocen
+el pensamiento crítico como una habilidad esencial para resolver problemas
+relacionados con su área de estudio, como se muestra en la figura 1. Asimismo, la
+figura 2 evidencia que un porcentaje similar de estudiantes considera que el
+desarrollo de habilidades de análisis y evaluación crítica tendría un impacto positivo
+en su desempeño académico. Estos resultados refuerzan la importancia de integrar
+el pensamiento crítico como un eje central en las estrategias educativas, que
+permita fomentar competencias que no solo mejoren el rendimiento académico, sino
+que también preparen a los estudiantes para enfrentar los desafíos propios de su
+disciplina.
+Figura 1.
+Percepción de la utilidad del pensamiento crítico
+
+Nota. Distribución de respuestas sobre la percepción de la utilidad del pensamiento crítico para
+resolver problemas en el área de estudio, basada en los resultados de estudiantes de primer año de
+ingeniería.
+
+10
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Figura 2.
+Impacto de las habilidades críticas en el desempeño académico
+
+Nota. Distribución de respuestas sobre la percepción de los estudiantes de primer año de ingeniería
+respecto al impacto de mejorar sus habilidades de análisis y evaluación crítica en su desempeño
+académico.
+
+En otros resultados, en la figura 3 y en la figura 4 observamos que más del 51% de
+los estudiantes encuestados consideran que los métodos tradicionales de
+enseñanza limitan su capacidad para desarrollar el pensamiento crítico, mientras
+que el 82% señala la necesidad de implementar nuevas metodologías de
+enseñanza para mejorar esta habilidad. Estos resultados evidencian la demanda de
+enfoques educativos actualizados que promuevan el desarrollo del pensamiento
+crítico, esencial para analizar, evaluar y resolver problemas en contextos complejos.
+Así, se hace evidente la importancia de transformar las estrategias pedagógicas
+tradicionales, orientándolas hacia un modelo que potencialice el proceso de
+enseñanza-aprendizaje y responda a las necesidades de los estudiantes en el
+entorno contemporáneo.
+
+11
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Figura 3.
+Limitaciones del Aprendizaje Pasivo en el Desarrollo del Pensamiento Crítico.
+
+Nota. Distribución de respuestas sobre la percepción de los estudiantes de primer año de ingeniería
+respecto a las limitaciones del aprendizaje pasivo para desarrollar su capacidad de pensamiento
+crítico.
+
+Figura 4.
+Necesidad de Nuevas Metodologías para Fortalecer el Pensamiento Crítico.
+
+Nota. Distribución de respuestas sobre la percepción de los estudiantes de primer año de ingeniería
+respecto a la necesidad de implementar nuevas metodologías para mejorar su capacidad crítica.
+
+12
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+En relación con la disposición hacia el uso de tecnologías educativa, los resultados
+muestran que el 80% de los estudiantes encuestados perciben el potencial de una
+plataforma interactiva para mejorar el aprendizaje colaborativo y fomentar el
+desarrollo de habilidades críticas, como se observa en la figura 5. Además, en la
+figura 6 se muestra que el 90% valora la retroalimentación inmediata que estas
+herramientas ofrecen, subrayando su importancia para optimizar el proceso de
+aprendizaje. Estos datos resaltan la relevancia de incorporar tecnologías
+interactivas que respondan a las necesidades actuales de los estudiantes,
+potenciando tanto la colaboración como el pensamiento crítico en entornos
+educativos dinámicos.
+Figura 5.
+Potencial de una Plataforma Interactiva en el Aprendizaje Colaborativo y el Análisis Crítico
+
+Nota. Distribución de respuestas sobre la percepción de los estudiantes de primer año de ingeniería
+respecto al potencial de una plataforma interactiva para facilitar el aprendizaje colaborativo y mejorar
+la capacidad de análisis crítico.
+
+13
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Figura 6.
+Impacto de la Retroalimentación Inmediata en el Razonamiento Crítico a través de una Plataforma
+
+Nota. Distribución de respuestas sobre la percepción de los estudiantes de primer año de ingeniería
+respecto a cómo la retroalimentación inmediata mediante una plataforma podría mejorar su
+razonamiento crítico.
+
+En resumen, estos datos no sólo reflejan una necesidad de transformar las
+estrategias pedagógicas actuales, sino también justifican la necesidad de una
+plataforma de aprendizaje interactivo como una solución innovadora. Este proyecto
+tiene el objetivo de integrar tecnologías educativas para superar las limitaciones de
+los métodos tradicionales y fomentar un aprendizaje activo, crítico y colaborativo en
+los estudiantes de ingeniería.
+El Tecnológico de Monterrey, campus Puebla, ofrece un entorno adecuado para
+esta investigación, ya que cuenta con la infraestructura tecnológica y pedagógica
+necesaria para la implementación de esta plataforma. A través de esta intervención,
+no sólo se busca analizar el estado actual del pensamiento crítico en los
+estudiantes, sino también proponer un cambio tangible en las prácticas educativas.
+Esto como respuesta a un mundo globalizado que requiere profesionales capaces
+de
+
+adaptarse,
+
+innovar
+
+y
+
+resolver
+
+problemas
+
+complejos
+
+con
+
+soluciones
+
+fundamentadas y creativas.
+
+14
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+V. PLANTEAMIENTO TEÓRICO
+Preguntas de investigación
+¿Cómo se puede evaluar el impacto que tiene el desarrollo e implementación de
+una plataforma de aprendizaje interactivo en el desarrollo del pensamiento crítico
+en estudiantes de primer año de ingeniería en el Tecnológico de Monterrey, campus
+Puebla?
+¿Cuáles son las diferencias en el desarrollo de la competencia de pensamiento
+crítico entre los estudiantes que utilizan la plataforma interactiva y lo que trabajan
+bajo un método tradicional?
+¿Qué percepciones tienen los estudiantes sobre el uso de la plataforma de
+aprendizaje interactivo para el desarrollo de su pensamiento crítico?
+¿Existe algún modelo o plataforma que pueda evaluar el impacto del aprendizaje
+interactivo y el pensamiento crítico en estudiantes de primer año de ingeniería en la
+educación superior?
+
+Hipótesis, Supuestos y/o proposiciones de investigación
+Hipótesis de investigación.
+El desarrollo e implementación de una plataforma de aprendizaje interactivo
+mejorará significativamente la competencia de pensamiento crítico en los
+estudiantes de primer año de ingeniería, en comparación con aquellos que siguen
+métodos de enseñanza tradicionales.
+
+VI. OBJETIVOS
+Objetivo general:
+Diseñar, desarrollar y evaluar una plataforma de aprendizaje interactivo que
+potencie el desarrollo de la competencia de pensamiento crítico en estudiantes de
+primer año de ingeniería, analizando su impacto en la formación académica y las
+habilidades cognitivas necesarias para analizar, evaluar y aplicar conocimientos en
+situaciones complejas, a través del uso de herramientas digitales e interactivas.
+
+15
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Objetivos específicos:
+1. Desarrollar
+
+una
+
+plataforma
+
+de
+
+aprendizaje
+
+interactivo,
+
+diseñada
+
+específicamente para fomentar el desarrollo del pensamiento crítico en
+estudiantes de primer año de ingeniería.
+2. Diseñar un programa de intervención utilizando la plataforma de aprendizaje
+interactivo.
+3. Evaluar el impacto de la plataforma de aprendizaje interactivo en el desarrollo
+del pensamiento crítico.
+4. Comparar el desempeño de estudiantes que utilizan la plataforma de
+aprendizaje interactivo con un grupo de control.
+5. Analizar la percepción de los estudiantes sobre el uso de la plataforma de
+aprendizaje interactivo.
+
+VII. METODOLOGÍA
+La metodología de estudio se desarrollará bajo un enfoque cuantitativo, mediante
+un diseño cuasiexperimental pre y post intervención. Este enfoque permitirá medir
+el efecto de la intervención al comparar las diferencias en el desarrollo de la
+competencia de pensamiento crítico entre un grupo experimental y un grupo de
+control de estudiantes de primer año de ingeniería.
+La población objetivo de este estudio son estudiantes inscritos en el primer año de
+ingeniería del Tecnológico de Monterrey campus Puebla en el periodo agostodiciembre 2025. La muestra estará integrada por 60 estudiantes seleccionados
+mediante un muestreo no probabilístico por conveniencia, distribuidos en dos
+grupos: un grupo experimental que utilizarán la plataforma interactiva como
+herramienta de aprendizaje, y un grupo de control que seguirán métodos de
+enseñanza tradicionales. Los criterios de inclusión para participar en el estudio son
+estar inscritos en el primer año de ingeniería y aceptar el consentimiento informado.
+Se excluirán del estudio los estudiantes que no participen en todas las etapas de
+este o que no completen las evaluaciones pre o post intervención.
+
+16
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Los instrumentos de recolección de datos serán el Watson-Glaser Critical Thinking
+Appraisal (WGCTA), el Technology Acceptance Model (Modelo TAM) y los registros
+de calificaciones académicas.
+El WGCTA será el principal instrumento para evaluar el pensamiento crítico de los
+estudiantes antes y después de la intervención. Está diseñado para medir
+habilidades como inferencia, deducción y evaluación de argumentos, que son
+esenciales en ingeniería (Watson & Glaser, 2002). Se aplicará a ambos grupos con
+el objetivo de medir los cambios en el desarrollo de esta competencia. De acuerdo
+con Cabero (2018) el TAM es útil para evaluar la percepción de la tecnología por
+parte de los usuarios, midiendo variables clave como la utilidad percibida y la
+facilidad de uso (Cabero-Almenara & De Los Ríos, 2018). Se aplicarán encuestas
+en escala Likert de cinco puntos y se aplicarán exclusivamente al grupo
+experimental. Por último, se recopilarán las calificaciones académicas obtenidas en
+actividades específicas relacionadas con el pensamiento crítico, las cuales se
+usarán como un indicador adicional del desempeño de los estudiantes.
+El estudio se llevar en tres fases; en la primera fase (Fase de Preparación), se
+llevará a cabo el desarrollo de la plataforma interactiva mediante la creación de
+actividades enfocadas en habilidades del pensamiento crítico, como resolución de
+problemas, análisis de casos y retroalimentación automatizada. Además, se
+realizará una capacitación breve a los estudiantes del grupo experimental sobre el
+uso de la plataforma. Se aplicará el WGCTA a ambos grupos como pre-intervención,
+y se aplicaran encuestas iniciales basadas en el Modelo TAM al grupo experimental
+para evaluar la percepción inicial del uso de plataformas. En la segunda fase (Fase
+de Intervención), los estudiantes del grupo experimental trabajarán con la
+plataforma interactiva a lo largo de un semestre, participando en actividades
+diseñadas específicamente para fomentar el pensamiento crítico. Por otro lado, el
+grupo de control recibirá clases tradicionales con actividades equivalentes en
+contenido y objetivos, pero sin acceso a la plataforma. En esta fase, se supervisará
+el cumplimiento de las actividades y se proporcionará soporte sobre la plataforma
+al grupo experimental. En la tercera etapa (Fase de Evaluación) se aplicará
+nuevamente el WGCTA a ambos grupos para medir los cambios en el desarrollo del
+17
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+pensamiento crítico. Paralelo a ello, el grupo experimental completará las encuestas
+del Modelo TAM post intervención para evaluar los posibles cambios en su
+percepción de la plataforma. Por último, se recopilarán las calificaciones finales
+obtenidas en actividades relacionadas con el pensamiento crítico, las cuales se
+utilizarán para analizar correlaciones con los resultados del WGCTA.
+En análisis de datos se realizará utilizando técnicas estadísticas descriptivas e
+inferenciales. En primer lugar, se calcularán medias, medianas y desviaciones
+estándar para describir las puntuaciones obtenidas en el WGCTA y las encuestas
+basadas en el Modelo TAM. En cuanto a la estadística inferencial, se empleará la
+Prueba t de Student para comparar las puntuaciones pre y post intervención del
+WGCTA entre el grupo experimental y el grupo de control, mientras que el ANOVA
+se utilizará para identificar diferencias significativas en la percepción de utilidad de
+la plataforma según las encuestas del Modelo TAM y las diferencias en las
+puntuaciones del WGCTA. Todos los datos serán procesados mediante software
+estadístico Minitab, lo que garantizará precisión y confiabilidad en el análisis.
+Las consideraciones éticas de este estudio garantizan el respeto a los derechos y
+bienestar de los participantes. La participación de los estudiantes será
+completamente voluntaria, previa aceptación de un consentimiento informado que
+detallará los objetivos y procedimientos del estudio. Se garantizará la
+confidencialidad y anonimato de los datos recolectados, asegurando que la
+información proporcionada no pueda ser asociada a ningún estudiante de manera
+individual. Además, el grupo de control recibirá contenido educativo equivalente en
+nivel y calidad al del grupo experimental, de modo que su proceso de aprendizaje
+no se vea afectado negativamente, asegurando con esto que el estudio se llevará a
+cabo de manera ética y responsable.
+La intervención del estudio se llevará a cabo alineándose con los semestres
+académicos de febrero-junio 2025, agosto-diciembre 2025 y febrero-junio 2026.
+Durante el semestre febrero-junio 2025, se realizará la fase de preparación y diseño,
+que incluirá el diseño del programa de intervención, el desarrollo de lecciones y
+actividades de la plataforma interactiva, así como la preparación de instrumentos de
+
+18
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+recolección de datos. En los primeros meses, se llevará a cabo la preparación de la
+plataforma de aprendizaje interactivo.
+La intervención activa se desarrollará durante el semestre agosto-diciembre 2025,
+aplicando el programa de intervención en el grupo experimental, mientras que el
+grupo de control continuará con métodos tradicionales de enseñanza. En este se
+Mestre se estará recolectando datos de manera continua mediante encuestas,
+cuestionarios y análisis de desempeño. Se realizará un monitoreo constante y se
+harán ajustes necesarios en el programa de intervención. Al finalizar la intervención
+se aplicarán los instrumentos de evaluación post-intervención WGCTA y del Modelo
+TAM para medir los cambios en el pensamiento crítico de los estudiantes, así como
+su percepción en el uso de la plataforma.
+En el semestre febrero-junio 2026 se realizará el análisis de los datos recolectados
+para comparar el desempeño entre el grupo experimental y el grupo de control.
+Finalmente, se procederá con la redacción del informe final que incluirá la
+interpretación de los resultados, la preparación de presentación de los hallazgos y
+la difusión de los resultados a través de posibles publicaciones académicas que
+contribuyan al campo educativo.
+
+VIII. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+Se espera que los estudiantes del grupo experimental muestren una mejora
+significativa en sus habilidades de pensamiento crítico, lo que medirá el WatsonGlaser Critical Thinking Appraisal. Además, se espera que los estudiantes perciban
+la plataforma de manera positiva, como lo medirá el TAM, lo que indica que las
+herramientas interactivas facilitan el aprendizaje y aumentan el compromiso de los
+estudiantes (Cabero-Almenara & De Los Ríos, 2018).
+1. Evaluación del Impacto de la Tecnología Educativa:
+a. Mejora en las Habilidades de Pensamiento Crítico: Se espera que los
+estudiantes de primer año de ingeniería que utilicen la plataforma de
+aprendizaje interactivo muestren una mejora significativa en sus
+habilidades de pensamiento crítico en comparación con aquellos que
+19
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+siguen métodos de enseñanza tradicionales. Esto se reflejará en los
+resultados de las evaluaciones del Watson-Glaser Critical Thinking
+Appraisal y en las encuestas de percepción basadas en el modelo de
+aceptación de la tecnología (TAM).
+b. Aumento en la Participación y Compromiso: Se anticipa un aumento
+en los niveles de participación y compromiso de los estudiantes con el
+proceso de aprendizaje. Esto se medirá a través de análisis de
+contenido de las interacciones en la plataforma, encuestas de
+percepción y entrevistas semiestructuradas.
+c. Mejora en el Desempeño Académico: Los estudiantes que participan
+en el grupo experimental deberían mostrar un mejor desempeño
+académico en las evaluaciones del curso en comparación con el grupo
+de control. Esto se medirá mediante el análisis de las calificaciones y
+el rendimiento en tareas específicas.
+d. Aceptación de la Tecnología Educativa: Se espera que los estudiantes
+tengan una actitud positiva hacia el uso de la plataforma de
+aprendizaje interactivo, mostrando una alta aceptación de las
+tecnologías educativas. Esto se evaluará mediante las encuestas TAM
+y entrevistas.
+2. Posibles Aplicaciones. Los resultados de este estudio podrían tener
+aplicación directa en:
+a. Diseño Curricular: Los hallazgos del estudio pueden utilizarse para
+informar y mejorar el diseño curricular en los programas de ingeniería,
+integrando más plataformas de aprendizaje interactivo y tecnologías
+educativas para fomentar habilidades críticas y participativas.
+b. Formación de Profesores: Los resultados pueden servir como base
+para desarrollar programas de formación continua para profesores,
+enfocándose en el uso eficaz de tecnologías interactivas y
+metodologías pedagógicas que promuevan el pensamiento crítico.
+c. Política Educativa y Toma de Decisiones: Los resultados del estudio
+podrían influir en la creación de políticas educativas a nivel
+20
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+institucional o nacional, promoviendo la adopción de tecnologías
+educativas en la enseñanza superior.
+3. Uso del Proyecto:
+a. Implementación en Instituciones Educativas: Los resultados del
+estudio pueden ser implementados en instituciones de educación
+superior para mejorar la calidad de la enseñanza y el aprendizaje en
+cursos de ingeniería, así como en otras disciplinas.
+b. Difusión de Conocimientos: Los hallazgos pueden ser compartidos a
+través de publicaciones académicas, conferencias y talleres,
+contribuyendo al cuerpo de conocimiento sobre el uso de tecnología
+educativa en el desarrollo del pensamiento crítico.
+c. Generación de Nuevas Investigaciones: El proyecto puede servir
+como punto de partida para futuras investigaciones, explorando otras
+áreas del aprendizaje y diferentes niveles educativos, así como
+adaptaciones de la plataforma para diversos contextos y disciplinas.
+d. Impacto Social y Profesional: Al mejorar las habilidades de
+pensamiento crítico en los estudiantes, el proyecto contribuye a
+preparar mejor a los futuros ingenieros para enfrentar desafíos
+complejos en sus carreras profesionales y en la sociedad en general,
+fomentando ciudadanos críticos y competentes.
+
+IX. INDICE TENTATIVO DE LA TESIS
+Dedicatorias.
+Agradecimientos.
+Índice.
+Índice de Figuras
+Índice de Tablas
+Abreviaturas y siglas
+Resumen en español
+Abstract.
+I.
+
+Datos Generales
+21
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+II.
+
+Antecedentes.
+
+III.
+
+Justificación
+
+IV.
+
+Descripción del Problema
+
+V.
+
+Planteamiento Teórico.
+
+VI.
+
+Objetivos
+
+VII.
+
+Metodología
+
+VIII.
+
+Resultados Esperados.
+
+X.
+
+Bibliografía
+
+XI.
+
+Anexos.
+
+22
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+X. REFERENCIAS BIBLIOGRÁFICAS
+Anderson, T. & Dron, J. (2011). Three Generations of Distance Education
+Pedagogy. The International Review of Research in Open and Distributed
+Learning, 80–97. https://doi.org/https://doi.org/10.19173/irrodl.v12i3.890
+Arancibia, S., Maréchal, M., Neira, T. & Abarca, K. (2021, 29. June). Creación de
+un Instrumento de medición pensamiento crítico a través de la matemática:
+Una aplicación a estudiantes de ingeniería de primer año universitario.
+Revista de Estudios y Experiencias En Educación, 46, 239–260.
+Arancibia, S., Maréchal, M., Neira, T. & Abarca, K. (2022). Creación de un
+instrumento de medición del pensamiento crítico a través de la
+matemáticaUna aplicación a estudiantes de ingeniería de primer año
+universitario. Revista de Estudios y Experiencias En Educación, 21(46), 239–
+260. https://doi.org/10.21703/0718-5162.v21.n46.2022.013
+Baghdadchi, S., Nemerever, Z., Hadjipieris, P., Serslev, S. & Sandoval, C. (2020,
+September 10). Creating Environments for Critical Thinking: Building Upon
+Multiple Choice Problems in Electrical Engineering Education.
+https://doi.org/10.18260/1-2--32559
+Cabero-Almenara, J. & De Los Ríos, J. L. P. D. (2018). Validación del modelo TAM
+de adopción de la Realidad Aumentada mediante ecuaciones estructurales.
+Estudios Sobre Educacion, 34, 129–153. https://doi.org/10.15581/004.34.129153
+Caratozzolo, P., Lara-Prieto, V., Hosseini, S. & Membrillo-Hernández, J. (2022).
+The use of video essays and podcasts to enhance creativity and critical
+thinking in engineering. International Journal on Interactive Design and
+Manufacturing, 16(3), 1231–1251. https://doi.org/10.1007/s12008-022-009528
+Cárdenas-Oliveros, Rodriguez-Borges, J. A. ;, ; Pérez-Rodríguez, C. G., ValenciaZambrano, J. A. ; & Xavier H. (2022). Desarrollo del pensamiento crítico:
+Metodología para fomentar el aprendizaje en ingeniería. Revista de Ciencias
+Sociales, XXVIII. https://www.redalyc.org/articulo.oa?
+Flórez, T., Sandoval, A., Peña, M., Parra, N., Ramírez, C., Garzón, P. & Cortés, J.
+(2022). Habilidades de pensamiento crítico en estudiantes de Ingeniería de
+Sistemas en modalidad virtual. CITAS, 8(2).
+https://doi.org/https://doi.org/10.15332/22563067.7947
+Greener, S. (2022). The tensions of student engagement with technology. In
+Interactive Learning Environments (Vol. 30, Issue 3, pp. 397–399). Routledge.
+https://doi.org/10.1080/10494820.2022.2048550
+Guerrero, M. & Concari, S. B. (2023). Desarrollo del pensamiento crítico en
+estudiantes de Ingeniería mediante una estrategia didáctica que integra
+laboratorios remotos sobre circuitos eléctricos: primera intervención. Revista
+de Enseñanza de La Física, 35(2), 45–62.
+https://doi.org/10.55767/2451.6007.v35.n2.43684
+Macedo, A. (2022). Pensamiento crítico y rendimiento académico en estudiantes
+de último ciclo en FIEECS-UNI. Facultad de Ingeniería, Estadística y Ciencias
+Sociales- Universidad Nacional de Ingeniería, 141–199.
+https://doi.org/https://doi.org/10.21754/iecos.v0i24.1612
+23
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Macredie, R. D., Shepperd, M., Turchi, T. & Young, T. (2022). Exploring Student
+Engagement and Outcomes: Experiences from Three Cycles of an
+Undergraduate Module. http://arxiv.org/abs/2212.11682
+Mayor, S., Tarma, W. N. & Mayor, J. (2020). Influencia del programa de
+pensamiento crítico en el rendimiento académico en el área de matemática de
+los estudiantes de la Facultad de Ingeniería de Minas de la UNCP.
+Prospectiva Universitaria, 17(1), 99–107.
+https://doi.org/10.26490/uncp.prospectivauniversitaria.2020.17.1392
+Pramono, R. B., Surjaningrum, E. R. & Yoenanto, N. H. (2023). The Use of
+Technology at the Higher Education Level and Student Engagement: A MetaAnalysis. Journal of Educational, Health and Community Psychology, 12(2).
+Putra, P. D. A., Sulaeman, N. F., Supeno & Wahyuni, S. (2023). Exploring
+Students’ Critical Thinking Skills Using the Engineering Design Process in a
+Physics Classroom. Asia-Pacific Education Researcher, 32(1), 141–149.
+https://doi.org/10.1007/s40299-021-00640-3
+Rojas, Y., Álvarez, J., Espejo, R. & Tejada, R. E. (2019, 12. December). Desarrollo
+de los elementos del pensamiento crítico y su incidencia en la formación
+universitaria. RevYachay, 8, 530–534.
+Watson, Goodwin. & Glaser, Edwin. (2002). Watson-Glaser critical thinking
+appraisal, UK edition : practice test. Psychological Corporation.
+
+24
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+XI. ANEXOS
+ANEXO I
+Instrumento de Medición sobre la Necesidad de una Plataforma Interactiva
+para el Desarrollo del Pensamiento Crítico en Estudiantes de Ingeniería
+
+Consentimiento Informado
+Este cuestionario forma parte de una investigación sobre la necesidad de desarrollar una
+plataforma interactiva para fomentar el pensamiento crítico en estudiantes de ingeniería. Su
+participación es completamente voluntaria y confidencial, y no se le pedirá ninguna información
+personal que permita identificarle de manera directa. Los datos recopilados serán utilizados
+únicamente con fines académicos y se analizarán de forma general sin identificar a ningún
+participante individual. No existen riesgos asociados a su participación, y sus respuestas
+contribuirán a mejorar el desarrollo de competencias críticas en el ámbito educativo. Si en cualquier
+momento desea dejar de participar, puede hacerlo sin ninguna consecuencia. Al continuar, usted
+reconoce haber leído esta información y acepta participar en el estudio de manera voluntaria.
+
+Sección 1: Información Demográfica
+Edad: _______
+Género:
+
+Entrada:
+
+☐Mujer
+
+☐Hombre
+
+☐Ciencias Aplicada
+
+☐No binario
+
+☐Bioingeniería y
+Procesos Químicos
+
+☐Prefiero no
+decirlo
+
+☐Otro: ______
+
+☐Computación y
+Tecnologías de Información
+
+☐Innovación y
+Transformación
+
+Sección 2: Percepción de la Necesidad de Habilidades de Pensamiento
+Crítico
+Pregunta
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Completamente
+en desacuerdo
+
+En
+desacuerdo
+
+Neutral
+
+De
+acuerdo
+
+Completamente
+de acuerdo
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+Me resulta difícil analizar situaciones complejas y
+formular soluciones adecuadas.
+Considero que las habilidades de pensamiento
+crítico me ayudaran a resolver problemas en mi área
+de estudio
+Mejorar mis habilidades de análisis y evaluación
+crítica beneficiaría mi desempeño académico
+Creo que la capacidad de interpretar información de
+manera crítica es esencial para mi formación
+profesional.
+Me gustaría desarrollar habilidades que me
+permitan evaluar de manera efectiva los datos y la
+información que utilizo
+
+Sección 3: Limitaciones de los Métodos de Enseñanza Tradicionales en el
+Desarrollo del Pensamiento Crítico
+Pregunta
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Completamente
+en desacuerdo
+
+En
+desacuerdo
+
+Neutral
+
+De
+acuerdo
+
+Completamente
+de acuerdo
+
+25
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Siento que la mayoría de las clases se enfocan más
+en la memorización que en el análisis crítico de los
+conceptos.
+Considero que el aprendizaje pasivo (clases
+tradicionales) limita mi capacidad para pensar
+críticamente.
+Percibo una falta de oportunidades para aplicar el
+conocimiento en situaciones prácticas y de la vida
+real.
+Me gustaría que las clases tuvieran un enfoque
+más interactivo y práctico para desarrollar mejor
+mis habilidades críticas.
+Creo que es necesario implementar nuevas
+metodologías para mejorar la capacidad crítica de
+los estudiantes en ingeniería.
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+Sección 4: Potencial de una Plataforma Interactiva para el Desarrollo del
+Pensamiento Crítico
+Pregunta
+Creo que una plataforma interactiva facilitaría el
+aprendizaje colaborativo y mejoraría mi capacidad
+de análisis crítico.
+La posibilidad de recibir retroalimentación
+inmediata mediante una plataforma me ayudaría a
+mejorar mi razonamiento crítico.
+Pienso que una plataforma interactiva permitiría
+un aprendizaje más activo y menos dependiente
+de la memorización.
+Me gustaría tener acceso a recursos digitales
+interactivos que fomenten la aplicación del
+conocimiento en situaciones prácticas.
+Me motiva la idea de utilizar herramientas
+digitales para reflexionar y profundizar en temas
+complejos de mi área de estudio.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Completamente
+en desacuerdo
+
+En
+desacuerdo
+
+Neutral
+
+De
+acuerdo
+
+Completamente
+de acuerdo
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+☐
+
+Sección 5: Agradecimiento
+Apreciamos sinceramente tu tiempo y participación en esta encuesta. Tus respuestas son valiosas
+para ayudarnos a entender mejor tus necesidades y perspectivas, y contribuirán al desarrollo de
+herramientas educativas que fortalezcan tus habilidades en el área de ingeniería. Gracias por ser
+parte de este proceso de mejora continua y por apoyar esta investigación.
+
+____________________________
+Firma del alumno
+
+Nivel de revisión: 02
+
+26
+
+

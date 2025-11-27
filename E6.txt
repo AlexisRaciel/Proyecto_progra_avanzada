@@ -1,0 +1,831 @@
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. diciembre, 2022
+
+Doctorado en Innovación en Tecnología Educativa
+Me permito presentar ante el H. Consejo Académico de la Facultad de Informática
+la siguiente solicitud de titulación por tesis de acuerdo con la fracción VII, artículos: 45-54
+y 55-58 del reglamento de titulación vigente.
+
+Nombre del Alumno: Lorena Cabrera Frías
+No. de Expediente: 317980
+No. CVU: 1041911
+Correo electrónico: lorenacafri@gmail.com
+Teléfono: 55 3240 6742
+
+Línea de investigación sobre la cual se desarrollará el trabajo:
+La aplicación de Tecnología Educativa innovadora en los ámbitos educativos y laborales
+Responsable de la Asesoría: Dra. Diana Margarita Córdova Esparza
+Programas educativos que apoya: Doctorado y Maestría en Ciencias de la Computación,
+Doctorado en Innovación en Tecnología Educativa.
+Línea de investigación del responsable: Visión por Computadora e Inteligencia Artificial
+
+Firma de aceptación: __________________
+Número de veces que se ha sometido esta propuesta al H. Consejo Académico de la Facultad:
+Primera vez (X)
+
+2da. ( )
+
+Más de 2 veces ( )
+
+Semestre o Cuatrimestre actual del alumno: 1er. semestre
+Fecha de Ingreso al programa: 1º. de agosto 2022
+
+1
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+I. DATOS GENERALES
+Título del proyecto: La impresión 3D como herramienta educativa en el aprendizaje y el proceso de diseño en los
+estudiantes de educación superior
+
+Presenta el siguiente Protocolo de Investigación: Lorena Cabrera Frías
+Director de Tesis: Dra. Diana Margarita Córdova Esparza
+Tipo de investigación que se realiza: Diseño Instruccional que se llevará a cabo en la
+Universidad Autónoma de Querétaro en la Facultad de Ingeniería en la Licenciatura de
+Diseño Industrial.
+Línea de investigación sobre la cual se desarrolla el trabajo: La aplicación de Tecnología
+Educativa innovadora en los ámbitos educativos y laborales.
+
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+La importancia de la enseñanza de las nuevas tecnologías, dentro de la educación
+formalizada, con el objetivo de trabajarlas en un proceso productivo a corto plazo, logra que
+exista la oportunidad de adquirir ese conocimiento desde la parte académica, ya sea como un
+complemento o bien, como un apoyo para incrementar diversas habilidades en los
+estudiantes, buscando que sean “prácticas y creativas a la hora de resolver problemas, sin
+sacrificar el contenido científico o la educación del conocimiento disciplinar” (Bas, 2014) y
+que a través de la universidad se dé el desarrollo y la confirmación de estas capacidades, en
+búsqueda de potencializar la producción del conocimiento, junto con “la generación de redes
+y grupos de trabajo que colaboren de forma necesaria en bien de los problemas educativos,
+[...] la rápida expansión de las tecnologías [...] y con ello establecer mecanismos para difundir
+y utilizar el conocimiento con mayor rapidez” (León-Duarte et al., 2013), con el objetivo de
+buscar generar un pensamiento con el cual, “el individuo pueda crear un lenguaje de
+codificación personal, único, innovador y que permita la interrelación de nuevos aspectos
+cognitivos, […] proyecte la personalidad, la emoción y creatividad” (Pacheco y Vivian,
+2003).
+
+2
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Para que esto suceda, es de suma importancia tener presente la forma de aprender que
+tienen los estudiantes e incluirlo en su proceso educativo ya que esto es lo que potenciará sus
+habilidades junto al avance tecnológico que se va dando en su recorrido, en este caso, al
+utilizar una herramienta de tecnología como la impresión 3D; por lo tanto, los estilos de
+aprendizaje “hay que tomarlos en cuenta para hacer que los estudiantes desarrollen mejor sus
+habilidades y procesen mejor la información. Para ello se deben aprender cuáles son, y qué
+hacer cuando en un salón de clases se pueden tener estilos distintos” (Castro y Guzmán De
+Castro, 2005).
+Dentro de este marco, Víctor Papanek (1995) diseñador social de los años 70's,
+reflexiona que, para mediar en la creciente discrepancia entre una tecnología fuerte y un
+medio frágil, nuevas disciplinas y nuevos métodos se sumergen en el proceso de diseño y
+también deben incluirse en la propia educación de los diseñadores. En tal sentido, los autores
+Leal y Quero (2011) mencionan que es fundamental que, “aunque operemos en el mismo
+sector, seamos capaces de identificar en qué aspectos somos especialmente buenos y hacer
+de este la base de nuestra estrategia de diferenciación”, y esto es lo que permitirá,
+posteriormente, unir conocimientos y reconocer en qué punto la participación y habilidades
+de cada integrante son esenciales.
+En consecuencia, como refiere Díaz (2006), “un sujeto no utiliza los conocimientos
+de una disciplina de manera aislada; los problemas que tiene que resolver reclaman de la
+conjunción de saberes y habilidades procedentes de diversos campos de conocimiento” y es
+lo que permitirá una integración y desarrollo de diferentes tipos de pensamiento a su
+alrededor.
+Es evidente que, “una sociedad del conocimiento debe garantizar el aprovechamiento
+compartido del saber [...] con el cual los progresos del conocimiento producen a largo plazo
+más conocimientos, gracias a estas innovaciones tecnológicas. De esta manera, se acelera la
+producción de estos” (Pérez y Castañeda, 2009), es decir, es hablar de una interdependencia
+del conocimiento, donde las bases académicas encuentran una nueva coyuntura, teniendo
+oportunidad de su inserción en el avance de las nuevas tecnologías.
+Sin embargo, aunado a esto, se requiere a la vez de una sociedad de la creatividad ya
+que “el éxito no dependerá de cuánto sabemos, sino de nuestra capacidad para pensar y actuar
+
+3
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+creativamente […] siendo un método basado en el diseño y construcción del objeto por parte
+de los aprendices, el denominado espiral del pensamiento creativo” (Bordignon et al., 2018)
+y esta estrategia de aprendizaje lo que hace, es generar un ciclo en el cual los estudiantes
+imaginan, crean un proyecto con base a esas ideas, juegan con sus creaciones, comparten la
+información con sus pares y reflexionan sobre esta experiencia para imaginar nuevamente.
+De este modo, como refiere Suárez et al., (2010), no existe un solo camino a seguir,
+habrá que dar origen a uno nuevo que será resultado de la capacidad y creatividad del equipo
+porque cada escuela de inteligencias múltiples siempre será un trabajo así. Resnick, (2007)
+refiere que se requiere dar la importancia a generar estudiantes que sepan enfrentarse a
+solucionar de una forma creativa a problemas diarios, donde las mismas tecnologías
+educativas de innovación ayuden al desarrollo de este pensamiento creativo, trabajando con
+proyectos y conceptos cada vez más avanzados.
+De acuerdo con Colombia et al., (2015) “ser creativo tiene que ver con la competencia
+para hacer asociaciones, establecer relaciones […] integración de ideas y conceptos de
+manera desacostumbrada […] Ser innovador se requiere tomar una idea creativa y convertirla
+en producto, servicio o método que sea de utilidad”. Por lo tanto, el diseño industrial ofrece
+la posibilidad de que el estudiante trabaje con su producto y a la vez, lo vaya mejorando
+conforme se va desarrollando, por lo que dentro de un proceso iterativo requerirá de nuevas
+ideas que complementen su propuesta inicial.
+De igual forma, la impresión 3D como tecnología educativa, y la forma iterativa que
+se requiere en su trabajo, permite desarrollar este pensamiento creativo con la generación de
+prototipos que no necesariamente funcionan al primer intento, sino que permiten al estudiante
+ir ajustando su idea hasta la obtención del objeto que permita una resolución al problema
+planteado, “en todos los casos, el mensaje es el mismo: iterar, iterar, e iterar de nuevo. El
+tiempo, es esencial en este proceso. […] Si se pasa por el ciclo sólo una vez, se pierde la parte
+más importante del proceso creativo” (Resnick, 2007).
+Un componente del pensamiento creativo es la flexibilidad, ya que “comprende una
+transformación, un cambio, un replanteamiento o reinterpretación, […] es la capacidad
+consistente en producir diferentes ideas para cambiar de un enfoque de pensamiento a otro y
+para utilizar diferentes estrategias de resolución de problemas” (Jiménez et al., 2007). Por lo
+
+4
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+tanto, el mérito será para aquellos que puedan ver el contexto general y reaccionen en
+consecuencia y con rapidez porque además de los factores y habilidades de cada integrante
+del equipo, se va generando conocimiento, la capacidad de aprender y plantear retos con una
+mentalidad más colaborativa (Wells-Papanek y Pecoraro, 2016), trabajar en conjunto, con el
+desarrollo de sus respectivas habilidades para la resolución óptima de un problema planteado
+que sugiera nuevos retos.
+Por consiguiente, el trabajo interdisciplinario, necesario en el uso de este tipo de
+herramienta, requiere de un mismo lenguaje que se detecta esencial, para el entendimiento,
+avance y cumplimiento de los objetivos en el proceso de investigación, en específico con la
+herramienta de impresión 3D ya que como tarea “no emerge por el hecho de que varios
+especialistas trabajen juntos, lo que integra a un equipo interdisciplinario, es un marco
+conceptual y metodológico común [...] que permitirá definir la problemática [...] bajo un
+mismo enfoque” (García, 2006), por lo que, la resolución de problemas no es sólo dar uso a
+la herramienta tecnológica y el conocimiento inmediato que se tenga, sino que es por medio
+de equipos colaborativos, generar un pensamiento multi, inter y transdisciplinar, permitiendo
+que el modelo de trabajo se vuelva flexible.
+Cabe considerar que, desde el punto de vista del diseño, “el proceso suele atribuirse
+a la actividad creativa en su esencia cognitiva, […] se apoya del análisis y en la síntesis para
+la creación y que podría aproximarse mediante un enfoque de procesos basados en la
+innovación” (Schwabe-Neveu et al., 2016); así pues, con esta forma de trabajo, el desarrollo
+creativo que requiere la impresión 3D y las competencias educativas involucradas durante el
+proceso de aprendizaje, como el caso de un pensamiento creativo, buscan tener la
+“oportunidad de combinar actos y pensamientos, la experiencia y la creación, el aprendizaje
+y la experimentación” (Pacheco y Vivian, 2003), es decir, no sólo es la cuestión teórica si no
+la práctica que lleve a un trabajo integrador en sus diferentes etapas de desarrollo.
+Por tal motivo, la creatividad y la innovación son competencias importantes para todo
+profesional; se puede inferir que, la universidad “no puede funcionar ajena al fomento de la
+creatividad […] sino formar personas con capacidad de generación de ideas y resolución de
+problemas […] dando lugar a un pensamiento divergente capaz de buscar respuestas
+innovadoras y soluciones eficaces a la problemática de su entorno” (Mon, 2008).
+
+5
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Aprendizaje mediante la impresión 3D
+Hablar de una apropiación tecnológica en cuanto a práctica es referirse a un “conjunto
+de actividades a través de las cuales los sujetos expresan el vínculo que establecen con las
+tecnologías, lo que implica la adaptación creativa [...] a sus propias necesidades, convicciones
+e intereses” (Cabello y López, 2017), es decir, el estudiante bajo ciertos propósitos decide de
+qué forma, algo que no conoce, será parte o no de su quehacer cotidiano. Cuando logra
+identificarlo y tiene acceso a dicha información, puede fomentar un aprendizaje a través de
+diferentes procesos que le permiten desarrollar ciertas habilidades para su utilización.
+De tal forma que, el uso de la impresión 3D reúne estos elementos, porque según
+Iglesias et al. (2018), permite generar “clases interactivas y fomenta el trabajo en equipo y el
+diseño colaborativo e iterativo, permitiendo realizar trabajos en conjunto con otras materias
+o especialidades, […] se generan estudiantes creativos y reflexivos, fuertes vínculos de
+aprendizaje personal y habilidades de pensamiento”; además que, permitirá tener al alcance
+objetos tangibles con un diseño único y personalizado. En este sentido se comprende que, “el
+pensamiento creativo no sigue un proceso lógico, ordenado y sistemático; […] es parte del
+proceso […] que termina en una fase de claridad y enfoque” (Hernández et al., 2018).
+Por lo tanto, la impresión 3D tendrá un impacto para la educación asociada de manera
+muy directa con los espacios colaborativos, en los cuales los estudiantes y el aprendizaje
+basado en proyectos, podrán explorar conceptos de forma profunda, dando lugar a una
+apropiación más significativa, el aprender haciendo (Blázquez et al., 2018), es por esto que,
+la "innovación educativa no se determina por la inserción de nuevas tecnologías en el salón
+de clase, sino [...] alrededor de interacciones interpersonales; estas últimas hacen del
+intercambio de conocimientos, una experiencia adaptable a diferentes usos, situaciones y
+contextos" (Ortiz et al., 2019).
+Cabe mencionar que en una investigación reciente que realizó Blázquez et al., (2018),
+sobre la mejora del aprendizaje de los alumnos a través de la utilización de las impresoras
+3D, llegó a la conclusión que el uso de una metodología de aprendizaje basado en proyectos
+(ABP) y la impresión 3D, deben ser trabajadas con interdisciplina, principalmente en material
+STEAM y adquirir competencias tecnológicas y científicas de manera global.
+
+6
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Siendo así, de vital importancia que tanto ingenierías como áreas de diseño, sea
+necesario contar con material didáctico con el que interactúen los estudiantes y fortalezcan
+sus habilidades mecánico-espaciales y generadoras de un pensamiento creativo dentro un
+proceso de diseño que da cabida a la impresión 3D como herramienta educativa; es decir,
+“estudiantes gestores de su propio conocimiento a través de la exploración de sus intereses,
+la experimentación y la socialización de las experiencias, mediante el modelamiento y
+simulación, pero para poder brindar esa experimentación tangible se requiere tecnología de
+impresión 3D” (Rúa et al., 2018), y así, como reafirma Moreno et al. (2016), la importancia
+de que la impresión 3D permita la resolución de problemas a través de un acercamiento al
+diseño, con construcción e iteración a beneficio de la misma sociedad, al ser de gran ayuda
+para la práctica, preparación e inserción de los estudiantes en el mundo laboral y la
+generación de un trabajo en conjunto con otras disciplinas.
+
+III. JUSTIFICACIÓN
+Los modelos de organización del trabajo interdisciplinario se han ido superponiendo
+en el tiempo como consecuencia del avance tecnológico. Sin embargo, para que su
+apropiación suceda de forma natural, es necesario detectar los aportes que una herramienta
+educativa como la impresión 3D podría generar y cómo esta puede llegar a integrarse para
+facilitar este trabajo interdisciplinario entre los estudiantes de educación superior y favorecer
+la forma en que ellos aprenden de una manera creativa.
+Porque si bien, los diseñadores industriales están interesados en entender cómo
+funciona este proceso dentro de diversas áreas y, sobre todo, dónde su participación y los
+elementos de diseño son relevantes en este trabajo, es necesario conocer lo que sucede cuando
+ellos utilizan las narrativas de otras áreas del conocimiento, y el trabajo realizado dentro del
+proceso de diseño; ya que la capacidad de pensar creativamente se está convirtiendo en la
+clave del éxito tanto en el ámbito profesional como en el personal, el encontrar soluciones
+innovadoras a situaciones imprevistas o que todavía no existen (Resnick, 2007).
+Por lo tanto, no sólo es que los estudiantes logren la apropiación de la herramienta en
+sí misma, sino determinar si su proceso cognitivo ha estado expuesto a la tecnología y por
+
+7
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+eso ellos podrían considerar involucrarse en toda la línea dentro del proceso de diseño.
+Además, de detectar las capacidades cognitivas que se desarrollan en cada una de estas áreas
+del conocimiento y que pueden ser utilizadas para el trabajo en conjunto, es decir, generar un
+pensamiento creativo con el uso de herramientas de tecnología para beneficio de la propia
+educación y el trabajo interdisciplinario.
+Porque si bien, el desarrollo del pensamiento creativo en la educación básica se
+desarrolla de forma permanente, entonces se requiere poner retos a estos futuros
+profesionistas que son los que estarán trabajando juntos al salir de su preparación académica
+universitaria, pues el mundo laboral les ofrecerá diferentes rutas para abordar, donde tendrán
+que desarrollar sus ideas, probarlas, recibir aportes y lo más importante, volver a generar
+nuevas soluciones; por tanto, la importancia de estudiar si una herramienta como la impresión
+3D favorece el aprendizaje y el desarrollo del pensamiento creativo.
+
+IV. DESCRIPCIÓN DEL PROBLEMA
+El proceso de diseño hoy en día se ve influido por los cambios tecnológicos, como el
+uso de herramientas de innovación como la impresión 3D dentro los procesos universitarios.
+Desafortunadamente, a esto se suma la carencia que viven los egresados al no saber utilizar
+estas herramientas a nivel técnico, conceptual e interdisciplinario; sin embargo, no es sólo la
+integración de las herramientas, sino el aporte cognitivo que pueden estas ofrecer o
+desarrollar en el aprendizaje de los estudiantes es, “un hacer reflexivo con sentido de
+descubrimiento y propósito […] que se construye con otros, se comparte y se resignifica a lo
+largo de su proceso de diseño […] el aprendizaje emerge y se sistematiza […] en una
+comunidad de experimentación y aprendizaje” (Pinto, 2017).
+Por lo que, es evidente la necesidad del trabajo en equipo, sin embargo, cada persona
+tiene diferente potencial cognitivo que permitirá desarrollarlo de una manera u otra, y esto
+nos lleva a reafirmar que los estudiantes aprenden de maneras diferentes, “lo interesante es
+que el docente trabaje no las limitaciones sino las potencialidades, implica entonces enfatizar
+en el desarrollo de las habilidades cognitivas y en el uso de la mediación como estrategia que
+facilita este proceso” (Suárez et al., 2010), se requieren estrategias metodológicas diversas
+
+8
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+que ayuden a aprovechar su capacidad o bien, en desarrollar o activar otras habilidades, como
+la generación del pensamiento creativo que les permitirá resolver problemas y mejorar su
+interrelación con otras áreas del conocimiento; sin embargo, a pesar de que la impresión 3D
+ya se encuentra presente en las aulas, todavía no hay una aplicación con un objetivo claro,
+que permita lograr una integración como complemento de sus habilidades con sus pares,
+porque son ellos los que estarán trabajando juntos en cinco años al terminar su carrera, y que
+ya detectan la necesidad de trabajar interdisciplinariamente y esto logrará un beneficio claro.
+Cuando se identifiquen las habilidades en las que cada uno de ellos es bueno y el
+aporte que una herramienta educativa como la impresión 3D en el aprendizaje de los
+estudiantes puede otorgarles, ya que para “formar profesionales creativos e innovadores
+implica estar dispuestos al cambio, propiciando ambientes de libertad […] la implementación
+de metodologías es efectiva para la potenciación de la creatividad siendo la estimulación y la
+apertura mental la base para el desarrollo del proceso” (Colombia et al., 2015).
+
+V. COMITÉ DE BIOÉTICA
+Pérez y Castañeda (2009), señalan que “las redes de conocimiento constituyen la
+máxima expresión del hombre como productor de conocimientos y su necesidad de
+intercambiar, compartir y transferir lo que se aprende, a partir de la interacción por medio de
+una plataforma tecnológica”, en este punto, un estudio global no sólo desde el punto de vista
+de un grupo es la relación de todo un ecosistema, una interrelación de referencia para tener
+un enlace y visión general del mismo.
+Para poder participar en un mundo globalizado, en esa búsqueda de objetivos
+comunes, el autor John Hartley (2020) menciona que la ética es “un método o procedimiento
+[…] para decidir cómo actuar hacia los demás; y al mismo tiempo para el estudio de tales
+decisiones en cualquier campo cultural o político” y, es este proceso de profundización del
+conocimiento el que puede llevarnos a cometer errores o engaños; si bien por entrar en
+conflicto por los resultados deseados, el retener información intencionalmente o por omisión
+de los hechos.
+
+9
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+No será válido reservar resultados con el objetivo de proteger la investigación o el no
+profundizar lo suficiente como una salida pronta para señalar un resultado. De acuerdo con
+D'Angelo (2019), “en los casos de nueva ciencia no se nos permite dar por sentado que ciertas
+tendencias anteriores se mantendrán, las suposiciones no son poco éticas y estar equivocado
+tampoco lo es”, entonces es reconocer el punto dentro de la investigación que permita dar un
+servicio a la sociedad, aportar algo más a la comunidad porque el hacer ciencia se basa en el
+apoyo de unos con otros, donde los caminos o rutas encontradas sean de base para la
+continuidad del conocimiento y así lograr un avance.
+Si la investigación se realiza de manera genuina, se informa con objetividad los
+hallazgos, se está aportando conocimiento y se da la oportunidad de continuar con el progreso
+científico. En conclusión, si “un investigador toma el trabajo preliminar realizado por otro y
+agrega sus propios nuevos conocimientos, esto conduce al avance de la ciencia” (D'Angelo,
+2019), esto es lo que se busca, un trabajo con compromiso, una aportación al área del
+conocimiento, realizada para y por la sociedad.
+Siendo así, se dará a conocer a los estudiantes el objetivo de la intervención y, por lo
+tanto, solicitar su consentimiento previo a la aplicación de la prueba piloto y de los test
+posteriores cuidando la protección de sus datos personales, para que la información obtenida
+y las notas arrojadas durante el proceso de investigación puedan ser usados con fines
+científicos con el objetivo de mejorar el proceso de aprendizaje.
+
+VI. PLANTEAMIENTO TEÓRICO
+Se establece como pregunta principal de investigación:
+¿Cómo la inclusión de la impresión 3D como herramienta educativa favorece el
+aprendizaje en los estudiantes de la Universidad Autónoma de Querétaro de la
+Licenciatura de Diseño Industrial dentro del proceso de diseño?
+
+Y de aquí se plantean las siguientes preguntas secundarias:
+1.
+
+¿Cómo se relaciona el proceso de diseño y la generación de competencias educativas
+con el uso de la impresión 3D como herramienta educativa?
+10
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+2. ¿De qué forma el estilo de aprendizaje desarrolla un pensamiento creativo con el uso
+de la impresión 3D como herramienta de tecnología educativa en los diseñadores
+industriales?
+3. ¿Cuál es la aportación de la impresión 3D como herramienta educativa en el
+pensamiento creativo en los estudiantes de diseño industrial?
+
+VII. OBJETIVOS
+De esta forma se plantea como objetivo general:
+Implementar una herramienta educativa con el uso de la impresión 3D en el
+aprendizaje dentro del proceso de diseño, para el desarrollo del pensamiento creativo
+en estudiantes de educación superior.
+
+Dando lugar a los siguientes objetivos particulares:
+1. Describir la relación del proceso de diseño y la generación de competencias
+educativas con el uso de la impresión 3D como herramienta educativa.
+2. Identificar el estilo de aprendizaje para el desarrollo de un pensamiento creativo con
+el uso de la impresión 3D como herramienta de tecnología educativa en los
+estudiantes, específicamente en los diseñadores industriales.
+3. Verificar la aportación del uso de la herramienta educativa de impresión 3D y el
+pensamiento creativo.
+
+VIII. METODOLOGÍA
+En este apartado metodológico se describe el proceso que se realizará para la
+intervención didáctica y la recolección de datos para el desarrollo de la investigación: La
+impresión 3D como herramienta educativa en el aprendizaje y el proceso de diseño en los
+estudiantes de educación superior.
+Para esta investigación se considera un enfoque cualitativo que, “parte de la noción
+de la construcción social de las realidades sometidas a estudio y se interesa en las perspectivas
+
+11
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+de los participantes, en las prácticas cotidianas y el conocimiento cotidiano que hace
+referencia a la cuestión estudiada” (Flick, 2007); bajo una estrategia metodológica
+investigación-acción que está “orientada hacia el cambio educativo; parte del enfoque
+dinámico, interactivo, complejo de una realidad que no está dada […] en permanente
+deconstrucción, construcción y reconstrucción. Relación dialéctica de la teoría y la praxis
+[…] individual y social […] un proceso participativo y colaborativo” (Colmenares y Piñero,
+2008), es decir, buscar expandir el conocimiento al que mismo tiempo que se encuentran
+respuestas; no sólo será el planteamiento de la problemática, sino mejorar y modificar la
+situación y sistematizar el cambio obtenido.
+Se realizará con los estudiantes un proceso sistémico que parte de un diseño
+instruccional ya que este “se centra en la organización de un proceso de instrucción
+compuesto por fases, dentro de las cuales se desarrollan actividades o conjuntos de
+actividades que conforman procesos más específicos, enfocados al logro de un objetivo en
+particular” (Chiappe, 2008), es decir, lograr una experiencia en el aprendizaje con
+planificación y operación esto, con base al modelo ADDIE (acrónimo que corresponde a las
+fases del modelo: Aprendizaje, Diseño, Desarrollo, Implementación y Evaluación), como un
+sistema coordinado y que como menciona Morales-González et al., (2014), con flexibilidad
+para incluir diversos factores que son los que logran la operatividad de evaluación durante el
+proceso; hay que tomar en cuenta que, esta es la forma de trabajo que requiere la impresión
+3D, porque los estudiantes cuando inician bajo los principios del diseño, les permite entender
+y transformar consecutivamente situaciones para una óptima resolución de problemas y, es
+ahí donde se encuentran dentro en un proceso flexible e iterativo.
+Inclusive, Bruno Munari (1993) enfatiza que el método de proyectación “no es un
+esquema fijo, no está completo y no es único ni definitivo [...] el diseñador está siempre
+dispuesto a modificar su pensamiento frente a la evidencia objetiva, y es así como cada uno
+puede aportar su contribución creativa”, porque una vez lograda la conceptualización tiene
+la posibilidad de analizar y reconocer el problema, así como definir y adecuarse a nuevas
+alternativas; ese pensamiento creativo permite que “el individuo pueda crear un lenguaje
+de codificación personal, único, innovador y que permita la interrelación de nuevos
+aspectos cognitivos, con lo cual logra que el pensamiento proyecte la personalidad, la
+
+12
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+emoción y creatividad del individuo” (Rica et al., 2003) siendo evidente como se enfatiza,
+por lo tanto, la utilización y desarrollo de un diseño instruccional y de su evaluación.
+El universo de estudio con el que se trabajará son estudiantes de la Licenciatura de
+Diseño Industrial de sexto semestre, de la Facultad de Ingeniería, de la Universidad
+Autónoma de Querétaro que actualmente usan la impresión 3D como herramienta
+tecnológica de innovación como parte de su desarrollo dentro del proceso de diseño porque
+otorga en su aprendizaje, la facilidad de tener la representación de un material con el fin de
+lograr una manipulación física o bien lúdica, y en este punto es lo que ofrece la impresión
+3D como herramienta, a fin de que, “las organizaciones educativas especializadas en
+ingeniería y tecnología, deben promover una formación integradora (conocimiento-acciónejecución) […] a partir de componentes didácticos orientados hacia el cierre de la brecha
+entre los saberes analíticos y su aplicación en el contexto tecnológico” (Candia, 2022).
+Ahora bien, el primer instrumento de validación que se decide utilizar es el
+Cuestionario de Honey y Alonso de Estilos de Aprendizaje (CHAEA) para conocer a la
+población con la que se trabajará, definir la forma en que aprenden los estudiantes y la manera
+de apropiarse de estas tecnologías “porque cada estilo tiene unas características
+sobresalientes […] y los motivos de su elección vienen determinados por su base conceptual
+sobre el proceso de aprender de forma cíclica” (Amaya et al., 2014). Cuenta con 80 ítems,
+veinte por cada categoría, es decir, activo, reflexivo, teórico o pragmático, con respuesta
+dicotómica (+ o -) que el estudiante tendrá que responder según esté de acuerdo o desacuerdo.
+Se busca identificar el estilo de aprendizaje predominante en el salón de clases y
+definir si el estudiante es activo, reflexivo, teórico o pragmático, porque esto permitirá
+implementar la herramienta didáctica adecuada y poder verificar si la inclusión de la
+impresión 3D favorece al aprendizaje y cómo aporta al pensamiento creativo.
+Una vez utilizado el cuestionario de Honey y Alonso, y ya definido el estilo de
+aprendizaje, se utilizará el Test de Pensamiento Creativo de Torrance (TTCT), porque la
+creatividad es “un proceso que implica ser sensible a los problemas […] y requiere de la
+capacidad para identificar dificultades y buscar soluciones; […] formula hipótesis que
+puedan dar respuestas a esas interrogantes, ponerlas a prueba […] y modificarlas para
+comunicar los resultados encontrados” (Aranguren, 2014), esto a modo de diagnóstico.
+
+13
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+El test consta de dos subpruebas una verbal y otra figurativa, y cada una de ellas tiene
+formas A y B, considerando que se puede utilizar de forma individual y/o colectiva. Para este
+estudio se tiene contemplado la prueba de figuras, para medir este constructo porque, evalúa
+la capacidad de una persona de pensar en forma creativa con imágenes a forma de bocetos
+que funcionan para la impresión 3D y por estar dirigido a los estudiantes de diseño industrial;
+sin embargo, depende de los resultados del cuestionario de Honey y Alonso para decidir
+justificadamente, el test a utilizar ya sea el verbal, figuras o mixto.
+Con base en lo anterior, lo que se busca en una primera línea es describir la relación
+del proceso de diseño y la generación de competencias educativas como el pensamiento
+creativo. Una segunda línea de investigación es identificar el estilo de aprendizaje para el
+desarrollo de un pensamiento creativo con la impresión 3D como herramienta educativa y
+con esto verificar su aportación. Para finalizar, se hará el registro de una observación directa
+a través de una lista de cotejo en la construcción de un prototipo para documentar cómo cada
+uno de los estudiantes se integran en el proceso de diseño y el resultado de un pensamiento
+creativo; una vez obtenidos los resultados se procederá al análisis de datos como evidencia
+de la inclusión de la impresión 3D como herramienta educativa.
+Se hace una codificación manual, donde se extraen los códigos que más se obtengan,
+dentro de cada una de las líneas generales ya planteadas anteriormente, y así poder agrupar
+los códigos en diferentes categorías de análisis. Se utilizará un software para análisis de
+información cualitativa de datos, para crear una unidad hermenéutica que permita capturar y
+realizar una organización y así facilitar la creación de redes; de esta forma poder vincular,
+justificar y triangular la información obtenida.
+Posteriormente, se clasifica según corresponda para dar respuesta a cada una de las
+preguntas de investigación y comparar cómo se visualizaban antes y después del uso de la
+herramienta.
+
+14
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+CRONOGRAMA DE ACTIVIDADES
+SEMESTRE
+MESES
+
+1
+2
+
+4
+
+2
+6
+
+2
+
+4
+
+3
+6
+
+2
+
+4
+
+4
+6
+
+2
+
+4
+
+5
+6
+
+2
+
+4
+
+6
+6
+
+2
+
+4
+
+6
+
+INVESTIGACIÓN
+Armado protocolo
+Búsqueda fuentes
+de información
+Clasificación,
+organización de
+material, gestor
+MENDELEY
+Análisis
+metodológico y
+preparación de
+instrumentos
+Trabajo semestral
+interno materias
+DESARROLLO
+Aplicación de piloto
+Programación para
+intervención
+Aplicación de
+instrumentos
+Captura y análisis
+de datos obtenidos
+Documentación de
+literatura
+Creación
+herramienta
+educativa
+RESULTADOS
+Validación de la
+herramienta
+Registro y análisis
+del proceso de la
+herramienta
+Estructuración de
+los resultados
+obtenidos
+Conclusiones
+
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+El desarrollo de un pensamiento creativo en los estudiantes y la óptima manera de
+llevarlo a cabo permitirá lograr cumplir el alcance planteado dentro del proceso de
+aprendizaje, porque el objetivo será incrementar una habilidad que los ayude en su proceso
+
+15
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+con la utilización de herramientas de tecnología de innovación que están cada día más
+presentes en su cotidianidad educativa y, que les permita mejorar su quehacer diario llevando
+su aplicación al servicio para una comunidad; puesto que, para que haya una aportación real,
+sólo se logrará cuando se aproxima a esta y se empatiza al entender sus necesidades.
+El trabajo interno en las universidades entre los propios estudiantes y diferentes áreas
+del conocimiento llevará a buscar espacios donde éstos interactúen, trabajen más
+colectivamente y permitan estar abiertos a los cambios que la misma comunidad experimenta.
+De hecho, en la opinión de Leal y Quero (2011), “los clusters creativos son esos negocios
+que se unen en una misma área urbana resultando un factor de atracción para el consumidor,
+que se siente atraído por la existencia de una oferta más amplia, en un espacio físico
+pequeño”, si hablamos de la universidad como ese espacio donde se conjuntan los valores
+sociales de grupo y los intereses mutuos, fortaleciendo su identidad con una aportación para
+el mismo proceso de producción se fortalece, teniendo claro que cada producto cultural tiene
+su propio objetivo, usuario y forma de resolverse por lo que, la impresión 3D generadora de
+productos culturales personalizados influye en el proceso y su aportación tecnológica.
+Ahora bien, si una de las condiciones que marca el diseño estratégico es pensar en un
+futuro deseable, es indispensable pensar en cómo integrar estos conceptos para reemplazar
+el objeto de estudio por un sistema de estudio y permitir una visión mayor al entender que lo
+que se hace no está aislado de los demás campos del conocimiento. Con esto se puede decir
+que la impresión 3D se ve envuelta en un proceso más complejo que tiene una
+interdependencia con el usuario y su medio, al desarrollarse dentro de un ecosistema en el
+mismo proceso del diseño, generando un lenguaje propio en una visión más general.
+Transformar la forma de estudiar, la manera de desarrollar los proyectos al enfocar la
+necesidad del trabajo en equipo y la creación de alianzas. Se requiere generar nuevos
+planteamientos teniendo en cuenta en este momento para qué diseñamos, para quién y cómo
+hacerlo. La clave es la colaboración y romper las barreras del lenguaje, conociendo las
+habilidades individuales y desarrollándolas en conjunto, primero internamente entre
+diferentes áreas y posteriormente con el exterior al generar redes de trabajo entre los distintos
+sectores para fortalecer la industria del conocimiento.
+
+16
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Por lo tanto, se propone desarrollar una herramienta educativa para desarrollar el
+pensamiento creativo con el uso de la impresión 3D como herramienta tecnológica. Dos
+participaciones en eventos académicos y una publicación en una revista indexada.
+
+X. INDICE TENTATIVO DE LA TESIS
+Dedicatorias
+Agradecimientos
+Índice
+Índice de Figuras
+Índice de Tablas
+Abreviaturas y siglas
+Resumen en español
+Resumen en inglés
+I.
+II.
+III.
+IV.
+V.
+VI.
+VII.
+VIII.
+IX.
+X.
+
+Introducción / planteamiento del problema y justificación.
+Antecedentes/estado del arte.
+Fundamentación teórica.
+Hipótesis o supuestos
+Objetivos.
+Material y Métodos o Metodología
+Resultados y discusión
+Conclusiones.
+Bibliografía.
+Anexos.
+
+XI. REFERENCIAS BIBLIOGRÁFICAS
+Amaya, T., Alarcón, A., y Callejas, M. (2014). Cuestionario Honey Alonso de Estilos de
+Aprendizaje una herramienta que fomenta el mejoramiento del proceso enseñanzaaprendizaje
+en
+la
+informática.
+Revista
+Politécnica.
+https://politecnicojic.academia.edu/RevistaPolitecnica
+Aranguren, M. (2014). Validez de constructo del Test de Pensamiento Creativo de Torrance en
+una muestra de jóvenes argentinos. Anuario de Psicología, 44(1), 55–70.
+https://www.redalyc.org/articulo.oa?id=97032346005
+Bas, E. (2014). (PDF) Promover la creatividad y las habilidades del pensamiento de diseño entre
+los
+estudiantes
+universitarios. Revista de Estudios de Juventud,
+17
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+https://www.researchgate.net/publication/274066980_Promover_la_creatividad_y_las_habi
+lidades_del_pensamiento_de_diseno_entre_los_estudiantes_universitarios
+Blázquez, P., Orcos, L., Mainz, J., y Sáez, D. (2018). Propuesta metodológica para la mejora del
+aprendizaje de los alumnos a través de la utilización de las impresoras 3D como recurso
+educativo en el aprendizaje basado en proyectos. Psicología, Conocimiento y Sociedad, 8(1),
+139–166. https://doi.org/10.26864/PCS.V8.N1.8
+Bordignon, F., Iglesias, A. A., y Hahn, Á. (2018). Diseño e Impresión de Objetos 3D. Una guía
+de apoyo a escuelas,
+Cabello, R., y López, A. (2017). Contribuciones al estudio de procesos de apropiación de
+tecnologías (1st ed.). Ediciones del Gato Gris,
+Candia, F. (2022). Integración de la impresión 3D en la educación tecnológica. Revista
+Iberoamericana Para La Investigación y El Desarrollo Educativo, 12(24), 336.
+https://doi.org/10.23913/RIDE.V12I24.1170
+Castro, S., & Guzmán De Castro, B. (2005). Los estilos de aprendizaje en la enseñanza y el
+aprendizaje: Una propuesta para su implementación The styles of learning in the education
+and
+learning:
+A
+proposal
+for
+its
+implementation.
+http://pcazau.galeon.com/guia_esti07.htmR58-9.qxp15/02/200614:34PAEgina83
+Chiappe, A. (2008). Informática Educativa Diseño Instruccional: oficio, fase y proceso. Instructional Design, Role, Phase and Process. Desenho instruccional: ofício, fase e
+processo.
+Recuperado
+el
+15
+de
+octubre
+de
+2022,
+a
+partir
+de
+www.clarktraining.com/content/articles/PebbleInThePond.pdf
+Colmenares, A., y Piñero, M. (2008). La investigación-acción. Una herramienta metodológica
+heurística para la comprensión y transformación de realidades y prácticas socio-educativas,
+https://www.redalyc.org/pdf/761/76111892006.pdf
+Colombia, N., Hernández, I., Alvarado, J. C., y Luna, S. M. (2015). Creatividad e innovación:
+competencias genéricas o transversales en la formación profesional. Revista Virtual
+Universidad Católica Del Norte, (44), 135–151.
+https://www.redalyc.org/articulo.oa?id=194238608010
+Coronel Rivadeneira, M., Domínguez, M., y Romero, L. (2018). Situación actual del uso de
+impresoras
+3D
+en
+Educación
+Secundaria.
+ResearchGate,
+https://www.researchgate.net/publication/336264910_Situacion_actual_del_uso_de_impres
+oras_3D_en_educacion_secundaria
+D'Angelo, J. (2019). Ethics in science (2nd ed.). Taylor & Francis Group.
+
+18
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Díaz, Á. (2006). El enfoque de competencias en la educación: ¿Una alternativa o un disfraz de
+cambio?.
+Perfiles
+Educativos,
+http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S018526982006000100002&lng=es&nrm=iso&tlng=es
+Diseño Industrial - Universidad El Bosque. (2021). Segundo congreso internacional Impresión 3D
++
+Salud
+[Video].
+Retrieved
+20
+septiembre
+2022,
+from
+https://www.youtube.com/watch?v=jyCj0voWoF4
+Flick, U. (2007). El diseño de investigación cualitativa (1ª ed. Editorial Morata, SL
+Fuad-Luke, A. (2009). Design activism: beautiful strangeness for a sustainable world (1a. ed.).
+Earthscan.
+Fuentes, J. (2021). Estudio y diseño de materiales de impresión 3D que soporten los sistemas de
+esterilización médicos [Tesis Doctoral].
+García, R. (2006). Sistemas complejos. Conceptos, métodos y fundamentación epistemológica de
+la investigación interdisciplinaria. (1st ed.). Gedisa.
+Hartley, J., 2020. Communication, Cultural And Media Studies. The Key Concepts, 5th ed.
+Taylor & Francis Group.
+Hernández J., Jiménez, Y., Rodríguez, E., (2018). Desarrollo de competencias de pensamiento
+creativo y práctico para iniciar un plan de negocio: diseño de evidencias de aprendizaje.
+Revista Iberoamericana Para La Investigación y El Desarrollo Educativo, 9(17),
+314–342. https://doi.org/10.23913/RIDE.V9I17.383
+Iglesias A., Bordignon, F., y Hahn A. (2018). Diseño e impresión de objetos 3D: una guía de
+apoyo a escuelas. UNIPE,
+Jiménez, J., Artiles, C., Rodríguez, C., y García, E. (2007). Adaptación y Baremación del Test de
+Pensamiento Creativo de Torrance: Expresión Figurada Educación Primaria y Secundaria.
+Consejería de Educación, Cultura y Deportes del Gobierno de Canarias,
+https://www.academia.edu/5533130/Libro_TORRANCE_Creatividad_1
+Leal, A., y Quero, M. (2011). Manual de marketing y comunicación cultural. Dirección General
+de Universidades de la Consejería de Economía, Innovación y Ciencia de la Junta de
+Andalucía Servicio de Publicaciones de la Universidad de Cádiz.
+León-Duarte, G., Castillo, E., y Michessedett, M. (2013). Generación de conocimiento e
+innovación para la educación y la comunicación, https://doi.org/10.13140/2.1.4962.7207
+Meier, C. (2016). Incorporación del Patrimonio Escultórico en Contextos Educativos Mediante
+el Uso de Impresoras 3D Y Tecnologías Avanzadas de Bajo Coste - ProQuest. proquest,
+
+19
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+https://www.proquest.com/openview/fe2dabdbc1ec8a6902813d4fecbdc003/1?pqorigsite=gscholar&cbl=2026366&diss=y
+Mon, F. (2008). Análisis del estado de la creatividad de los estudiantes universitarios. RE,
+Retrieved November 26, 2022, from
+https://www.researchgate.net/publication/221680107_Analisis_del_estado_de_la_creativid
+ad_de_los_estudiantes_universitarios
+Morales-González, B., R. E.-N.-L. modelos tecno, & 2014, undefined. (s/f). Modelo ADDIE
+(análisis, diseño, desarrollo, implementación y evaluación): Su aplicación en ambientes
+educativos. Researchgate.Net, Recuperado el 16 de octubre de 2022, a partir de
+https://www.researchgate.net/profile/Luis-Garcia-Utrera/post/What-theoretical-models-tointegrate-technology-in-the-classroom-are-being-used-to-teachhistory/attachment/59d63b8dc49f478072ea752b/AS%3A273742956040204%4014422768
+14930/download/Libro_Los+Modelos+Tecno-Educativos_2014.pdf#page=33
+Moreno, N., Leiva, J., y López, E. (2016). Robótica, Modelado 3D y Realidad Aumentada en
+Educación para el Desarrollo de las Inteligencias Múltiples. Aula De Encuentro, 18 (2), 158–
+183.
+Munari, B. (1993). ¿Cómo nacen los objetos? (5th ed.). Editorial Gustavo Gili, S.A. de C.V.
+Ortiz, J., Hernández, I., Valdivieso, H., & Sattele, V. (2019). Innovación social y diseño.
+Universidad Nacional Autónoma de México Centro de Investigaciones de Diseño Industrial.
+https://www.researchgate.net/publication/338924385_Innovacion_social_y_diseno
+Pacheco, U., y Vivian, M. (2003). La inteligencia y el pensamiento creativo: aportes históricos
+en la educación.
+Papanek, V. (1995). The Green Imperative: Ecology and Ethics in Design and Architecture.
+Thames & Hudson.
+Pérez, Y., y Castañeda, M. (2009). Redes de conocimiento. Ciencias de la información. Retrieved
+10 January 2021, from. https://www.redalyc.org/pdf/1814/181421573001.pdf
+Pinto, L. (2017). Educación y tecnología: pasado, presente y futuro de una relación compleja. Economía Creativa, (7).
+https://www.redalyc.org/journal/5475/547569102006/547569102006.pdf
+Resnick, M. (2007). All I Really Need to Know (About Creative Thinking) I Learned (By
+Studying How Children Learn) in Kindergarten. Rica, U. D. C., Inteligencia, L. A., Pensamiento, Y. E. L., Aportes, C., En, H., Rod, C. U., y Rica,
+C. (2003). Educación y el énsamiento creativo: APORTES HISTÓRICOS.
+
+20
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Rúa, E., Jiménez, F., Gutiérrez, G., & Villamizar, N. (2018). Impresión 3D como Herramienta
+Didáctica para la Enseñanza de Algunos Conceptos de Ingeniería y Diseño. Ingeniería, 23(1),
+70. https://doi.org/10.14483/23448393.12248
+Schwabe-Neveu, J., Fuentes-Stuardo, P., y Briede-Westermeyer, J. C. (2016). Caracterización del
+proceso de diseño de productos de una empresa prestadora de servicios de diseño, Propuesta
+basada
+en
+un
+enfoque
+de
+procesos.
+https://doi.org/http://dx.doi.org/10.15446/dyna.v83n199.55840
+Suárez, J., Maiz, F., y Meza, M. (2010). Inteligencias múltiples: una innovación pedagógica para
+potenciar
+el
+proceso
+de
+enseñanza
+aprendizaje.
+https://www.redalyc.org/articulo.oa?id=65822264005
+Wells-Papanek, D., y Pecoraro, L. (2016). Co-Work, Co-Create, Co-Innovate: It´s the future.
+Design Management Institute, 28(3).
+
+ATENTAMENTE
+
+____________________________
+Firma del alumno
+
+21
+
+

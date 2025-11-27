@@ -1,0 +1,1174 @@
+Universidad Autónoma de Querétaro Facultad de
+Informática
+
+C.U. a 21 de abril del 2023
+
+DOCTORADO EN INNOVACIÓN EN TECNOLOGÍA EDUCATIVA
+Me permito presentar ante el H. Consejo Académico de la Facultad de Informática
+la siguiente solicitud de titulación por tesis de acuerdo con la fracción VII, artículos: 45-54 y
+55-58 del reglamento de titulación vigente.
+Nombre del Alumno: Rosela Granados Andrade
+No. de Expediente: 317979
+No. CVU: 1104426
+Correo electrónico: roselagranados@gmail.com
+Teléfono: 6861737077
+Línea de investigación sobre la cual se desarrollará el trabajo:
+Las TIC en modelos educativos escolares y laborales
+Responsable de la Asesoría: Dra. Ana Marcela Herrera Navarro
+Programas educativos que apoya: Maestría en Innovación de Entornos Virtuales
+de Enseñanza Aprendizaje, Doctorado en Ciencias de la Computación
+Línea de investigación del responsable:
+
+Firma de aceptación: ____________________________________
+
+Número de veces que se ha sometido esta propuesta al H. Consejo Académico de la
+Facultad:
+Primera vez ( )
+
+2da. (X)
+
+Más de 2 veces (
+
+)
+
+Semestre o Cuatrimestre actual del alumno: 1er semestre
+Fecha de Ingreso al programa: 01 de agosto del 2022
+
+DATOS GENERALES
+Título del proyecto: “Implementación de una estrategia para la escritura de ensayos argumentativos a
+través del uso de las TIC y el STEAM en Educación Media Superior”
+Nombre del alumno responsable: Rosela Granados Andrade
+Colaboradores:
+Dra. Ana Marcela Herrera Navarro – Directora
+Centro donde se realiza la investigación:
+Centro de estudios tecnológicos, industrial y de servicios No. 18 (CETIS No. 18)
+Tipo de investigación: Investigación- acción
+Línea de investigación: Las TIC en modelos educativos escolares y laborales
+
+I.
+
+ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+
+Las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizajes Digitales
+(TICCAD) son un referente básico que se puede observar involucrado en las competencias
+básica de los planes y programas de la Educación Media Superior (EMS), sea el caso inicial
+la Reforma Integral para la Educación Media Superior 2011 (RIEMS), seguido del Nuevo
+Marco Curricular Común 2017 (MCC) y en las Nuevas Progresiones del MCCEMS (2022),
+haciendo énfasis en el uso de estrategias ligadas completamente a la tecnología, sin
+embargo, contraponiendo el contexto diverso en el que se encuentran los planteles de la
+EMS.
+A partir de la estadística de ingreso en la Evaluación Diagnóstico de Ingreso a la
+Educación Media Superior (2021-2022) Nacional, en un rango de 80,000 estudiantes, las
+cifras de aquellos que presentación como débil la Competencia Lectora, pues es alarmante
+la cantidad de 54,788 jóvenes, siendo éstos mayoría en comparación de los que
+presentación dicha competencia de forma Consolidada o Fuerte, tal y como se muestra en la
+Figura 1.
+
+2
+
+Figura 1. Evaluación Diagnostico ingreso a la Educación Media Superior.
+
+Estos resultados pueden ser efecto de diversos factores entre los que podemos
+advertir, a manera de referentes de los supuestos para este proyecto, las condiciones
+educativas de los últimos dos años (2020-2022), la transición entre la secundaria en línea y
+la preparatoria semipresencial a presencial en su totalidad, así como las estrategias
+deficientes en cuanto a la enseñanza de los contenidos de las asignaturas en relación con los
+estilos de aprendizaje recurrentes en los jóvenes.
+En la sociedad existe la percepción de que la educación es cada vez más importante
+para el desarrollo integral de la sociedad, tomando en cuenta tendencias internacionales
+como la agenda 2030 (ONU, 2015) y los Objetivos de Desarrollo Sustentable (ODS) en
+dónde el 4to objetivo corresponde al de una educación para todos, por lo que se convierte
+en un tema de agenda de política pública brindar los recursos y facilitar los recursos para
+mejorar la educación en México. La escuela, en consecuencia, requiere transformarse de
+fondo para lograr incorporar en el aula y en la práctica docente las nuevas formas en que los
+jóvenes aprenden, y lo seguirán haciendo (Gerver, 2013; Prensky, 2013). Así mismo, bajo
+la estadística estatal de aprobación y reprobación por asignatura, proporcionada por la
+Academia Estatal de Lectura, Expresión Oral y Escrita (LEOYE) ciclo 2021-2022, se
+encuentran 2,127 estudiantes con promedio de 5 en una escala a aprobación a partir del 6
+como mínima y el 10 como la máxima a obtener, como se observa en la figura 2.
+
+3
+
+Figura 2. Asignatura y Calificación Estatal Baja California (Ciclo 2021-2022)
+
+Sin embargo, con respecto al promedio a nivel plantel en el grupo focalizado y el
+turno en el cual se pretende implementar la estrategia para la escritura de ensayos
+argumentativos, continua siendo alarmante el porcentaje obtenido durante el 1er parcial, el
+cual corresponde a los contenidos iniciales sobre el ensayo, el 2do parcial una leve mejoría
+y el 3er parcial que resume factores que no implican la consolidación del conocimiento
+sobre la praxis en el aula, por lo que independientemente de su incremento notable, de
+forma sumativa, puede no observarse en la evaluación continua y formativa, véase figura 3.
+Figura 3. Promedio de LEOYE, ciclo escolar 2021-2022 plantel CETIS 18 (fuente. Subdirección Académica del
+plantel)
+
+4
+
+La enseñanza y el aprendizaje de la asignatura de Lectura, expresión oral y Escrita
+(LEOYE)
+Las asignaturas del campo disciplinar de comunicación en los diversos subsistemas,
+tales como: Taller de Redacción o su equivalente, Estrategias de lectura y escritura o
+su equivalente y Lectura, Expresión Oral y Escrita o Tratamiento y manejo de la
+información, son herramientas que guían a los estudiantes durante su proceso
+formativo para que desarrollen las capacidades básicas requeridas en un campo
+laboral. El egresado de la Educación Media Superior (EMS) debe contar con las
+competencias señaladas en los perfiles de egreso de los diversos subsistemas y sobre
+todo comprender cuál es la importancia de la lectura, expresión oral y escrita en la
+vida diaria. Ramos (2001) menciona que el estudiante requiere “una participación
+más activa en la adquisición de sus aprendizajes, ya que el fomento a la lectura es
+necesario para privilegiarlos, haciendo que tome conciencia de su capacidad de
+aprender por sí mismo” (p. 55).
+Las asignaturas Lectura, Expresión oral y Escrita I y II, se ubican en el mapa
+curricular en 1ro y 2do semestre respectivamente en el Marco Curricular Común de
+la Educación Media Superior (MCCEMS) 2017; es importante resaltar el propósito
+de las competencias disciplinares básicas de comunicación, que de acuerdo con el
+Programa de Estudios del Componente Básico del Marco Curricular Común en la
+EMS (2018) están referidas a:
+“[…] la capacidad de los estudiantes de comunicarse efectivamente en el
+español y en lo esencial en una segunda lengua en diversos contextos,
+mediante el uso de distintos medios e instrumentos. Los estudiantes que hayan
+desarrollado estas competencias podrán leer críticamente y comunicar y
+argumentar ideas de manera efectiva y con claridad oralmente y por escrito.
+Además, usarán las tecnologías de la información y la comunicación de
+manera crítica para diversos propósitos comunicativos. Las competencias de
+comunicación están orientadas además a la reflexión sobre la naturaleza del
+lenguaje y a su uso como herramienta del pensamiento lógico” (p.12).
+
+5
+
+Por lo anterior, estamos en el entendido de que el propósito en los planes y
+programas de estudio se enfoca en que el estudiante genere una argumentación de
+ideas propias y propicie el uso de las Tecnologías de la Información y la
+Comunicación (TIC) de manera crítica. Otro ejemplo de la orientación del programa
+hacia el propósito de la argumentación y la creación de una opinión crítica la
+podemos ver en el desglose de los aprendizajes clave, tal y como se muestra en la
+tabla 1.
+Tabla 1. Aprendizajes Clave de la asignatura del campo disciplinar de Comunicación
+Aprendizajes Clave de la asignatura del campo disciplinar de Comunicación
+Eje
+
+Componente
+
+Contenido Central
+
+Tecnología, información,
+comunicación y aprendizaje.
+
+· Tecnología y desarrollo
+humano.
+· La generación, uso y
+aprovechamiento responsable
+de la información para el
+aprendizaje.
+· El aprendizaje en red.
+· La creación de contenidos
+para el aprendizaje.
+· El uso de la tecnología como
+práctica habilitadora de
+aprendizajes en red.
+
+El impacto de la tecnología
+en el desarrollo humano.
+El manejo responsable de la
+información.
+El aprendizaje e innovación.
+Programar para aprender.
+
+Hay que resaltar el uso de las TICCAD como parte del desarrollo académico
+donde el estudiante debe ser capaz de manejar responsablemente la información e
+incluso crear contenidos para el aprendizaje, contrastando con la realidad del mismo
+donde no hay una certeza sobre el desarrollo de estas habilidades. De acuerdo con las
+Progresiones del Nuevo MCCEMS (2022), documento que brinda las orientaciones
+para el re-diseño curricular de las asignaturas del componente básico, propedéutico y
+profesional en la EMS, específicamente en el Bachillerato tecnológico, se considera la
+necesidad de dar continuidad a la asignatura, integrando Lectura, Expresión Oral y
+Escrita III.
+El Nuevo MCCEMS considera los recursos sociocognitivos como
+aprendizajes articuladores comunes entre los estudiantes que egresen de la EMS, por
+6
+
+lo que éstos son los sucesores de las competencias que se presentan en el programa
+anterior. Estos recursos sociocognitivos constituyen los elementos de la lengua y
+comunicación, el pensamiento matemático, la conciencia histórica y la cultura
+digital.
+Con respecto al recurso sociocognitivo de la Lengua y la Comunicación, el Nuevo
+MCCEMS (2022) indica que:
+“Es el conjunto de habilidades verbales y cognitivas fundamentales, tales
+como la comprensión, el análisis, la comparación, el contraste y la
+formulación discursivas, que permite al estudiantado el disfrute del uso del
+lenguaje y el procesamiento de la información obtenida a través de textos
+escritos y/o de fuentes orales y visuales, tanto en su lengua nativa como en
+otras. Estas habilidades son el fundamento desde el cual se amplía la
+capacidad de relacionarse con los otros, comprender, explicar y transformar
+su realidad. Para que asimismo expresen emociones, perspectivas, críticas y
+planteamientos de orden personal y social”. (MCCCEMS, 2022:4)
+
+En este sentido, la reestructuración del programa de estudios en el ámbito de
+Lengua y Comunicación brinda una oportunidad para dar continuidad concreta a las
+metas de aprendizaje que se establecen, siendo específicamente para la
+implementación de la estrategia para la escritura de ensayos, la que corresponden a
+Lengua y Comunicación III:
+1- Define qué es un ensayo para comprender por qué es importante saber elaborar
+este tipo de ejercicio de problematización sobre la realidad.
+3- Identifica los tipos de ensayo que se pueden hacer y los tipos de textos o
+problemas que son materia para la elaboración de un ensayo para comprender su
+aplicación en todas las áreas de acceso al conocimiento y en los recursos cognitivos
+y sociocognitivos
+4- Identifica los procesos involucrados en la composición de un ensayo para
+comprender la complejidad involucrada en un ejercicio de problematización y toma
+de posición frente a un problema dado y elabora un mapa semántico o mental sobre
+7
+
+los temas e ideas principales de un problema, previo a la composición del ensayo
+para organizar y visualizar la información, la discusión del tema, incluyendo los
+argumentos y evidencias que respaldan su posición.
+6- Identifica las etapas para la composición de un ensayo para comprender el proceso
+de su elaboración.Las Progresiones del MCCEMS 2022 son una propuesta que aún no
+se pone en práctica por lo que resulta difícil identificar si apartir de las nuevas
+prácticas educativas en el Sistema Educativo Nacional (SEN) y en la EMS, se logran
+resultados favorecedores en materia de escritura de ensayos en cualquiera de sus
+categorías y especificando en la argumentación.
+Los aportes sobre la escritura de Rodríguez (2018) definen la escritura como de
+los oficios más difíciles en el medio escolar. Mientras la oralidad es el ejercicio más
+común en la transmisión del conocimiento; en la interacción maestro-estudiante, la
+escritura requiere de unas estructuras mentales más desarrolladas para enviar el
+mensaje con coherencia a cualquier lector sin que se pierda la intención
+comunicativa. (p. 19)
+Dolz y Ramírez (2010) sostienen la argumentación como parte de la expresión
+natural de nuestro lenguaje y se requiere de conocimiento y entendimiento del
+entorno para lograr consolidar una opinión propia a partir de la estructura propuesta
+para un argumento. Por eso, Monzón (2011) indica que “desde esta perspectiva, se
+considera inapropiado inclinarse por la pura razón (lógica) o por el puro lenguaje. La
+argumentación es tanto razón como lenguaje” (p.44).Es importante tomar en cuenta
+que todo proceso de escritura es dinámico y recursivo, ya que el que escribe avanza y
+retrocede en direcciones impredecibles (Flower y Hayes, 1981) por lo que en el
+transitar por la asignatura, el enfoque hacia los contenidos y el rol del docente en la
+estrategia son pieza clave para cumplir con los objetivos de aprendizaje.
+Recursos didácticos digitales
+A través de la tecnología, la globalización ha hecho su labor con el “bombardeo” de
+información que impacta el estilo de vida de los jóvenes estudiantes de nivel medio
+superior; sin embargo, parte del aprendizaje de las habilidades del uso de las
+tecnologías para la educación y la experiencia que se vivió con intensidad durante la
+pandemia más reciente, lleva hacia la conclusión de que es complejo integrar la
+8
+
+educación digital y la didáctica a través de herramientas TICCAD. Las escuelas
+también adaptaron sus métodos de aprendizaje y modificaron la infraestructura las
+aulas, para así integrar opciones viables para atender a todos los estudiantes,
+independientemente del contexto.
+Por ello, las competencias que desarrollen en el aula deben ser acorde a las
+necesidades de conocimiento de la información que exige el entorno donde se
+desenvuelven. La sociedad toma la mano de la tecnología y la comunicación para
+hacer frente a los requerimientos que la pandemia y las generaciones actuales
+necesitan para que comprendan el conocimiento que se busca transmitir. La educación
+se convirtió en una actividad esencial y lo pudimos notar por la falta de interacciones
+tanto académicas como socioemocionales que envolvieron a los jóvenes. El docente
+se debió reinventar en un contexto sumamente complejo y con pocas ventajas de su
+lado.
+“Indiscutiblemente, las tecnológicas juegan un papel muy importante en los
+procesos educativos en tiempos de COVID-19. La mayoría de las propuestas
+educativas se han desarrollado a partir de mediaciones tecnológicas en redes
+(WhatsApp,
+
+Facebook,
+
+Instagram),
+
+plataformas
+
+(EDMODO,
+
+Classroom,
+
+plataformas institucionales) y aplicaciones para la comunicación sincrónica
+(ZOOM, MEET, etc.)”.(Elizondo, 2021)
+El uso de los recursos didácticos digitales no ha sido todo de origen pandémico,
+algunos referentes teóricos del siglo XXI como Cabero (2007):
+“Para poder lograr el uso crítico de las tecnologías y poder reconfigurar estos
+nuevos escenarios educativos, tanto el docente como todos los actores
+involucrados en estos procesos, requieren de formación y perfeccionamiento,
+en donde las tecnologías sean un medio más, no el fin último, generando
+metodologías diversas, transformando las estructuras organizativas y
+generando dinámicas de motivación, el cambio hacia un uso crítico, didáctico
+y pedagógico de las tecnologías. La investigación didáctico-educativa en este
+ámbito es una de las herramientas que posibilitará el análisis, reflexión y
+estudio del binomio tecnología y educación”. (p. 3)
+9
+
+Ser críticos a la hora de evaluar si la información es efectiva, mantenerse responsables
+sobre el uso de la información, autodidactas, autónomos, ética y creatividad a la hora de
+realizar los trabajos, son algunas de las características básicas que se perciben como parte
+del aprendizaje del uso de la tecnología para la educación. De acuerdo con el Marco de
+Competencias de los docentes en Materia de TIC (UNESCO, 2019) hay una serie de
+habilidades que los docentes deben cumplir para su labor en el aula, independientemente de
+la asignatura que cumpla, por lo que es de suma importancia que, para este momento de la
+implementación del prototipo, el docente tenga consolidado el Nivel de Adquisición de
+Conocimientos, de acuerdo a lo siguiente:
+El nivel de adquisición de conocimientos tiene por objetivo habilitar a los docentes
+para que sean miembros efectivos y productivos de la comunidad educativa y a su vez
+ayuden a sus alumnos a convertirse en miembros comprometidos y productivos de la
+sociedad. En este nivel hay seis competencias docentes relacionadas con las TIC. Los
+docentes que dominan las competencias del nivel de adquisición de conocimientos pueden:
+1. determinar cómo y en qué medida sus prácticas docentes se corresponden con las
+políticas institucionales y/o nacionales y apoyan su consecución;
+2. analizar las normas curriculares y determinar cuál puede ser el uso pedagógico de
+las TIC para cumplirlas;
+3. seleccionar adecuadamente las TIC en apoyo a metodologías específicas de
+enseñanza y aprendizaje;
+4. conocer las funciones de los componentes de los equipos informáticos y los
+programas de productividad más comunes, y ser capaz de utilizarlos;
+5. organizar el entorno físico de tal manera que la tecnología esté al servicio de
+distintas metodologías de aprendizaje de forma inclusiva; y
+6. utilizar las TIC para su propio perfeccionamiento profesional
+Sin olvidar algunos métodos “tradicionales”, el uso de las tecnologías en la
+educación no debe depender de un entorno apto o no apto si no de la habilidad para
+incluir estos en el proceso enseñanza. Tanto de forma generacional como de manera
+natural, la globalización está orillando al ser humano a creer que el mundo vive dentro
+10
+
+de una burbuja tecnológica, si no se aprende a aprovechar dichos recursos entonces se
+le podría dar una orientación poco adecuada al propósito de los mismos. Todo aquel
+que se compromete con la educación debe tener presente la responsabilidad y el
+compromiso con estudiantes, lo que lo lleva a prepararse día a día para brindar una
+mejor enseñanza.
+El docente debe saber cómo orillar al estudiante a que, a partir de las tecnologías,
+dispositivos u otros objetos con los que se familiarizan día con día, cree algo único a
+lo que después pueda llamar “conocimiento u aprendizaje” y entrelazar las
+habilidades desarrolladas necesarias para la vida cotidiana.
+
+Evaluación de la escritura de ensayos argumentativos
+El proceso evaluativo de aprendizaje en los estudiantes, reside en las evidencias y
+productos que este presenta como resultado de su proceso de aprendizaje; es decir,
+elementos que se puedan percibir por medio de los sentidos básicos, y se puedan
+registrar en una escala simple, esto es pues, la necesidad de presentar avances
+constantes en asignaciones que requieran del uso de los conocimientos construidos, y
+a partir de estos, determinar de qué manera se llevó el conocimiento, y si este es
+pertinente con respecto a las competencias que se buscan implementar.
+La evaluación y la retroalimentación son fundamentales para lograr un
+aprendizaje profundo y significativo. Como se ha mencionad antes, el estudiante debe
+tener muy claras las metas de aprendizaje y ser consciente de sus capacidades de
+aprendizaje.
+Para lograr una evaluación sobre el desarrollo de habilidades comunicativas, la
+metodología debe de estar enfocada en el modo cualitativo, pues el estudiante
+construye el significado de su conocimiento a partir del desarrollo del mismo; éste
+puede variar de individuo a individuo. Existe un conjunto de preceptos que el lector
+emplea para comenzar con el proceso de comprensión de acuerdo con Goodman
+(1986)
+
+anticipación,
+
+predicción,
+
+inferencias,
+
+muestreo,
+
+confirmación
+
+y
+
+autocorrección. El proceso se vuelve interactivo con la percepción de la realidad del
+estudiante y el docente que maneja la actividad.
+11
+
+El docente a cargo juega un papel importante en el desarrollo correcto de la
+evaluación de este proceso, ya sea para darle el sentido cualitativo, así como para
+generar un orden específico de los pasos a seguir. Los textos deben ser seleccionados
+con una secuencia adecuada para cada estudiante o para la dinámica del grupo que
+participará en el proceso.
+Para lograr la contextualización de la evaluación y trasladar hacia la innovación
+se requieren instrumentos digitales elaborados en plataformas como classroom o
+softwares como Excel, así mismo adaptar los puntos a las capacidades y necesidades
+de acuerdo con los aprendizajes esenciales que cada subsistema define, tal y como se
+propone en la implementación de la estrategia. Para que el proceso de evaluación del
+ensayo sea a fin a la realidad de aprendizaje de los estudiantes, así como que abarque
+con amplitud la mayor parte de los elementos para su escritura, deberá implicar un
+instrumento que describa de forma clara el producto esperado.
+Está claro que un proceso que conlleva un aprendizaje debe de esquematizarse
+meticulosamente, pues se trata de todo aquello que funcionará en la vida cotidiana
+para la resolución de problemas. Es por tanto que se debe definir con cuáles
+características debe de contar el desarrollo integral de la escritura del ensayo para que
+éste se convierta en un conocimiento que aporte habilidades para el quehacer
+cotidiano.
+Es menester evaluar el desarrollo de habilidades comunicativas como una vertiente
+que se coadyuva de los elementos que conforman la realidad, siendo estos los que
+determinan a la escritura de un ensayo; es claro que cualquier habilidad se obtiene a
+partir de un proceso en el cual se ponen a prueba las capacidades de un individuo, y
+su capacidad (aptitudes y actitudes) de llevar estas mismas capacidades a planos que
+requieren de un procedimental mucho más complejo.
+Por lo anterior, se hacen las siguientes recomendaciones sobre los aspectos
+sugeridos para la evaluación de los aprendizajes, de acuerdo con el Programa de
+Estudios del Componente básico del MCC de la EMS (2018), como se muestra en la
+tabla 2.
+
+12
+
+Tabla 2. Aspectos sugeridos para la evaluación de los aprendizajes.
+1
+
+Establecer metas de aprendizajes para cada actividad sobre los aprendizajes esperados
+
+2
+
+Comunicar adecuadamente los aprendizajes de los alumnos
+
+3
+
+Explicar con claridad que es lo que se espera de su desempeño en cada actividad
+
+4
+
+Considera que la evaluación es formativa y mejora el aprendizaje
+
+5
+
+Detectar y atender las fortalezas y debilidades de su aprendizaje
+
+6
+
+Dar retroalimentación objetiva y constructiva de sus evaluaciones
+
+7
+
+Emplear herramientas de evaluación y construir esquemas válidos de calificación
+
+8
+
+Enseñar a aprender del error, a reflexionar sobre sus aciertos e identificar estrategias de
+aprendizajes
+La evaluación propicia la buena gestión curricular
+
+Uso de las TIC en la Educación Media Superior
+En el siglo XXI, la inclusión de las Tecnologías de la Información y la
+Comunicación (TIC) ha evolucionado al concepto de TICCAD en la educación y por
+ende éste ha revolucionado los conceptos del proceso de enseñanza, aprendizaje,
+competencias, entre otros. Todo el significado de la educación en la sociedad ha
+dado un giro de 180 grados, puesto que ahora nos enfrentamos no sólo a nuevas
+tecnologías sino a nuevas generaciones que nacen con otras habilidades para su
+desarrollo social, educativo y personal.
+El uso de las TIC supone el dominio del código y, por decirlo de una manera
+coloquial, ahora ocurre una doble desventaja dada la condición de analfabetismo: no
+sólo no se domina el código y no se tiene acceso a los bienes culturales y espacios
+comunicativos tradicionales, sino que en el entorno de la cultura digital ocurre una
+doble discriminación y aumenta el grado de marginalidad. No se trata solamente de
+un manejo pobre de la escritura, sino de la habilidad para moverse en los entornos
+virtuales y comprender las convenciones de comportamiento y de interacción en el
+mundo digital (Cassany, et. al., 2018).
+En un primer momento, podemos referir al Instituto Nacional para la Evaluación
+Educativa, en su informe de la Educación Obligatoria en México (2019) donde se
+presenta el porcentaje de escuelas que disponen de computadoras para estudiantes e
+13
+
+internet, donde el nivel EMS tiene una aproximación al 70% en comparación con
+preescolar, primaria y secundaria, dato ciertamente alarmante debido a que la
+educación básica no permite el acercamiento de los niños hacia la tecnología para el
+aprendizaje tal y como lo exige el perfil de egreso en EMS, y lo que implica que
+recibimos jóvenes con poco o nulo conocimiento sobre el uso de un procesador.
+El reporte Indicadores Nacionales de la Mejora Continua de la Educación en
+México 2021, elaborado por la Comisión Nacional para la Mejora Continua de la
+Educación (MEJOREDU), destaca los estados con mayor y menor conectividad con
+fines pedagógicos en sus planteles, véase la tabla 3.
+Tabla 3. Estados de mayor a menos conectividad (elaboración propia)
+ESTADO
+
+CONECTIVIDAD (en %)
+
+Baja California
+
+79.9
+
+Ciudad de México
+
+77.2
+
+Morelos
+
+67.8
+
+Sonora
+
+66.1
+
+Aguascalientes
+
+65.3
+
+Tlaxcala
+
+62.3
+
+Colima
+
+57.4
+
+Baja California sur
+
+54.2
+
+Veracruz
+
+26.7
+
+San Luis Potosí
+
+26.5
+
+Durango
+
+24.3
+
+Tabasco
+
+21
+
+Guerrero
+
+20.9
+
+Oaxaca
+
+14.7
+
+Chiapas
+
+11
+
+Es importante impulsar el uso de las TICCAD en el aula en todas las
+asignaturas, ya que debemos migrar de manera progresiva hacia la adaptación de los
+contenidos para que los estudiantes se sientan comprometidos con su aprendizaje y
+familiarizados con su proceso de aprendizaje, su desarrollo exige actualización por la
+rapidez con la que el mundo globalizado transita información.
+14
+
+El docente que aprovecha la tecnología puede facilitar el proceso de enseñanza si se
+emplea bajo metodologías que lo permitan. Además de lo anterior, en el estudiante
+debe existir el compromiso por aprender y un uso correcto de la tecnología guiado
+por el docente, aprovechando al máximo cada espacio y donde la interacción que
+ejerce a través de las redes sociales enriquezca su conocimiento tecnológico y no solo
+represente un medio de distracción. Respecto a la lectura que realizan los estudiantes
+jóvenes en Internet se ha encontrado lo siguiente:
+“La mayoría de los chicos no valora el texto en primer lugar sino el diseño
+general, imágenes e ilustraciones, animaciones, colores, diferentes tipografías,
+es decir, elementos visuales “divertidos” y que les llamen la atención [...] un
+diseño atractivo puede definir si leerán o no la información que tiene ese sitio
+(Arabello, 2011, como se citó en Hernández y Hernández,et. al., 2018).
+La propuesta de estrategia se basa en una metodología que se adapte a la
+forma en cómo los jóvenes construyen sus relaciones lógicas a través del dinamismo
+de las TICCAD, tomando en cuenta la manera cómo la lectura y escritura sea
+coherente y ad hoc con su estilo de vida y en cómo discriminan información, lo que
+requieren y lo que no, así como la construcción de argumentos para conformar un
+texto, específicamente un ensayo argumentativo.
+Se considera importante tomar en cuenta que la tecnología, por sí misma, no
+genera mejoras en los procesos de enseñanza y aprendizaje, sino que está ligada de
+manera intrínseca a los objetivos que persiguen las instituciones, el currículo y los
+objetivos de aprendizaje específicos de los contenidos de unidades de conocimiento
+que aborda cada profesor (Garzón, 2015).
+Por otro lado, existe una serie de elementos que conforman una estrategia
+didáctica, de acuerdo con McCarthy y McCarthy (2006), tal y como se muestra en la
+tabla 4.
+Tabla 4.Elementos que conforman una estrategia didáctica
+Elementos
+Etapas de la estrategia didáctica
+
+Descripción
+1. Apertura
+2. Desarrollo
+3. Cierre
+
+Momento sistema 4 MAT
+
+1. Conectar
+
+15
+
+2. Examinar
+3. Imaginar
+4. Definir
+5. Internar
+6. Extender
+7. Refinar
+8. Integrar
+Actividades
+
+1. Inducción
+2. Enseñanza
+3. Aprendizaje
+4. Reforzamiento
+5. Evaluación
+6. Retroalimentación
+
+Recursos utilizados
+
+1. Tarjetas
+2. Imágenes
+3. Juegos didácticos
+
+Productos de aprendizaje
+
+1. De conocimiento
+2. De desempeño
+3. De actitud
+
+Tipos de instrumentos de evaluación
+
+1. Listas de cotejo
+2. Rúbricas
+3. Test
+4. Guías de observación
+
+La estrategia a implementar deberá considerar los objetivos propuestos en el
+programa de estudios, tomando en cuenta los elementos de escritura del ensayo, el
+proceso de selección de tema, así como las TICCAD como el elemento principal para
+la relación lógica de la información y su desarrollo correcto. La metodología didáctica
+es la estrategia de enseñanza que propone un docente para el trabajo en el aula. Se
+parte de la metodología, como medio para el logro de los objetivos, y de la didáctica,
+como herramienta de esa metodología, en procura de los resultados esperados.
+Metodología STEAM
+La metodología educativa de vanguardia Science, Tecnology, Enginering, Arts and
+Matematics (STEAM) surge a partir del 2008 cuando en EE.UU se propone
+incorporar las humanidades hacia un enfoque muy caracterizado por desarrollar la
+ingeniería en la resolución de problemas y el uso de la tecnología; el STEAM se
+caracteriza por permitir que los estudiantes desarrollen el pensamiento de diseño a
+16
+
+través de los recursos disponibles, sin necesidad de requerir otros que parezcan
+“inalcanzables” para el centro educativo.
+Los estudiantes adquieren habilidades cognitivas en tareas relacionadas con
+STEM, donde aprenden pensando y experimentando. La gestión y el procesamiento
+de la información (identificar, recopilar, procesar y utilizar datos relevantes para
+tomar decisiones), el pensamiento crítico, creativo y analítico, las habilidades para
+resolver problemas, la exploración científica, la inventiva y el pensamiento
+computacional se encuentran entre los talentos cognitivos requeridos (BoonNg, 2019)
+Hawkins et al. (2018) sostienen que la tendencia en educación STEM ha
+abierto campos de interés y ha examinado diferentes perspectivas en diferentes
+contextos de nivel educativo, desde las escuelas iniciales hasta las universidades,
+considerando la coyuntura histórica de la evaluación de las instituciones educativas.
+Además, las evoluciones de los enfoques educativos han servido para establecer
+resultados y criterios dinámicos, que presentan los rezagos y las ventajas en términos
+de reformas y transformaciones educativas.
+La importancia del STEAM en la propuesta del proyecto recae en involucrar todas las
+asignaturas que los estudiantes cursan en el semestre lectivo al momento de la escritura del
+ensayo, esto con el fin de que se logre relacionar la importancia de la escritura de un ensayo
+argumentativo con el aprendizaje real, con situaciones de la vida diaria y que puedan
+identificar su utilidad en el ámbito laboral y/o personal. En el plantel objetivo de la
+investigación, el alcance de la tecnología es limitado por lo que es más complejo realizar un
+acercamiento a la metodología e implementar al 100% los objetivos de aprendizaje que
+propone el STEAM; sin embargo, en el contexto de la pandemia y haciendo un análisis
+sobre la forma en cómo aprenden los jóvenes así como su relación con la tecnología, es
+importante aprovechar la oportunidad de adecuarlo hacia las herramientas que tienen acceso,
+tomando en cuenta todo el proceso instruccional y el pensamiento de diseño como ejes.
+Por otro lado, la idea de integrar la metodología STEAM surge a partir de las bases
+que fundamentan este método de aprendizaje, de acuerdo con Christopoulos, Pazeraite, et
+al. (S.F.) habilidades que se desarrollan de la siguiente manera:
+
+17
+
+-
+
+Habilidades de aprendizaje e innovación: su objetivo es garantizar que los alumnos
+participen en un entorno de aprendizaje productivo.
+
+-
+
+Pensamiento crítico y capacidad de resolución de problemas: el pensamiento crítico
+implica un examen y una evaluación exhaustivos de las afirmaciones, las pruebas y las
+creencias. Las habilidades para resolver problemas son útiles en el siglo XXI para
+ayudar a las personas a resolver circunstancias inusuales utilizando técnicas efectivas.
+
+-
+
+Comunicación: las personas deben comunicar sus pensamientos de manera efectiva en
+una variedad de circunstancias utilizando métodos de comunicación verbal y textual. En
+esta dirección, las habilidades de comunicación efectiva se vuelven más importantes.
+
+-
+
+Colaboración: las personas deben poder colaborar respetuosamente con varios equipos
+en entornos educativos y comerciales. Los estudiantes deben estar inmersos en la
+colaboración como resultado de los enfoques de educación colaborativa.
+
+-
+
+Creatividad e Innovación: La capacidad de generar un concepto amplio para generar
+conceptos nuevos y útiles. (s.p.)
+II.
+
+JUSTIFICACIÓN
+
+Es necesario involucrar a los estudiantes en la escritura de ensayos argumentativos a través
+del uso de la tecnología por medio de la metodología STEAM; el modelo STEAM replica
+en las aulas los modos en que se desarrolla la ciencia: hace preguntas, examina objetos,
+rastrea antecedentes, indaga sobre necesidades. Se plantean hipótesis, se conjeturan
+respuestas y se vuelve a empezar.
+También se espera que el promedio de aprovechamiento de los jóvenes (indicador que
+se obtiene a partir de una primera aplicación del instrumento diagnóstico) suba un 2% en
+referencia al obtenido en el ciclo escolar 2021-2022 en la asignatura de Lectura, Expresión
+Oral y Escrita, esto a partir de implementar un proyecto STEAM denominado “Escritura de
+ensayos argumentativos por medio del uso de las TICCAD”, donde involucra a los
+estudiantes a investigar, interactuar con la tecnología y escribir un ensayo argumentativo de
+forma correcta y con argumentos debidamente fundamentados.
+Para lograrlo, será necesario apoyar los procesos educativos en el aula (estrategias,
+prácticas, metodologías de enseñanza) con el uso de las TICCAD con responsabilidad para
+su uso pertinente y que se complementen los objetivos de aprendizaje. De tal forma que
+18
+
+anticipamos la viabilidad, pero en los programas y en llevarlos a cabo el docente necesita
+preparación en competencias tecnologías y pedagógicas en colaboración con el esfuerzo
+colectivo para cerrar la brecha que separa a las escuelas marginadas o carentes de
+infraestructura, tal es el caso del plantel de estudio.
+A partir de las diversas situaciones suscitadas tanto por la pandemia por COVID-19 y
+la inclusión de las TICCAD en la educación, así como el avance y mejora del desarrollo de
+las prácticas educativas, los estudiantes del plantel objetivo. Los jóvenes estudiantes
+pertenecen al Centro de Estudios Tecnológicos, industrial y de servicios CETis No. 18. Es
+así como cobran importancia la forma de trabajo en el aula y los contenidos, en tanto
+corresponden al campo disciplinar y promueven que el estudiante siga aprendiendo de
+forma autónoma a lo largo de su vida. Además, el alumno deberá desarrollar la
+competencia de la lectura y escritura al reconocer y ejercer las cuatro habilidades de la
+lengua: escuchar, leer, hablar y escribir, con el fin de aplicarlas a diversas situaciones de su
+vida, académicas y cotidianas.
+
+El contexto social (rango de edades y nivel de estudios de los estudiantes) es
+regular, acorde al requerido para la educación preparatoria, esto quiere decir que cuentan
+con edad de entre 15 y 18 años, en sus respectivos semestres, con materias regulares; son
+escasos los jóvenes que estén repitiendo semestre o aquellos que ya cuenten con mayoría
+deedad. Los integrantes del grupo objetivo son de clase media baja debido a la ubicación
+de la escuela, hay casos de pobreza extrema y algunos incluso cuentan con beca
+alimenticia.
+Con respecto al mejoramiento de los procesos de formación mediante la educación
+STEAM, se ha destacado la aplicación de un modelo constructivista, que vayan de la mano
+con el desarrollo tecnológico considerando procesos asociados al dinamismo de la
+educación virtual, ya que mediante al utilizar la tecnología como una herramienta educativa,
+permite abrir fronteras del aprendizaje colaborativo (Zambrano Cruz, 2017).
+Por lo anterior, se busca mejorar la forma en cómo los jóvenes pueden crear una relación
+más estrecha con su procesamiento lógico a partir de la escritura de un ensayo, esto
+respetando la parte teórica fundamental para después migrar hacia un diseño de una
+estrategia basada en el uso de un formulario de Google, el cual es automatizado y se refiere
+19
+
+sobre identificar cada parte del escrito primero de forma sistemática y después en forma de
+relación lógica en un procesador de textos con funciones específicas (como la de
+correspondencia). Para integrar completamente el STEAM y su justificación de uso, será
+necesario involucrar temáticas de las asignaturas de manera transversal vertical y horizontal,
+así como la investigación de la información, uso de datos estadísticos y la relación de un
+tema de actualidad para la fundamentación.
+
+III.
+
+DESCRIPCIÓN DEL PROBLEMA
+
+De acuerdo a los indicadores estadísticos del plantel (F911, 2022) no se logra concretar el
+proceso de aprendizaje a través de la tecnología, es por ello del rezago educativo y los
+índices de reprobación, siendo ésta un medio sólo para entretenimiento y menos para su uso
+académico, carecen de conocimientos básicos de uso de herramientas tecnológicas para el
+aprendizaje, pero sí para el uso cotidiano, sean redes sociales o de comunicación masiva.
+Al momento de abordar los aprendizajes esperados, y específicamente al momento de
+trabajar el tema de “textos argumentativos” y la escritura de un ensayo argumentativo en la
+asignatura de Lectura, Expresión Oral y Escrita, les cuesta trabajo realizar investigación en
+medios electrónicos así como el aprendizaje básico de la teoría, no se diga sobre el proceso
+práctico de la escritura; por lo anterior, este trabajo busca la implementación de una
+estrategia de enseñanza de escritura de textos argumentativos por medio de recursos
+tecnológicos didácticos y la metodología STEAM para resolver dicha problemática.
+Otra problemática es la de que los estudiantes no son capaces de consolidar los objetivos
+de aprendizaje sobre el tema de ensayos argumentativos, al no lograr redactar un texto de
+manera correcta con los argumentos y la estructura necesaria; tampoco reconocen las fuentes
+de información, discriminación de fuentes confiables, citado en APA, entre otros elementos
+necesarios para su escritura, tomando en cuenta que en ello se involucra el uso de las
+TICCAD, las cuáles tampoco identifican.
+IV.
+COMITÉ DE BIOÉTICA
+Para implementar la estrategia que se propone, la cual consiste en guiar al
+estudiante a la escritura de textos argumentativos a través de herramientas digitales
+20
+
+respondiendo a la metodología STEAM, con acceso limitado al uso de las
+tecnologías, no implica ninguna actividad que sea de riesgo o utilice el uso de datos
+personales de los jóvenes, ya que solamente se estará interpretando los resultados a
+partir de métodos cualitativos que puedan ser generalizados para su implementación
+en otros contextos o con resultados que hagan las posibilidad de expandir las
+posibilidades de perfectibilidad o derivar de otros ejes de investigación.
+V.
+
+PLANTEAMIENTO TEÓRICO
+
+Supuesto o /hipótesis
+Mediante el desarrollo de una estrategia de enseñanza integrada con metodología STEAM
+los estudiantes serán de capaz de escribir ensayos argumentativos respondiendo a los
+elementos de escritura de estos, sus características y estructura.
+
+Preguntas de investigación
+1.
+
+¿Cuáles son los referentes del STEAM para el proceso de enseñanza de la escritura en
+
+Educación Media Superior?
+2.
+
+¿Cuáles son las estrategias de enseñanza de escritura del ensayo argumentativo en la
+
+asignatura de LEOYE en el Bachillerato Tecnológico?
+
+3.
+
+¿Cómo se desarrolla una estrategia de enseñanza y aprendizaje de la escritura de los
+
+ensayos argumentativos en la asignatura de LEOYE en Bachillerato tecnológico utilizando
+STEAM?
+VI.
+OBJETIVOS
+Objetivo General
+Desarrollar una estrategia para el mejoramiento de las competencias en la escritura de
+ensayos argumentativos a través de una herramienta didáctica basada en metodología
+STEAM en el plantel CETIS No. 18.
+
+21
+
+Objetivos específicos
+•
+
+Analizar los fundamentos de la escritura de ensayos argumentativos en la EMS
+
+•
+
+Establecer un marco teórico sobre la metodología STEAM y la escritura de
+ensayos argumentativos en la Educación Media Superior (EMS).
+
+•
+
+Delimitar el contenido específico de las teorías asociadas con el aprendizaje de
+la argumentación en bachillerato tecnológico a partir de las necesidades
+educativas de los jóvenes con el fin de implementar una metodología de
+enseñanza.
+
+•
+
+Desarrollar una estrategia didáctica para la escritura de ensayos argumentativos
+en LEOYE de acuerdo con el entorno de los estudiantes como objeto de estudio
+en EMS, bajo la metodología STEAM.
+
+VII.
+
+METODOLOGÍA
+
+La metodología a utilizar será la de investigación-acción, el paradigma cualitativo
+con respecto a la recolección de datos y una metodología didáctica para la
+implementación de la estrategia.
+La Investigación-acción permite desarrollar un enfoque sistemático hacia sus
+propias prácticas orientado a lograr un cambio positivo (Holter y Frabutt, 2012,
+como se citó en Contrera-espinosa, et.al., 2016).
+La metodología se basara en el modelo adaptado de Eguía –Gómez, ContrerasEspinosa y Albajes (2014), que consiste en 2 ciclos y 5 fases que a continuación
+se adaptan a la estrategia del presente protocolo para su explicación.
+Fase I. Diagnóstico. Previamente a la estrategia se aplica el diagnóstico, en un focal
+de instrumentos, conjunto de tres a 10 personas que conversan en un ambiente
+relajado e informal, bajo la conducción activa y directiva de un moderador y el
+registro de información se realiza a través de la observación. Una vez analizado se
+procederá al desarrollo e implementación de la estrategia
+
+22
+
+Fase II. Planificación de la acción. En esta etapa se analizaran los instrumentos que
+se adaptan al contexto del plantel. Se utilizan formatos oficiales de planificación, se
+trazan objetivos de aprendizaje relacionados con el programa de estudio y se
+establecen las metas y los tiempos.
+Fase III. Acción. En esta etapa se realizará una intervención donde se implementa la
+estrategia desarrollada que se adecúa a las necesidades de aprendizaje del contexto de
+los estudiantes; se aborda el STEAM a partir de establecer una acción para cada
+disciplina involucrada: Science(investigación), Tecnology(uso de las herramientas
+TICCAD para la escritura del ensayo), Enginering(resolución de un problema,
+argumentación de un tema) Art (expresión escrita) Matematics (Manejo de
+estadística).
+Fase IV. Evaluación. A partir de una rúbrica, se evalúan procesos, factibilidad y resultados
+(la escritura, sus elementos, características) así como el cumplimiento de los criterios de
+evaluación establecidos.
+Fase V. Especificaciones. Se adecúa de acuerdo a las necesidades arrojadas al finalizar la
+fase IV y se conforma el proyecto escrito.
+a) Recursos materiales y humanos:
+Materiales: Aula, proyector, computadora, aula de cómputo, internet en el plantel
+Recursos humanos: Docente, estudiantes (grupo focal y completo)
+b) Cronograma
+2022
+
+Actividad
+10
+
+11
+
+2023
+12
+
+01
+
+02
+
+03
+
+04
+
+05
+
+2024
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+01
+
+02
+
+03
+
+Revisión
+sistemática
+Análisis de
+conceptos
+Diagnóstico
+Publicación de
+artículo
+Diseño de la
+metodología
+
+23
+
+Ponencia
+Desarrollo de
+la
+metodología
+Evaluación
+Recopilación y
+procesamient
+o de datos
+Validación de
+la propuesta
+
+RESULTADOS
+
+ESPERADOS,
+
+POSIBLES
+
+APLICACIONES
+
+Y
+
+USO
+
+DEL
+
+PROYECTO
+El principal resultado esperado es el de diseñar la estrategia para la escritura de ensayos
+argumentativos y aplicarla para que cumpla con los objetivos de aprendizaje, misma que
+debe quedar como repositorio para que no sólo sea un objeto de investigación sino un
+instrumento de utilidad para el plantel y toda la academia de LEOYE.
+Los resultados obtenidos servirán como parámetro para continuar evaluando el
+quehacer docente no sólo en situaciones en línea sino en su aplicación en el aula (ya dentro
+de un modelo híbrido), con el fin de que todos los estudiantes tengan acceso a la
+metodología propuesta y adaptarla a cada grupo, a cada individuo en el aula, tomando en
+cuenta sus emociones, preferencia y estilos de aprendizaje.
+La selección de los contenidos, el tratamiento integrado de los mismos, la organización
+espacial y temporal, los materiales y recursos didácticos, la vinculación o la proximidad
+entre las tareas y los intereses del alumnado, la función social de las tareas, la diversidad del
+alumnado, los ritmos y modos de aprender, la organización del profesorado para dar
+respuesta a todos estos aspectos, el trabajo en equipo, las altas expectativas o el fomento del
+deseo de aprender. Su uso puede trascender en que el instrumento que se diseñe sea parte de
+las planeaciones o de los programas de la asignatura, así como innovar en los métodos de
+enseñanza para las futuras aplicaciones.
+VIII.
+
+INDICE TENTATIVO DE LA TESIS
+
+Agradecimientos.
+Índice.
+
+24
+
+Índice de Figuras y tablas
+Abreviaturas y siglas
+Resumen en español
+Abstract.
+I.
+
+Introducción / planteamiento del problema y justificación.
+
+II.
+
+Antecedentes/estado del arte.
+2.1 Enseñanza de la escritura de ensayos argumentativos en Educación Media Superior
+2.2 Rediseño del Marco Curricular Común en la Educación Media Superior
+2.3 La enseñanza de la escritura en el Bachillerato Tecnológico
+2.4 STEAM en México
+
+III.
+
+Fundamentación teórica.
+3.1 Progresiones del MCCEMS 2022
+3. 2Estrategias didácticas para la escritura de ensayos argumentativos
+3. 3Uso de las TICCAD en la EMS
+3. 4STEAM en la enseñanza de la escritura
+3.5 Evaluación de ensayos argumentativos
+
+IV.
+
+Hipótesis o supuestos
+4. 1 Hipótesis
+4. 2 Variable dependiente
+4. 3Variable Independiente
+
+V.
+
+Objetivos.
+5. 1Objetivo general
+5. 2 Objetivo Específico
+
+VI.
+
+Material y Métodos o Metodología
+6.1 Medios STEAM
+6.2 Uso del aula de cómputo escolar
+
+VII.
+
+Resultados y discusión
+
+VIII.
+
+Conclusiones.
+
+IX.
+
+Bibliografía
+
+X.
+
+Anexos
+
+IX.
+
+REFERENCIAS BIBLIOGRÁFICAS
+
+Baena, P. G. M. E. (2017). Metodología de la investigación (3a. ed.).
+Bustamante, S. (2011). La escritura de textos: un problema gramatical, retórico y psicológico. Paradigma, 32(2),
+39-52. http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1011-22512011000200004
+Boon Ng, S. (2019). Exploring STEM competences for the 21stCentury. IBE.
+Cabero, A. (s.f.). Las necesidades de las TIC en el ámbito educativo: oportunidades, riesgos y necesidades.
+Tecnología
+y
+Comunicación
+Educativas
+Año
+21,
+No.
+45.
+http://investigacion.ilce.edu.mx/tyce/45/articulo1.pdf
+
+25
+
+Campoy, A. y Gómez, A. (2016). Técnicas e instrumentos cualitativos de recogida de datos. En Manual básico
+para la realización de tesinas, tesis y trabajos de investigación (pp. 273-300). España: EOS. Consultado
+de http://www2.unifap.br/gtea/wp-content/uploads/2011/10/T_cnicas-e-instrumentoscualitativos-de-recogidade-datos1.pdf
+Contreras-Espinosa; J. L. Eguia-Gómez; L. Solano AlbajesInvestigacción-acción como metodología para el diseño
+de un seriousgame 76 RIED. Revista Iberoamericana de Educación a Distancia (2016), 19(2), pp. 71-90.
+DOI:
+http://dx.doi.org/10.5944/ried.19.2.15624
+Domènech, J., Lope, S., &Mora, L., (2019). Qué proyectos STEM diseña y qué dificultades expresa el
+profesorado de secundaria sobre Aprendizaje Basado en Proyectos.Revista Eureka sobre Enseñanza y
+Divulgación de las Ciencias, 16 (2), 2203 - 2203-16. 10.25267/Rev_Eureka_ensen_divulg_cienc. 2019.
+4.
+Echeverría, V., (2019). Aprendizaje basado en proyectos y TIC’S en clase EFL (English foreinglanguage).
+[Conference]. 5to Congreso Internacional de Ciencias 491 Pol. Con. (Edición núm. 48) Vol. 5, No 08,
+agosto 2020, pp. 467492, ISSN: 2550 - 682X
+García-Cabrero, B., Loredo, J., Luna, E., y Rueda, M. (2014). Competencias docentes en educación media y
+superior. Desarrollo y validación de un modelo de evaluación. México: Universidad Autónoma de Baja
+California/Juan Pablos Editor.
+Garzón, R. (2015) Modelo de alfabetización digital para profesores universitarios. México: Universidad
+Autónoma de
+Chiapas
+Hawkins, J. N., Yamada, A., Yamada, R., & Jacob, W. J. (2018). New Directions of STEM Research and
+Learning in theWorld Ranking Movement. New Directions of STEM Research and Learning in theWorld
+Ranking Movement. https://doi.org/10.1007/978-3-319-98666-1
+Hernández, R., Fernández, C. y Baptista, M. (2010). Definiciones de los enfoques cuantitativo y cualitativo, sus
+similitudes y diferencias (pp. 4-23); Recolección y análisis de los datos cualitativos (pp. 406-435). En
+Metodología
+de
+la
+Investigación
+(5.ª
+ed.).
+México:
+McGraw-Hill.
+https://www.esup.edu.pe/descargas/dep_investigacion/Metodologia%20de%20la%20investigaci%C3%B
+3n% 205ta%20Edici%C3%B3n.pdf
+Hernández y Hernández, D., Cassany, D., López, R.(2018) Prácticas de lectura y escritura en la era digital / 1a ed .
+- Córdoba : Brujas ; México : Asociación Civil Social TIC.
+Hughes, B.S., Corrigan, M.W., Grove, D. et al. (2022) Integrating arts with STEM and leading with STEAM to
+increase science learning with equity for emerging bilingual learners in the United States. IJ STEM Ed 9,
+58 https://doi.org/10.1186/s40594-022-00375-7
+INEE
+(2019).
+La
+educación
+obligatoria
+en
+México.
+Informe.
+https://www.inee.edu.mx/medios/informe2019/stage_01/cap_020204.html
+Latorre, A.
+(2007). La
+investigación-acción.
+conocer y
+cambiar la
+práctica
+educativa. https://www.uv.mx/rmipe/files/2019/07/La-investigacion-accion-conocer-y-cambiarla-practica-educativa.pdf
+Leyva, Y., y Guerra, M. (Coords.) (2019). Práctica docente en educación básica y media superior. Análisis de
+autorreportes
+de
+la
+Evaluación
+del
+Desempeño
+2015.
+México:
+INEE.
+https://www.inee.edu.mx/wpcontent/uploads/2019/08/P1C158.pdf
+Meza, H. & Duarte, E. (2020). La metodología STEAM en el desarrollo de competencias y la resolución de
+problemas. [Conference]. ll Congreso Internacional de Educación: UNA nueva mirada en la mediación
+pedagógica. Costa Rica. https://bit.ly/3foQulz 5.
+Sánchez, S. Rodríguez, J. (Coord) (2022). Didáctica de la lengua y la literatura y nuevas tecnologías. Editorial
+Dykinson. Chile.
+Sánchez-Rodríguez, J., Colomo Magaña, E., Sanchez-Rivas, E., & Ruiz-Palmero, J. (2020). La tecnología como
+eje del cambio metodológico. https://riuma.uma.es/xmlui/handle/10630
+Solano, J. (2022). Sólo 373% de escuelas tienen Internet con fines pedagógicos: reporte. La jornada,
+https://www.jornada.com.mx/notas/2022/03/03/sociedad/solo-37-3-de-escuelas-tienen-internet-con-finespedagogicosreporte/
+Plan Estatal de Desarrollo (2021-2027)
+SEP. Programa Sectorial de Educación (2018-2024) Derivado del Plan Nacional de Desarrollo
+
+26
+
+Peña, J. (2000) Las estrategias de lectura: Su utilización en el aula. Educere, vol. 4, núm.1. Universidad de los
+Andes. Mérida, Venezuela. https://www.redalyc.org/pdf/356/35601104.pdf
+Programa de estudio de referencia del componente básico del marco curricular común de la educación media
+superior. LEOYE II (2018). http://www.sems.gob.mx/curriculoems .
+Ramos, F. (2001). “Pedagogía de la Lectura en el Aula” Guía para maestros. ED. Trillas. México,
+Rivero, A. (2010) El aprendizaje del español en el nivel medio-superior. Diagnóstico y propuestas (UNAM)
+citando a periódico La Jornada. http://www.scielo.org.mx/scielo.php?pid=S018527602010000400003&script=sci_arttext
+Teachingaroundthe 4MAT cycle (2006) Designing instruction for diverse learners with diverse learning styles.
+CA: CorwinPress.
+Tecnoacademia de Neiva(s.f.). Ciencias Humanas,.http://revistas.usbbog.edu.co/index.php/C
+https://www.redalyc.org/journal/4768/476855013008/html/
+Zambrano Cruz, K. J. (2017). Vista de Fortalecimiento de las matemáticas a través de las STEAM en la
+
+A TEN TA M ENT E
+
+Rosela Granados Andrade
+Firma y Nombre del Alumno
+
+27
+
+

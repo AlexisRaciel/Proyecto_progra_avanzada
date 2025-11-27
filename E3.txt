@@ -1,0 +1,917 @@
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 24 de enero del 2024
+Doctorado en Innovación en Tecnología Educativa
+Me permito presentar ante el H. Consejo Académico de la Facultad de
+
+NOMBRE DEL PROGRAMA
+
+Informática la siguiente solicitud de titulación por tesis de acuerdo con la fracción VII,
+artículos: 45-54 y 55-58 del reglamento de titulación vigente.
+Nombre del Alumno: Jesus Ramón Coronado Segovia
+No. de Expediente: MV0507
+No. CVU: ______________ (1279411)
+Correo electrónico: ramon.coronado@uabc.edu.mx
+Teléfono: 6461217422
+Línea de investigación sobre la cual se desarrollará el trabajo:
+La aplicación de Tecnología Educativa Innovadora en los ámbitos educativos y
+laborales.
+Responsable de la Asesoría: Dra. Verónica López Martínez
+Programas
+
+educativos
+
+que
+
+apoya:
+
+Ingeniería
+
+en
+
+Software,
+
+Ingeniería
+
+en
+
+computación, Licenciatura en Administración de las Tecnologías de la Información y
+Maestría en Sistemas Computacionales.
+Línea de investigación del responsable: Tecnología Educativa, Metodologías de
+enseñanza-aprendizaje.
+Firma de aceptación:
+Número de veces que se a sometido esta propuesta al H. Consejo Académico de la
+Facultad: Primera vez ( )
+
+2da. ( X)
+
+Más de 2 veces (
+
+)
+
+Semestre o Cuatrimestre actual del alumno: ____02___
+Fecha de Ingreso al programa: ____ junio de 2023_________
+
+1
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+I. DATOS GENERALES
+Título del proyecto: Diseño de una metodología fundamentada en competencias digitales para la
+inclusión de adultos mayores de la Universidad Autónoma de Baja California.
+Nombre del alumno responsable.
+Jesus Ramón Coronado Segovia.
+Colaboradores (Director y/o Co-director)
+Dra. Verónica López Martínez.
+Centro o lugar donde se realiza investigación
+Universidad Autónoma de Baja California.
+Tipo de investigación
+Aplicada
+Línea de investigación sobre la cual se desarrollará el trabajo
+La aplicación de Tecnología Educativa Innovadora en los ámbitos
+educativos y laborales.
+
+2
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+
+Para poder hablar de inclusión digital de adultos mayores, antes es necesario
+comprender que es alfabetización digital, la cual va más allá de solamente saber utilizar
+dispositivos electrónicos. No es suficiente con saber utilizar el software y el hardware,
+sino que se trata de incorporar estas herramientas en ámbitos laborales, personales,
+educativos, y familiares, para no cometer el error de fomentar en este grupo etario un
+alfabetismo funcional. La alfabetización tradicional se ha relacionado con la capacidad
+de los individuos para decodificar, comprender y compartir los símbolos presentes en un
+texto impreso mientras que la alfabetización digital supera la competencia técnica para
+transformar la información en nuevo conocimiento que pueda ser utilizado por los
+individuos (George, 2020).
+El interés por no quedar excluido suele ser un motivo para utilizar las TIC, pero además
+es necesario agregar otra variable qué aporta significado al proceso transformador,
+pasar de obtener información a la construcción de conocimiento, debido a que sin ella
+es difícil conseguir una verdadera apropiación de las TIC y adquirir los múltiples
+beneficios que contribuyen a un envejecimiento activo. Reducir la brecha digital implica
+encontrar la forma de que las personas mayores obtengan ventajas de utilizar TIC para
+mejorar su calidad de vida (Ramos, 2020).
+La presente propuesta analiza el contexto actual de la inclusión digital de adultos
+mayores del país, propone una metodología de competencias digitales enfocada en la
+enseñanza de este grupo etario, con la idea de ser implementada en el programa de
+alfabetización de la UABC o cualquier otro centro de alfabetización digital. Esta
+metodología tiene como objetivo la formación de adultos mayores con poco o nada de
+conocimiento relacionados con las TIC. Pretende otorgar a los facilitadores un conjunto
+de estrategias y herramientas con las que puedan orientar al adulto mayor para la
+adquisición de competencias (apropiación instrumental) y la transformación de la
+información obtenida en conocimiento útil para su diario vivir (apropiación intelectual)
+(Ramos, 2020).
+
+3
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Alfabetización digital
+La alfabetización digital es contar con la capacitación necesaria para desenvolverse en
+la sociedad de la información y poder actuar críticamente sobre ella, es decir, ser
+partícipes de la transformación de su entorno, ser capaces de valorar la información
+que se obtenga, las destrezas de lectura, construcción de conocimiento en el contexto
+del internet, la habilidad para obtener información, precaución para juzgar la pertinencia
+y validez de los materiales disponibles en la red (Flores, 2020).
+La alfabetización digital debe proveer un saber que alcance una conceptualización
+aceptable de la relación de las TIC con los adultos mayores (saber qué), un saber
+práctico para que consigan experiencias digitales (saber hacer), y juntar ambos saberes
+para determinar lo que se puede hacer con las nuevas tecnologías (saber ser). Debe
+señalarse que los programas de alfabetización digital otorgan una serie de posibilidades
+de colaboración, comunicación, flexibilidad educativa y administración de contenidos,
+con los que no se contaba hace algunas décadas, lo que los vuelve útiles al ser
+sumados para fortalecer el desarrollo de los adultos mayores. Sin embargo, también se
+debe mencionar que usar los dispositivos digitales no es lo más importante de la
+alfabetización digital, puesto que el acceso a las TIC no genera por sí solo una
+transformación, sino que constituye un primer acercamiento para conseguir la inclusión
+y apropiación de estas nuevas tecnologías (Flores, 2020).
+La realidad muestra que el número de adultos mayores a nivel mundial está
+incrementando por lo que es evidente que las personas de este grupo poblacional son
+llamadas a abrir y explorar esta nueva etapa de su vida a partir del uso y consumo de
+las TIC. No existe un verdadero sentido de inclusión por parte de las organizaciones
+gubernamentales con el grupo poblacional de los adultos mayores lo cual visibiliza la
+necesaria importancia de incluir a este sector de la población. Se estima que una de las
+consecuencias más evidentes que trae el envejecimiento será la falta de una vida
+activa, capacitación constante, socialización permanente, por lo cual se requiere que los
+
+4
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+gobiernos fomenten espacios con acceso libre a las tecnologías de la información y
+comunicación para los adultos mayores
+Brecha digital
+La brecha digital es la distancia que existe entre países, ciudades, familias y sujetos
+que se puede ver por la desigualdad en el acceso a las TIC.
+
+Está muy relacionada a
+
+exclusión social, que provoca el acceso o no a las nuevas tecnologías, determinada, en
+este caso, por el factor edad, también involucra actitudes negativas derivadas del
+miedo, la ansiedad y la falta de motivación. Es considerada una forma de desigualdad
+podríamos decir que surge de la combinación de desarrollo económico y apropiación de
+las nuevas tecnologías. A pesar de que los ordenadores y dispositivos tecnológicos en
+la actualidad se obtienen de forma más accesible la
+
+desigualdad de su
+
+aprovechamiento entre naciones e individuos persiste incluso se incrementa. Los
+adultos mayores al ser el grupo poblacional que menos se ha adaptado a las nuevas
+tecnologías corren el riesgo de seguir quedando rezagados (Colom, 2020).
+El uso de las TIC e internet en la actualidad acaparan las interacciones sociales, de
+trabajo y académicas mediante el uso de dispositivos como celulares y computadoras.
+Los adultos mayores conforman una parte importante de la población, pero a medida
+que la tecnología avanza su uso se vuelve un reto y no logran adaptarse a los cambios
+tecnológicos de la sociedad. Es evidente que las barreras de accesibilidad prevalecen
+en este sector poblacional, esto se debe a la falta de información sobre su uso y el
+escaso dominio que poseen sobre las nuevas tecnologías, esta situación impide que
+obtengan beneficios de utilizarlas, implicando desventajas sociales y económicas, las
+cuales no permiten un desarrollo igualitario.
+
+Enfoques pedagógicos actuales
+Hablar de enfoques pedagógicos es referirse a las diversas conceptualizaciones que
+existen relacionadas a los hechos educativos, es decir a los diversos paradigmas de
+
+5
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+enseñanza en donde cada uno tiene su propia noción de lo que significa educar y
+cuáles son sus herramientas para lograrlo (Etce, 2021). A lo largo de la historia han
+existido diversos y cada uno le asigna un papel al profesor ya sea en los ambientes
+educativos presenciales o virtuales. En un mundo en constante cambio han surgido
+nuevos buscando responder a los desafíos que presentan las instituciones educativas,
+estos están considerando las TIC para crear contenidos más atractivos para los
+alumnos y también para cubrir vacíos que dejaban los enfoques tradicionalistas. Estos
+son algunos de los nuevos que han surgido por mencionar algunos: educación
+gamificada, aprendizaje cooperativo, aprendizaje basado en proyectos, educación
+personalizada. Cada uno posee características particulares que los hacen tener
+ventajas y desventajas.
+
+Estos han cobrado relevancia aprovechando todas las herramientas digitales
+disponibles para potenciar el aprendizaje. Los docentes suelen utilizar estas nuevas
+herramientas para multiplicar el aprendizaje de los alumnos y hacer las clases más
+interesantes. También se promueve el aprendizaje de habilidades digitales que son muy
+importantes para desenvolverse en la sociedad.
+
+El ambiente educativo de los adultos mayores.
+Cada vez es más frecuente encontrar espacios educativos dirigidos a los adultos
+mayores, es una situación que se traduce en un envejecimiento activo una visión
+totalmente contraria a percibir la vejes como una enfermedad. Una constante carencia
+que encontramos en estos, es su limitado nivel de formación escolar el cual es muy
+importante para desenvolverse en diversos contextos sociales y actividades de ocio. Es
+precisamente por esta razón que es tan necesaria la educación a lo largo de la vida con
+el objetivo de que adquieran conocimientos relacionados con las nuevas tecnologías
+entre otras disciplinas. La edad en los adultos mayores no debe ser un impedimento
+para acceder a la educación, por medio de esta se mantienen activos psicológica y
+
+6
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+físicamente. Es un error tratarlos como personas pasivas, que no aportan, como sucede
+en algunas familias (Guerreo, 2020).
+
+Los adultos mayores representan un capital humano y cultural que tiene derecho a
+decidir de qué forma conseguirán su enriquecimiento personal, la sociedad,
+históricamente, se ha preocupado por formar niños y jóvenes dejando de lado a los
+adultos mayores. De igual manera todavía es posible ver que se mantienen
+estereotipos y prejuicios relacionados con la edad adulta. Las instituciones educativas
+deberán irse adaptando a las necesidades de los adultos mayores y hacerles un
+espacio en sus aulas. El crecimiento demográfico nos demuestra que los docentes
+necesitaran, en los próximos años, replantearse sus nuevos sujetos de intervención,
+pues será menor la población joven que concurrirá a los salones de clase, de tal
+manera que las personas mayores conformarán paulatinamente un contingente
+potencial de estudiantes.
+
+Estado del Arte
+En un artículo de título: procesos de alfabetización digital en el adulto mayor. Cuyo
+objetivo fue Identificar los procesos de alfabetización digital para personas de la tercera
+edad, determinando estrategias que permitan desarrollar competencias y habilidades
+que potencien la interacción social y el aprendizaje a través de la tecnología. Para
+realizar esa metodología se utilizó un enfoque cualitativo, transversal. Como conclusión
+se encontró que no son autónomos en sus procesos de articulación de las TIC en
+situaciones de su diario vivir, lo anterior, porque son varios aspectos que deben
+considerar para tener en cuenta al momento de realizar algún procedimiento; por tanto,
+no poseen las suficientes habilidades, toda vez que necesitan un proceso de
+enseñanza mediado a través de estrategias didácticas, sumadas a la paciencia y la
+comprensión por las diversas limitaciones que tengan (Zuluaga, 2021).
+
+7
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+En el estudio realizado por Navarrete et al. (2022), de título: Uso de Tecnologías de la
+Información y la Comunicación y Bienestar Emocional en Adultos Mayores. El objetivo
+fue Identificar la relación que tienen las TIC en su bienestar emocional durante la
+pandemia por COVID-19. La metodología consistió en realizar búsquedas en las
+siguientes bases de datos electrónicas: PubMed, Web of Science, SciELO y LILACS.
+Como conclusión se encontró que la pandemia por COVID-19 obligó a un aislamiento
+social que afectó el bienestar emocional de la población de adultos mayores, al
+provocar en ellos un impacto negativo en lo físico y psicológico, debido a que su vida
+cotidiana se vio alterada por las restricciones sanitarias. Concluyen también que las TIC
+han contribuido al bienestar de los adultos mayores al permitir que estos mantengan
+interacciones sociales y vínculos afectivos fomentando el bienestar físico y mental; con
+un significativo alivio tanto de la angustia como de la sensación de soledad, lo que
+conlleva a una mejor calidad de vida.
+
+Por otra parte, en una investigación se analizan las características de la accesibilidad y
+utilidad en la satisfacción de los adultos mayores al ingresar a un sitio web, para
+mejorar su diseño y lograr mayor satisfacción de los usuarios. Explican también los
+investigadores en los resultados que para que los adultos mayores hagan uso de las
+TIC deben tomar en cuenta sus necesidades. Este trabajo de investigación, es de tipo
+cuantitativo de alcance explicativo con diseño transversal causal, analiza el impacto de
+los atributos de accesibilidad y usabilidad en la satisfacción de los adultos mayores al
+utilizar un sitio web, con el objetivo de encontrar áreas de mejora en su diseño (Medina
+y Neria, 2020).
+
+En los resultados se menciona que el acceso a las nuevas tecnologías es prioritario, un
+hallazgo que comentan en el estudio es que utilizar las TIC en la vejes permite mejorar
+procesos psicológicos y sociales, de ahí surge la idea de crear sitios web que tomen en
+cuenta las necesidades de los adultos mayores. Explican que inciden factores como el
+sexo, edad, motivación, calidad técnica, funcionalidad y compatibilidad, pero la
+
+8
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+accesibilidad según los investigadores es el principal obstáculo para su inclusión en las
+TIC.
+
+En otro estudio se explica que una de las formas de obtener salud integral en los
+adultos mayores, es por medio de las redes sociales y el uso de internet desde el
+hogar, lo que provoca que se sientan acompañados y se reduce el sentimiento de
+soledad. Los autores mencionan también que la educación online es de gran provecho
+para los adultos mayores a la hora de participar en su comunidad e incluso tiene
+efectos positivos en la salud y explican cómo ellos utilizaron en este trabajo la
+aplicación de WhatsApp y contenidos web. Para realizar este trabajo se ha analizado la
+brecha digital utilizando una revisión bibliográfica de las bases de datos Google
+Académico, Scielo, Scopus, WOS de los últimos tres años (Fuentes y Renobell, 2020).
+Según comentan los autores en sus hallazgos los adultos mayores que utilizan el
+internet poseen una ventaja sobre aquellos individuos que no lo utilizan. Ejemplo de ello
+es que pueden comprar online, estudiar, contar con asistencia médica, ocio, contacto
+con seres queridos, etcétera. Finalmente, los autores concluyen que por medio del uso
+de herramientas digitales se contribuye a lograr un envejecimiento activo mejorando las
+relaciones sociales y la satisfacción personal permitiendo una percepción alta en la
+calidad de vida (Fuentes y Renobell, 2020).
+
+En un estudio más se obtuvo como resultado que los adultos mayores asumen que lo
+que mueve al mundo hoy es la tecnología, los 10 individuos que participaron en el
+proyecto son conscientes que en la actualidad es indispensable el uso del internet para
+realizar muchas actividades cotidianas, como: informarse, aprender, compartir y
+comerciar. También el 100% de los participantes manifestó que la tecnología está más
+enfocada en satisfacer las necesidades de sectores más jóvenes y ellos quisieran estar
+más a la par. Reconocen que la apropiación que tienen de los dispositivos y
+aplicaciones es deficiente lo que los hace sentirse excluidos. El objetivo central del
+estudio consistió en evidenciar las condiciones actuales de acceso del adulto mayor a la
+era digital y sus reales opciones de apropiación tecnológica, en el país de Colombia en
+9
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+la ciudad de Santiago de Cali. Al final se concluye que son un grupo poblacional con
+riesgo de sufrir exclusión tecnológica debido a distintos factores les impiden un
+acercamiento a las TIC de tipo: económico, motivacional, formativo, personal,
+gubernamental y de salud (Vásquez, García y Valencia, 2020),
+III. JUSTIFICACIÓN
+
+Este trabajo se desarrollará con el propósito de sumar al conocimiento que ya existe
+sobre la formación en competencias digitales de los adultos mayores del programa de
+alfabetización de la UABC, considerando que sus resultados podrían sistematizarse en
+una propuesta para ser sumados como aporte, ya que se estaría contribuyendo a
+mejorar su apropiación tecnológica.
+La propuesta de esta Investigación es desarrollar una metodología fundamentada en
+competencias digitales con el fin de fortalecer las habilidades tecnológicas de los
+adultos mayores del programa de alfabetización de la UABC. Esta obra daría mejores
+herramientas a los facilitadores del programa y también representa un aporte para que
+pueda ser utilizado en cualquier centro de alfabetización digital de adultos mayores del
+país. En el proyecto se hace un análisis de la situación respecto a la apropiación
+tecnológica de este grupo poblacional, la aproximación metodológica es de tipo
+cuantitativa, así como el desarrollo de una metodología como herramienta didáctica que
+simplifica el trabajo de los facilitadores que tienen la encomienda de enseñar a los
+adultos mayores, otro aporte que debe considerarse es que este proyecto reduce los
+costos para desarrollar las habilidades de un instructor de futuros cursos.
+La metodología fundamentada en competencias digitales para adultos mayores será la
+traducción técnica de esa aproximación teórica que se ha venido mencionando a lo
+largo del escrito. Será el resultado de los estudios que existen en donde se menciona
+constantemente la necesidad de contar con estrategias funcionales para incorporar las
+TIC en beneficio de los adultos mayores. Es necesario contar con una metodología
+fundamentada en competencias digitales que resuma la enseñanza en contenidos
+
+10
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+técnicos de esta manera se conseguirá disminuir el tiempo y los costos invertidos en la
+capacitación (Ramos, 2020).
+De forma secundaria resultaran beneficiados los docentes involucrados en impartir las
+clases a los adultos mayores y también la UABC al analizar la efectividad de los
+programas que ella se implementan. Entre los beneficios metodológicos de la
+investigación se encuentra que permitirá ampliar las discusiones sobre la poca
+apropiación tecnológica de los adultos mayores. Además de que sus resultados podrán
+ser contrastados con otros estudios del mismo tipo e incluso servir como referentes
+para otras investigaciones.
+IV. DESCRIPCIÓN DEL PROBLEMA
+
+Demográficamente el planeta se ha modificado, teniendo en cuenta que en la
+actualidad el nivel promedio de vida de los seres humanos ha aumentado
+produciéndose el fenómeno de envejecimiento poblacional, lo cual representa un reto
+para los países del mundo obligándolos a redefinir políticas relacionadas con salud,
+financiamiento, ocio entre otras (Huenchan, 2019). Sin embargo, esto ha sido
+insuficiente, ya que una de las problemáticas más recurrentes es la invisibilización de
+los adultos mayores de ahí el interés de priorizar su inclusión. Los adultos mayores,
+igual que todas las personas, también tienen apremiantes necesidades físicas y
+emocionales es importante atenderlas, en el mismo sentido el Inapam propone trabajar
+hacia el bienestar de los adultos mayores para otorgarles disfrute pleno de sus
+derechos (INAPAM, 2023).
+La alfabetización digital en adultos mayores es la capacidad para realizar diferentes
+actividades en diversos ambientes tecnológicos, esta definición incluye la habilidad para
+localizar, investigar y analizar información utilizando las TIC. Las nuevas tecnologías
+pueden proporcionar una mejora de la calidad de vida consiguiendo una mayor
+cohesión social para reducir la brecha digital y promover su adaptación en el constante
+cambio tecnológico (INAPAM, 2023). El objeto de estudio o de investigación quedaría
+de la siguiente manera: El impacto de la alfabetización digital en el ámbito universitario
+11
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+de los adultos mayores del programa que se imparte en la Facultad de Ciencias
+Marinas en la UABC durante el semestre 2024-1
+Problema Práctico
+En la sociedad actual el desarrollo de las TIC y nuevos conocimientos aumenta
+rápidamente, pero no todos los grupos poblacionales aprovechan las nuevas
+tecnologías de igual manera siendo el sector de las personas de la tercera edad que
+menos utiliza las TIC. El concepto brecha digital fue desarrollado por el Departamento
+de Comercio de Estados Unidos, en los años noventa, para explicar la desigualdad en
+el acceso a las TIC entre los diversos grupos poblacionales (Lloyd y Casanova, 2020),
+En México, el INEGI anunció que el porcentaje de las personas que hace uso de la
+computadora en el rango de 55 años o más, es del 4.4% del total de adultos mayores.
+Los datos anteriores permiten ver que este sector de la sociedad al no utilizar recursos
+tecnológicos para interactuar, ponerse al día o buscar información pueden sentirse
+aislados de sus familiares y la gente generando emociones que aumentan el
+sentimiento de soledad (INEGI, 2022).
+El grupo poblacional con el que se trabajará en esta investigación son individuos de
+sexo femenino y masculino mayores de 60 años del programa de alfabetización de la
+UABC, el cual es un programa de atención comunitaria, autosustentable dentro de la
+Facultad de Ciencias Marinas, que tiene como objetivo ofrecer a las personas de la
+tercera edad las herramientas tecnológicas que le ayuden a seguir desarrollando al
+máximo sus habilidades físicas, cognitivas y sociales, de tal manera que se integren
+activamente dentro de la comunidad y alcancen una vida digna y plena en esta etapa
+de su vejes.
+El grupo de adultos mayores que participan en el curso de alfabetización digital de la
+UABC no es muy numeroso consta de alrededor de 20 individuos inscritos, de ese
+grupo se consiguió que contestaran el cuestionario 14 personas, de esa forma fue como
+elegimos nuestra muestra. Para elaborar el cuestionario se han considerado los
+
+12
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+objetivos de investigación, hipótesis y las variables de estudio que son las que se
+midieron, en este caso el cuestionario se utilizó con un enfoque cuantitativo, es de
+elaboración propia contiene 16 preguntas, en la primera dimensión se analizó si el
+adulto mayor conoce que son las TIC, segunda dimensión saber si ellos consideran
+que son importantes las nuevas tecnologías e internet y la tercera dimensión conocer la
+relevancia que otorgan al internet y nuevas tecnologías. Fue necesario interpretar los
+hallazgos: 7 de los participantes son amas de casa, 5 son empleados, 1 es catequista y
+1 jubilado.
+Figura 1.1:
+Ocupación de los adultos mayores
+
+Nota. Esta figura muestra la ocupación de los participantes encuestados del curso de alfabetización
+digital de la UABC.
+
+De los adultos mayores 8 son menores de 65 años de edad, 5 tienen entre 65 y 70 y
+finalmente 2 tienen de 70 años en adelante. el 11 son sexo femenino, y 3 masculino.
+De los adultos mayores 11 tienen primaria completa, el 1 tiene primaria incompleta y 2
+secundaria terminada. Para el desarrollo de un curso de alfabetización es necesario
+tomar en cuenta los intereses de los adultos mayores y saber la importancia que ellos
+les atribuyen a las nuevas tecnologías a la pregunta ¿desde su perspectiva es
+importante el uso de tecnologías como celular, tableta, computadora e internet por parte
+de los adultos mayores? Se obtuvo que 13 de los adultos respondieron que sí es
+
+13
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+importante el uso de tecnologías como celular, tableta, computadora e internet por parte
+de los adultos mayores mientras que solamente 1 respondió que no.
+Figura 1.2
+Importancia atribuida
+
+Nota: En la figura se observan los resultados de la importancia que atribuyen los adultos mayores a las
+TIC.
+
+Otro aspecto importante a tomar en cuenta al momento de realizar un proyecto de
+intervención, es conocer si los adultos mayores consideran que es necesario se siga
+fomentando el uso de las TIC entre este grupo poblacional a lo que 12 respondieron
+que está totalmente de acuerdo y 2 están de acuerdo.
+Figura 1.3
+Importancia de fomentar las TIC.
+
+14
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Nota. Esta figura muestra los resultados de la importancia que atribuyen a seguir fomentando el uso de
+las TIC en el sector poblacional de los adultos mayores.
+
+Respecto al cuestionamiento de que si consideran que el uso de las nuevas tecnologías
+es relevante 8 respondieron que son imprescindibles para el sector poblacional de los
+adultos mayores, 2 contestaron que solo son herramientas alternativas y facilitan la
+inclusión de los adultos mayores con el resto de la sociedad 4.
+Figura 1.4
+Relevancia Atribuida a las TIC
+
+Nota. Esta figura muestra los resultados de la relevancia que a otorgan a las TIC los adultos mayores .
+
+V. COMITÉ DE BIOÉTICA
+
+Bioética se define como el estudio sistemático de la conducta de los individuos en el
+campo de las ciencias de la vida y del cuidado de la salud, estudiada a la luz de los
+
+15
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+valores y de los principios morales, los cuales son: respeto a la autonomía, la
+beneficencia, la no maleficencia y la justicia. En este sentido es necesario promover,
+difundir y salvaguardar los principios generales de la bioética, orientada a respetar la
+autonomía y dignidad de las personas (Secretaria de salud, 2023).
+En la sección de anexos se ha colocado el escrito de consentimiento informado de la
+investigación, donde se hace una invitación a los adultos mayores a participar en el
+proyecto académico, el escrito solicita firma del participante y del investigador e informa
+que los datos que se obtengan serán utilizados con fines académicos. Quienes
+participarán en la investigación son individuos que cuentan con mayoría de edad, salud
+psicológica y física, además participarán de forma voluntaria. Por lo tanto, en ningún
+momento deben sentirse presionados u obligados a colaborar en el trabajo de
+investigación, finalmente se respetarán y cuidarán sus derechos de adultos mayores
+como lo exige la constitución mexicana y la constitución de Baja California.
+VI. PLANTEAMIENTO TEÓRICO (Preguntas de investigación)
+
+¿En qué medida es posible desarrollar una metodología con el fin de fortalecer las
+competencias digitales de los adultos mayores del programa alfabetización de la
+UABC?
+¿Existe alguna herramienta digital que incluya el aprendizaje virtual de los adultos
+mayores?
+Hipótesis, Supuestos y/o proposiciones de investigación
+
+La implementación de una metodología basada en competencias digitales, que integre
+herramientas didácticas en el programa de alfabetización de la UABC, se asociará
+positivamente con una mejora significativa en las habilidades tecnológicas de los
+adultos mayores facilitadores.
+VII. OBJETIVOS (Objetivo general)
+
+16
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Diseñar una metodología basada en competencias digitales para potenciar las
+habilidades tecnológicas de los adultos mayores participantes en el programa de
+alfabetización de la UABC.
+Objetivos específicos:
+
+¾ Realizar una revisión sistemática para indagar en el estado del arte actual de la
+apropiación tecnológica de los adultos mayores, y así verificar las necesidades
+actuales de este sector poblacional.
+¾ Realizar un diagnóstico que permita conocer las competencias digitales de los
+adultos mayores del programa de alfabetización de la UABC.
+¾ Evaluar los resultados con el fin de obtener información que permita iniciar el
+desarrollo de la metodología fundamentada en competencias digitales.
+¾ Desarrollar un curso que permita y facilite el desarrollo de actividades prácticas
+relacionadas con competencias digitales en el programa de alfabetización de
+adultos mayores de la UABC.
+¾ Evaluar el impacto de las estrategias de enseñanza y aprendizaje implementadas
+en el programa de alfabetización de adultos mayores de la UABC.
+VIII. METODOLOGÍA.
+
+Se considera que la investigación basada en el diseño es pertinente para ser utilizada
+en el proyecto debido a que se enfoca en analizar los procesos de enseñanzaaprendizaje en entornos mediados por las TIC. Esta metodología permitirá realizar
+aportaciones científicas y practicas por medio de un proceso sistemático de diseño,
+rediseño, análisis e implementación en el tema que se está desarrollando el cual está
+relacionado con la poca apropiación tecnológica de los adultos mayores. Esta
+metodología se orienta hacia la innovación educativa y busca, por un lado, indagar
+sistemáticamente procesos complejos abordando de manera colaborativa distintas
+dimensiones y por otro lado incide en la solución de problemáticas incorporando nuevos
+elementos para modificar una situación a partir de un mayor entendimiento de esta
+(Coicaud, 2021).
+
+17
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Una de las principales razones por las que se ha decidido utilizar esta metodología en
+el proyecto es que su capacidad para producir transformaciones en el mundo real
+constituye un elemento a favor tanto para estudiar y describir los fenómenos educativos
+que existen en los en los ambientes de alfabetización digital, como también para
+desarrollar propuestas de mejora continua en prácticas formativas y mejora en los
+procesos. La investigación basada en diseño resulta pertinente para investigar
+propuestas educativas relacionadas con los adultos mayores en escenarios mediados
+por TIC. Se entiende por investigación basada en diseño un tipo de investigación
+dirigido hacia la innovación educativa cuya característica principal consiste en la
+introducción de un elemento nuevo para modificar una situación. Este tipo de
+investigación busca responder a problemáticas detectadas en la realidad educativa
+apoyándose en teorías científicas o modelos disponibles para proponer posibles
+soluciones a dichos problemas.
+A continuación, se presentan las fases del proyecto según (Benito y Salinas, 2016):
+Figura 1.5
+La investigación basada en el diseño
+
+Nota. La figura representa las principales etapas de la investigación basada en diseño en las que se
+fundamenta el proyecto. Tomado de La Investigación Basada en Diseño en Tecnología Educativa (p. 49),
+B. Benito y J. Salinas, 2016. RIITE.
+
+Fase 1. Definición del problema.
+
+18
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Lo que esta investigación pretende investigar está muy relacionado con mejorar la
+apropiación tecnológica de los adultos mayores. El elemento principal de este proceso
+de intervención serán las TIC como herramienta de innovación y cambio, pero con una
+perspectiva que va más allá del recurso material en sí mismo. De tal forma que este
+recurso incentiva los cambios en las estructuras metodológicas de formación donde el
+docente desempeña un rol para actuar en beneficio de una inclusión reflexiva de las
+herramientas digitales. Considerando lo anterior la primera fase de esta investigación
+consistirá en realizar un análisis de la situación, en donde se efectúe un reconocimiento
+del contexto escolar y de las competencias digitales de los adultos mayores (Navarro,
+2018).
+Al respecto se ha realizado una revisión sistemática de documentos relacionados con el
+uso que hacen de las TIC los adultos mayores de 60 años en el periodo 2019 a 2023.
+Se ha elaborado una revisión en cinco bases de datos las cuales son: Redalyc, Pumed,
+Dialnet, Google académico y Scielo. Como resultado se encontró en los diversos
+estudios un interés en analizar la relación que existe entre el uso del internet y el
+bienestar psicológico de los adultos mayores. También se concluyó que es necesario
+seguir desarrollando espacios de alfabetización digital que contribuyan en su
+envejecimiento activo. En cuanto al alcance con la propuesta se podrán identificar áreas
+de oportunidad para mejorar los conocimientos de los adultos mayores. Integrando la
+adaptación de contenidos conforme al desarrollo del curso y así implementar
+estrategias pertinentes. A través de las competencias digitales la metodología podrá
+proponer técnicas de alfabetización que servirán para adaptar los contenidos
+enfocándose en sus necesidades. El grupo poblacional con el que se realizará el
+proyecto está conformado por alrededor de 20 individuos sexo femenino y masculino
+mayores de 60 años del programa de alfabetización de la UABC el cual busca
+otorgarles herramientas tecnológicas que les ayuden a alcanzar un envejecimiento
+activo.
+Fase 2. Desarrollo
+
+19
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+En este segmento se analizará el fenómeno de la poca apropiación tecnológica de los
+adultos mayores y se realizará una propuesta enfocada en el mejoramiento de sus
+habilidades tecnológicas que incidirán positivamente sus condiciones de vida. La
+intervención educativa no formal que se propone se realizará como proceso
+especializado de ayuda en donde la finalidad que se busca es el enriquecimiento y
+potenciación de la comunidad de los adultos mayores.
+En la segunda fase se realizará la evaluación y construcción de un diagnóstico de
+competencias digitales de los adultos mayores del curso de alfabetización digital de la
+UABC.
+
+El proceso de análisis del contexto se implementará por medio de una
+
+búsqueda documental en diversas fuentes externas e internas a la universidad con la
+finalidad de ubicar la intervención en el contexto de la UABC. En esta fase también se
+realizará la recopilación de datos respecto a las competencias digitales de los adultos
+mayores que participan en el programa de alfabetización de la UABC, para lo cual se
+utilizarán cuestionarios los cuales se aplicarán a los participantes del curso.
+El instrumento de medición que se utilizara es de elaboración propia contiene 16
+preguntas, se pretende medir en la primera dimensión si el adulto mayor conoce que
+son las TIC, segunda dimensión saber si considera que son importantes las nuevas
+tecnologías e internet y la tercera dimensión conocer la importancia que otorgan los
+adultos mayores al internet y nuevas tecnologías. La forma de analizarlos será por
+Excel debido a que este software facilitará el estudio de los resultados y es de gran
+utilidad respecto a la creación de los gráficos.
+Fase 3. Implementación
+La implementación es una etapa clave de la investigación, ya que se realizarán
+propuestas y esquemas que quedaron contemplados en la planificación inicial. Lo
+primero que se ha hecho para lograrlo ha sido definir los objetivos, se han planeado
+estrategias de investigación cuantitativa y finalmente un cronograma, Todo lo anterior
+mencionado ayudará a analizar el fenómeno y poder explicarlo. Para esta etapa se
+
+20
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+realizará un curso de capacitación de 30 horas a un grupo de 14 adultos mayores
+interesados en el manejo y uso de una computadora, así como de unidades de
+almacenamiento y dispositivos periféricos. No es necesario tener conocimientos
+anteriores de los equipos informáticos. Esta capacitación tendrá como objetivo la
+adquisición de competencias digitales utilizando aula virtual combinada con clases
+presenciales.
+Además, se explorarán e integrarán las herramientas didácticas más innovadoras y
+efectivas disponibles en el ámbito de la alfabetización digital, promoviendo así un
+enfoque pedagógico que fomente la participación activa, el aprendizaje autónomo y la
+adquisición progresiva de habilidades tecnológicas. La fase de diseño también
+incorporará elementos de retroalimentación continua, permitiendo una adaptación
+dinámica de la metodología conforme se implementa, para asegurar su eficacia y
+relevancia continua en el entorno cambiante de la tecnología y las necesidades de los
+adultos mayores. Este enfoque detallado en la fase de diseño busca no solo garantizar
+la pertinencia y efectividad de la metodología propuesta, sino también maximizar su
+capacidad para empoderar a los adultos mayores, facilitando su integración exitosa en
+la era digital y proporcionándoles las herramientas necesarias para participar de
+manera activa y significativa en la sociedad contemporánea.
+Fase 4. Evaluación
+La primera Etapa: Consistirá en desarrollar un cuestionario en donde se evalúe la
+percepción de los encuestados se medirá como primera dimensión si adulto mayor
+conoce que son las TIC, segunda dimensión saber si considera que son importantes las
+nuevas tecnologías e internet y la tercera dimensión conocer la importancia que otorgan
+los adultos mayores al internet y nuevas tecnologías.
+Finalmente se presentarán juicios respecto a los resultados obtenidos en el
+proyecto. Así mismo se comunicará como la investigación es capaz de incidir
+positivamente en el mejoramiento de las competencias digitales de los adultos mayores.
+
+21
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Se procederá a cerrar el proyecto entregando y comunicando los resultados por medio
+de un informe. Se realizará una retroalimentación presentando los resultados a las
+autoridades del programa universitario. Esta capacitación contará con la participación
+de aproximadamente 20 adultos mayores y estará enfocada en el uso de determinadas
+herramientas tecnológicas que favorezcan el aprendizaje de competencias digitales de
+manera sincrónica y asincrónica considerando en el objetivo principal Diseñar una
+metodología basada en competencias digitales para potenciar las habilidades
+tecnológicas de los adultos mayores participantes en el programa de alfabetización de
+la UABC
+Cronograma.
+
+El objetivo del siguiente apartado es definir el periodo de tiempo en que se realizarán
+las actividades del proyecto, para conseguirlo se ha elaborado un cronograma que
+ayudará a medir los resultados, planificar y monitorear las acciones de intervención.
+Figura 1.5
+Actividades Relevantes
+Cronograma
+Actividad
+Análisis de la problemática
+Redacción de protocolo
+Fundamentación teórica
+Redacción del estado del arte
+Revisión sistemática
+Planeación de intervención
+Identificar variables
+Definir enfoque de proyecto
+Elaboración de marco teórico
+Definir alcances
+Diseño de investigación
+Definir población y muestra
+Instrumentos de recolección
+Análisis de datos recolectados
+Ordenar la Información.
+Redacción fina de tesis. .
+
+Primer Semestre
+Meses
+1 2 3 4 5
+
+Segundo Semestre Tercer Semestre
+Meses
+Meses
+6 1 2 3 4 5 6 1 2 3 4 5
+
+Cuarto Semestre
+Meses
+6 1 2 3 4 5
+
+Quinto semestre
+Meses
+6 1 2 3 4 5
+
+Sexto Semestre
+Meses
+6 1 2 3 6
+
+5
+
+6
+
+Nota. Esta figura muestra las principales actividades a realizarse por semestre durante el doctorado.
+
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL PROYECTO
+
+Después de concluir la investigación se elaborará un documento académico que
+contribuya a desarrollar estrategias para la alfabetización digital de adultos mayores
+
+22
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+tomando en cuenta sus propios intereses en el programa de la UABC. El escrito se
+espera contenga gráficas, tablas, figuras. Otros resultados esperados son:
+¾ Diseñar una metodología basada en competencias digitales para potenciar las
+habilidades tecnológicas de los adultos mayores participantes en el programa de
+alfabetización de la UABC.
+¾ Realizar una revisión sistemática para indagar en el estado del arte actual de la
+apropiación tecnológica de los adultos mayores, y así verificar las necesidades
+actuales de este sector poblacional.
+¾ Realizar una publicación en revista indexada en donde se comparta el trabajo
+con otros investigadores, estudiantes y la población en general.
+¾ Participar en dos congresos académicos de posgrado de la UAQ, los cuales
+contribuirán a expandir conocimientos y a compartir con especialistas de áreas
+afines.
+¾ Desarrollar un curso que permita y facilite el desarrollo de actividades prácticas
+relacionadas con competencias digitales en el programa de alfabetización de
+adultos mayores.
+¾ Evaluar el impacto de las estrategias de enseñanza y aprendizaje implementadas
+en el programa de alfabetización de adultos mayores de la UABC.
+Con base en la propuesta que surge del trabajo de investigación se espera como
+resultado que al finalizar la investigación proporcione a los adultos mayores, docentes y
+a la facultad conocimiento teórico y práctico con relación a las competencias digitales y
+los beneficios que resultan de su incorporación en cursos virtuales y presenciales, esto
+último gracias a la intervención de la tecnología educativa y las herramientas
+tecnológicas que facilitan la implementación de la propuesta. En las actividades donde
+pueden beneficiarse con el uso del internet se encuentran ocio, acercamiento con
+familiares, aprender cosas nuevas, empleo a distancia, cuidado personal, actividades
+físicas entre otras. Lo que se propone es apoyarse en la alfabetización digital y
+
+23
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+andragogía con el fin de fortalecer las competencias digitales de los participantes del
+programa de alfabetización de la UABC.
+X. INDICE TENTATIVO DE LA TESIS
+
+I.
+
+Antecedentes y/o fundamentación teórica
+a) Alfabetización digital.
+b) Brecha digital
+c) Enfoques pedagógicos actuales
+d) El ambiente educativo de los adultos mayores.
+
+II.
+
+Estado del arte.
+
+III.
+
+Justificación.
+
+IV.
+
+Descripción del problema
+
+V.
+
+Comité de bioética
+
+VI.
+
+Hipótesis/ Preguntas de investigación
+
+VII.
+
+Objetivos.
+
+VIII.
+
+Metodología
+e) Definición del problema.
+f) Desarrollo
+g) Implementación
+h) Evaluación
+
+IX.
+
+Cronograma
+
+X.
+
+Resultados.
+
+XI.
+
+BIBLIOGRAFÍA
+
+XI. REFERENCIAS
+
+Aguilar Flores, Sandra; Chiang Vega, Margarita María. (2020). Factores que determinan
+el uso de las TIC en adultos mayores de Chile Revista Científica. Universidad
+Distrital Francisco José de Caldas Bogotá, 39, (3), 296-308.
+Colombiahttps://www.redalyc.org/articulo.oa?id=504372924004
+Arteaga, M. Tencora, D. (2019) Alfabetización digital para adultos mayores.
+[Licenciatura en Comunicación Social y Publicidad Universidad del Azuay].
+https://dspace.uazuay.edu.ec/bitstream/datos/8667/1/14328.pd
+Barcia, B. Q., González, M. M., & Martínez, A. V. (2020). Brecha digital en adultos
+mayores: accesibilidad tecnológica y redes sociales. GIGAPP Estudios working
+24
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+papers, 7(166-182), 744-757. https://www.gigapp.org/ewp/index.php/GIGAPPEWP/article/view/220
+Cabero, J, Llorente, C. (2020). La adopción de las tecnologías por las personas
+mayores: aportaciones desde el modelo TAM. Facultad de Educación y
+Humanidades del Campus de Melilla. 1577-4147. Recuperado de
+https://revistaseug.ugr.es/index.php/publicaciones/article/view/8521
+Colom, C. (2020). Las brechas digitales que deben preocuparnos y
+ocuparnos. Ekonomiaz: Revista vasca de economía, (98), 350-353.
+file:///C:/Users/Admin/Downloads/DialnetLasBrechasDigitalesQueDebenPreocuparnosYOcuparnos-7694323.pdf
+Flores, L. (2020). La alfabetización digital en el público adulto mayor. Un acercamiento
+de las relaciones públicas en Perú. ComHumanitas. 11(2), 65–67. Recuperado
+de https://www.comhumanitas.org/index.php/comhumanitas/article/view/239
+Fuentes, G, Neri, M. (2020). Vulnerabilidad de las personas adultas mayores privadas
+de libertad: Una mirada desde la declaratoria de emergencia
+sanitaria por COVID-19.
+Us Comitiãlis 36-59. Recuperado de
+https://iuscomitialis.uaemex.mx/article/view/14604
+Instituto Nacional de Estadística y Geografía. 04 de diciembre del 2022). Banco de
+indicadores.
+https://www.inegi.org.mx/app/indicadores/#DivFV6200027788100200010 1
+Neria, E, Medina, M. (2020). Satisfacción del adulto mayor en el uso de las TIC.
+Redalyc. (4), 85-97. https://www.redalyc.org/journal/6879/687972072004/
+Organización Mundial de la Salud. (05 agosto del 2022). Envejecimiento y salud.
+https://www.who.int/es/news-room/fact-sheets/detail/ageing-and-health
+Renobell, V, Fuentes, D. (2020). Beneficios de la Educación Online en personas
+mayores. Fortanet. España Universidad de la Rioja. 266- 277
+https://www.eumed.net/actas/20/educacion/22-beneficios-de-la
+educaciononline-en-personas-mayores.pdf
+Ramos, G. (2020). Manual del facilitador para la alfabetización del adulto mayor.
+INFOTEC-CONACYT,
+México.
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/infotec?projector=
+Sánchez,
+S.
+(2018)
+Envejecimiento
+y
+salud.
+Redalyc.
+(1),
+14.https://www.redalyc.org/journal/4577/457754907001/
+Urbina Carreño, A. (2023). La relación entre el uso de las TIC y el sentimiento de
+soledad: Una mirada desde los Determinantes Sociales de la Salud de las
+personas mayores en Chile. REVISTA ESPAÑOLA DE COMUNICACIÓN EN
+SALUD, 74-80. https://doi.org/10.20318/recs.2023.7229
+Zuluaga, D. A. (2021). Procesos de alfabetización digital en el adulto mayor.
+[Monografía].
+Repositorio
+Institucional
+UNAD.
+https://repository.unad.edu.co/handle/10596/43480
+ATENTAMENTE
+
+25
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+___________________________
+
+Coronado Segovia Jesus Ramón
+
+Nivel de revisión: 02
+
+26
+
+

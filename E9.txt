@@ -1,0 +1,1070 @@
+Doctorado en Innovación y Tecnología Educativa
+C.U. a 10 de marzo 2023
+Me permito presentar ante el H. Consejo Académico de la Facultad de
+Informática la siguiente solicitud de titulación por tesis de acuerdo con la fracción VII,
+artículos: 45-54 y 55-58 del reglamento de titulación vigente.
+
+Nombre del Alumno: Enrique Montoya Morado
+No. de Expediente: 171433
+No. CVU: 512528
+Correo electrónico: quinto.cis@live.com.mx
+Teléfono: 4411052532
+
+Línea de investigación sobre la cual se desarrollará el trabajo: Aplicacion de
+tecnologia innovadora en los ámbitos educativos y laborales
+Responsable de la Asesoría: Dra. Ma. Teresa García Ramírez
+Programas educativos que apoya: Ingeniería en Software, Licenciatura en
+Informática, Doctorado en Tecnología Educativa, Doctorado en Innovación y
+Tecnología Educativa
+Línea de investigación del responsable: Aplicación de tecnología innovadora en
+los ámbitos educativos y laborales
+Firma de aceptación:
+
+Número de veces que se a sometido esta propuesta al H. Consejo Académico de la Facultad:
+Primera vez ( )
+2da. ( x )
+Más de 2 veces ( )
+Semestre o Cuatrimestre actual del alumno: ___2____
+Fecha de Ingreso al programa: __3 de Agosto 2022___________
+
+1
+
+I. DATOS GENERALES
+·
+
+Título del proyecto: Propuesta Didáctica para la Enseñanza de la Física General a
+través del Deporte
+
+·
+
+Nombre del alumno responsable: Enrique Montoya Morado
+
+·
+
+Directora: Dra. Ma. Teresa García Ramírez
+
+·
+
+Centro o lugar donde se realiza investigación: Escuela de Bachilleres Jalpan de
+Serra
+
+·
+
+Tipo de investigación: Experimental
+
+·
+
+Línea de investigación sobre la cual se desarrollará el trabajo: Aplicación de
+tecnología innovadora en los ámbitos educativos y laborales
+
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+La Escuela Media Superior en México
+La educación en México está dividida en educación básica, que abarca el preescolar, primaria
+y secundaria, Educación media superior, referente al bachillerato general, tecnológico, y la
+educación Superior, que a su vez abarca niveles de técnico superior universitario, licenciatura,
+maestría, especialidad y doctorado (Secretaría de Educación Pública, 2015). La edad escolar
+en México para la Educación Media Superior regular va de los catorce y hasta los diecinueve
+años para concluir este nivel académico, respecto a la capacidad y el desarrollo intelectual de
+un estudiante regular de bachillerato, según Piaget (1980) se encuentran en la etapa de lo que
+él define como operaciones concretas, que va a partir de los 12 años en adelante, en donde el
+raciocinio lógico se hace evidente.
+De acuerdo a la reforma del artículo tercero de la constitución política de los Estados Unidos
+Mexicanos, publicada el 9 de febrero de 2012 en el Diario Oficial de la Federación, la
+educación media superior es obligatoria. (DIARIO OFICIAL DE LA FEDERACIÓN, 2012)
+Al redefinir el modelo educativo de la Escuela Media Superior en México, la Secretaría de
+Educación Pública a través de la Subsecretaría de Educación Media Superior, plantea que tanto
+en bachilleratos tecnológicos como en bachilleratos generales es necesario homogeneizar los
+
+2
+
+contenidos curriculares mínimos para lograr el desarrollo integral de los egresados, partiendo
+del hecho que se requieren estudiantes capaces de conducir su vida hacia un futuro de bienestar
+social, con un sentido de pertenencia social y de participación ciudadana, conscientes de las
+afrentas sociales, económicas y políticas que permean en el país, pero también en su contexto
+inmediato, personas dispuestas a participar de manera activa y responsable en procesos
+democráticos y de participación ciudadana desde la iniciativa pública o privada (SEP, 2022).
+La educación media superior en México debe garantizar una formación integral que favorezca
+el desarrollo de las competencias individuales y colectivas de los estudiantes, la cultura de paz,
+arte y cultura, los planes de estudios en el país de educación media superior tienen una base en
+común y hay variaciones con respecto a temas específicos de acuerdo al tipo de institución
+donde esté matriculado el estudiante, pero independientemente de ello la formación integral
+es un común denominador que está implícito en los programas de bachillerato general o
+tecnológico (Marco Curricular Comun de Educación Media Superior, 2022)
+
+El plan de estudios de la educación media superior debe precisar contenidos actuales y bien
+contextualizados dependiendo la finalidad del programa en el cual el estudiante está inscrito,
+el eje físico-matemático es componente fundamental en el marco curricular de los cursos de
+bachillerato, como se señala en la propuesta del nuevo Marco Curricular Común de la
+Educación Media Superior MCCEMS en su última actualización del 19 de agosto de 2022. Las
+planeaciones generales y las planeaciones independientes de cada profesor deben estar
+apegadas a estas nuevas actualizaciones, en donde es importante priorizar la formación integral
+del estudiante, de hecho la propuesta del MCCEMS está sujeta a tres ejes fundamentales: Áreas
+de conocimiento, Recursos Sociocognitivos y Ámbitos de la Formación Socioemocional, en
+donde respectivamente los ejes son divididos de la siguiente manera: humanidades, ciencias
+sociales, ciencias naturales; pensamiento matemático, lengua y comunicación, conciencia
+histórica, cultura digital; actividades físicas y deportivas, actividades artísticas y culturales,
+educación integral en sexualidad y género, educación para la salud, practica y colaboración
+ciudadana (Sub Secretaría de Educación Media Superior, 2022).
+
+Lugo (2007) define la formación integral como la orientación a favorecer la personalidad
+responsable, ética, crítica, participativa, creativa, solidaria y con capacidad de interactuar en el
+contexto para desarrollar su identidad cultural. Promoviendo el crecimiento humano a través
+de una visión multidimensional de la persona y genera tendencias a desarrollar aspectos como
+
+3
+
+inteligencia emocional, intelectual, social, material y ética. Considerar la formación integral de
+los estudiantes en las instituciones educativas debe priorizar siempre el bienestar de los
+alumnos, de este modo se facilitarán todos los procesos de enseñanza-aprendizaje.
+Un plan general de apoyo institucional a las necesidades sociales de los alumnos, permite el
+avance en los aspectos relacionados con la transversalidad entre las áreas (Díaz-Garay et al.,
+2020), en términos generales y además tal como lo propone el rediseño del marco curricular
+de la escuelas media superior la transversalidad debe buscarse a través de innovaciones
+pertinentes, el uso de las tecnologías de la comunicación y la información y el trabajo colectivo
+o individual de todos los involucrados en los procesos de enseñanza aprendizaje.
+Rendimiento Escolar
+El rendimiento escolar no depende exclusivamente de una variable, sino de todas las causas
+probables que generan un mejor entorno o contexto para los estudiantes, una de ellas son las
+instituciones educativas, Lopez-Baez (2018) propone distintas variables que pueden incidir en
+una mejora significativa para un mejor servicio a los estudiantes desde una perspectiva
+socioformativa, se destacó que para implementar un cambio se debe contar con un liderazgo
+capaz de gestionar y promover e incentivar el talento humano (profesores) que son uno de los
+actores principales que intervienen en los procesos de enseñanza aprendizaje. Por su parte,
+Basto (2017) menciona que el proceso educativo y la relación entre el docente y el estudiante
+puede fomentar un mejor rendimiento académico en los estudiantes, para ello se requiere que
+el docente evite la presentación única de contenidos conceptuales precisos y que desarrolle
+contextos enriquecedores para el desarrollo de competencias de los estudiantes. También el
+rendimiento académico se puede ver influenciado por las actividades relacionadas con el
+ámbito social y psicológico bajo una estrategia pedagógica.
+En el rendimiento académico el factor pedagógico juega un papel importante ya que involucra
+los métodos de enseñanza aprendizaje, los programas académicos, los modelos educativos, el
+ambiente escolar y las estrategias de enseñanza utilizadas por el docente. Así mismo, el factor
+social puede afectar el rendimiento académico si existen condiciones favorables en lo
+económico, en la salud, en el medio ambiente familiar y del vecindario. Otro factor importante
+es el psicológico, que puede afectar el rendimiento escolar si el alumno presenta sentimientos
+de frustración, desanimo y desmotivación (Chong, 2017).
+
+4
+
+Estilos de aprendizaje
+De acuerdo con Medina (s.f.) de la universidad Autónoma de Aguascalientes, “un estilo de
+aprendizaje se define como el conjunto de características psicológicas, rasgos cognitivos,
+afectivos y fisiológicos que suelen expresarse conjuntamente cuando una persona debe
+enfrentar una situación de aprendizaje”. También los estilos de aprendizaje proporcionan
+información sobre la manera en que aprende un individuo, esto es el método propio que utiliza
+una persona al momento de aprender algo. Un estilo de aprendizaje involucra preferencia,
+tendencias y disposiciones, así como conductas y fortalezas que distingue a un sujeto de los
+demás en la manera en que aprende (Lozano, 2007). Cabe señalar que las estrategias utilizadas
+varían según el tópico que se quiere aprender, sin embargo, cada persona tiene preferencia
+generales con lo que se puede definir su estilo de aprendizaje. De acuerdo a lo anterior, el
+proceso de enseñanza se complica ya que cada salón de clases tiene alumnos con diferentes
+formas de aprender.
+Sin embargo, es importante identificar los estilos de aprendizaje de los estudiantes para lograr
+un mejor rendimiento escolar, para ello es necesario realizar una identificación sistemática de
+los estilos de aprendizaje mediante un diagnóstico individual a través de instrumentos
+específicos (Valadez, 2009). En la mayoría de las instituciones educativas no se lleva a cabo la
+identificación de los estilos de aprendizaje y se generaliza de acuerdo al estilo del profesor, lo
+cual es utópico debido a las diferencias que existen en la individualidad de cada estudiante y el
+trabajo colectivo de los profesores. El constructivismo ha demostrado que adecuar el proceso
+de enseñanza a los estilos de aprendizaje ha tenido excelentes resultados. Sin embargo, en
+grupos numerosos de más de cuarenta personas en un aula, no se prioriza la individualidad de
+los estilos de aprendizaje, sino se generaliza conforme al estilo de aprendizaje de la mayoría
+de los estudiantes, si es que el profesor realizó un examen diagnóstico previo para detectar los
+estilos de aprendizaje de los alumnos.
+
+García (2018) señala que los estilos de aprendizaje han sido un factor para hacer notar
+diferencias en los procesos educativos, han evidenciado que tanto los alumnos como los
+profesores aprenden de manera distinta y no existe una forma de aprender que se considere
+correcta o equivocada, sin duda el rendimiento escolar es importante en los procesos de
+enseñanza ya que muestra si el estudiante alcanza o no los aprendizajes mínimos planteados en
+un curso o en el plan de estudios.
+
+5
+
+Independientemente del estilo de aprendizaje de los estudiantes estos aprenden de mejor
+manera las materias “duras”: matemáticas, física y química si se abordan en el aula problemas
+y actividades relacionadas con la vida cotidiana como el deporte, los alimentos, el manejo de
+las finanzas personales, entre otros (López, 2019). Aunado a lo anterior, el trabajo colaborativo
+permite la integración de los estudiantes y el aprendizaje mediante el liderazgo que algunos de
+los estudiantes pueden desempeñar en el desarrollo de una actividad.
+El constructivismo en la enseñanza de las ciencias
+Pereira (2018) define a la Física como una materia que incorpora elementos tanto conceptuales,
+experimentales y abstractos que dan respuesta a los fenómenos de nuestro entorno, de ahí la
+importancia de contextualizar los fenómenos estudiados en el curso de física con el entorno de
+los estudiantes para facilitar los aprendizajes y mejorar el rendimiento académico. Hacer
+tangible y referenciar el estudio de la ciencia con la vida cotidiana desde un enfoque
+constructivista logrará mayor interés en los estudiantes por descubrir los fenómenos que le
+rodean.
+
+Los contenidos y aprendizajes en las ciencias experimentales como física y química tienden a
+ser abstractos si solo se abordan casos particulares desde las aulas y no se hacen notar las
+aplicaciones en medios controlados como los laboratorios y en el mundo real, por ende plantear
+una metodología experimental es sumamente enriquecedor para generar conocimientos
+significativos en los estudiantes, Bravo et al. (2016) plantean un modelo constructivista para
+desarrollar una propuesta didáctica basada en tres fases, la primera considera la parte teórica
+conceptual, que es el preámbulo para llevar a la práctica lo visto durante la clase, en la segunda
+fase el proceso experimental y obtención de resultados y la tercera fase fue el análisis de la
+información obtenida, en donde se observó un mejor desempeño académico reflejado en
+mejores.
+Ramírez (2019) establece una relación entre los estudiantes que fueron admitidos en carreras
+de alta demanda en la Universidad Nacional Autónoma de México de acuerdo con la
+trayectoria académica previa, dividiendo tres perfiles académicos de la siguiente manera:
+•
+
+Ideal: concluye el bachillerato en 3 años con promedio de 8.6 a 10 sin reprobar o
+recursar alguna materia.
+
+6
+
+•
+
+Bueno: concluyen el bachillerato en 3 años y con promedio de 7 a 8.5 recursando
+materias.
+
+•
+
+Aceptable: concluyen el bachillerato en más de 3 años y con promedios de 7 a 8.5
+recursando materias.
+
+De lo anterior, se concluye que un aspirante con un perfil académico ideal, cuenta con una
+probabilidad seis veces mayor de ser aceptado en una licenciatura de alta demanda con
+respecto a los demás.
+Al evaluar estudiantes, siempre habrá cabida a las subjetividades debido a deficiencias en los
+métodos de evaluación así como las tendencias sesgadas de profesores en cuanto al desempeño
+de los estudiantes (Alonso-Sánchez et al., 1996). Desde la visión constructivista, la evaluación
+debe considerarse como herramienta de aprendizaje dentro del diseño instruccional en las
+planeaciones docentes.
+En la noción constructivista, el programa debe plasmar lo que el estudiante aprenderá de
+manera autónoma y lo que aprenderá bajo terceros (el profesor), (Chadwick, 2001), por tal
+motivo, en el diseño instruccional de las actividades esto debe especificarse, de igual forma la
+retroalimentacion docente sobre las actividades cumplen la funcion de fortalecer o asegurar el
+conocimiento adquirido por los estudiantes.
+Cabe señalar que las materias asociadas al pensamiento matemático y ciencias generan un
+grave conflicto entre los estudiantes para la obtención de conocimientos fundamentales para
+generar aprendizajes significativos, es por ello importante plantear distintas estrategias de
+aprendizaje que favorezcan el desarrollo de estas competencias redundando en el desarrollo
+integral y funcional de los alumnos, Santana-Fajardo (2018) atribuye los problemas del bajo
+nivel de conocimientos adquiridos en conceptos básicos de física clásica, por algunos
+estudiantes, por la deficiencia didáctica de los profesores que imparten estos cursos. La
+perspectiva didáctica de la física y las ciencias debe ir encaminada en función a los
+requerimientos del plan de estudios vigente, y que el estudiante desarrolle de manera idónea
+las competencias sugeridas en el programa que se trabaje a lo largo del curso, tomando en
+cuenta esto, hacer uso de las estrategias didácticas para dar mayor énfasis hacia el desarrollo
+de los conocimientos señalados y no solo la acreditación del curso.
+
+El deporte como estrategia constructivista para la enseñanza de la física general
+
+7
+
+Arroyo & Rayuela (2020) desarrollaron una intervención en estudiantes del cuarto año de
+secundaria en valencia España, para evidenciar la interdisciplinariedad entre la educación física
+y física, así como también la implementación de TIC. La propuesta fue aplicada durante cuatro
+sesiones; en donde en cada uno de ellas se abordaron distintos temas de física y también el uso
+de diferentes aplicaciones para el desarrollo de las mismas, se hizo obvio que los estudiantes
+eran capaces de utilizar las Apps sin experiencia previa, las apps y los temas respectivamente
+fueron: Runtastic para el tema de energía, la aplicación mide las distancias y cantidad de
+calorías utilizadas en cada sesión de correr, Wikiloc para el tema de posición, Cinemática y el
+uso de GPS y pulseras para actividad física para describir el movimiento. En cada una de las
+sesiones se cuestionó a estudiantes y profesores para determinar si la clase fue motivante, útil
+y pertinente en cuanto a los contenidos que se plantearon en ella.
+
+Herrera-Aguilar et at. (2016) analiza la relación de algunos deportes olímpicos con las
+matemáticas y la física, los deportes que relaciona son: Natación y Ciclismo; hace referencia
+que al iniciar el recorrido en la natación se aplican principios de tiro parabólico para el primer
+desplazamiento del nadador, así como también la fricción entre el cuerpo del atleta y el agua;
+respecto al ciclismo, la mecánica misma del diseño de las bicicletas para ajustar los pedales a
+medida del atleta y hacer más optimo el esfuerzo aplicado para rodar, así como también el
+sistema de plano inclinado al hacer notar la superficie convexa en donde se realizan las
+competencias para disminuir la posibilidad de caídas de los ciclistas debido a las velocidades
+ejercidas en las curvas.
+
+Méndez & Rodríguez (2014) implementan una práctica docente para la enseñanza de la física
+a través del lanzamiento de pelota de béisbol y basquetbol para plantear un sistema de tiro
+parabólico que ocurre en cada deporte, así como también hacer notar las trayectorias en un
+sistema plano cartesiano a través de la app Physick Trackers para que sea analizado por los
+estudiantes, haciendo la comparativa con respecto los datos que arroja la aplicación y lo que
+sucede en la práctica real, de este modo con las ecuaciones de movimiento el estudiante pueda
+calcular la posición de la pelota según corresponda.
+
+Sesma-Arrastia (2016) planteó una estrategia de enseñanza basada en problemas a través del
+diseño de los mismos en torno a casos particulares de la cotidianidad en donde los estudiantes
+estuvieran familiarizados con lo que se plantea, así como también deportes para dar realce a
+8
+
+dichos cuestionamientos; utilizó golf, fútbol soccer, tenis, gimnasia artística, lanzamiento de
+jabalina, parkour, tiro con arco.
+
+Campos-Salazar & Aragón-Vargas (2011) diseñan problemas de física de los tópicos:
+conversiones de unidades, vectores, cinemática, utilizando datos y estadísticas deportivas para
+crear problemas de física aplicados a los temas mencionados con la finalidad de que los
+estudiantes de bachillerato los utilicen para facilitar los procesos de estudio durante el curso de
+los temas mencionados.
+
+Zoquez et al. (2019) elaboraron un plan de análisis biomecánico del equipo de béisbol de
+Holguín que participó en los juegos Panamericanos en Guadalajara México en 2011 a través
+de la observación de posturas de lanzadores y la toma del bate y la postura del bateador con la
+finalidad de mejorar los resultados promedio y eficientar el bateo y lanzamiento, de este modo
+realizaron las recomendaciones necesarias a cada jugador para mejorar sus índices de
+resultados en cuanto a la posición que cada uno se ubica.
+
+El deporte va de la mano con el desarrollo integral tal y así está establecido en el nuevo Marco
+Curricular Común de la Educación Media Superior MCCEMS. Promover la práctica de
+acondicionamiento físico desde una perspectiva multidisciplinaria es justamente lo que
+propone el nuevo modelo educativo para la EMS en el país, generando una sociedad más sana
+en términos generales. Hacer notar la presencia de la ciencia en el deporte para una propuesta
+didáctica del estudio de la Física promoverá ambos, promover una clase que resulte menos
+tediosa y con aprendizajes significativos a través de prácticas de calistenia o cualquier deporte
+y favorecer en la promoción deportiva entre los estudiantes para generar una sociedad más
+sana.
+
+Aprendizaje Basado en la Investigación y Aprendizaje Basado en Problemas
+Las herramientas de aprendizaje que utilizan los docentes de Física van de la mano con el
+aprendizaje basado en problemas (ABP) debido a las características de los contenidos que se
+aplican, un ejemplo muy claro es el planteamiento del diagrama de cuerpo libre de un objeto,
+
+9
+
+en donde a través de un caso hipotético se hacen las suposiciones correspondientes respecto lo
+que se plantea analizar, digamos que si se trata en específico del equilibrio de la partícula, se
+suelen realizar ejercicios en donde se sostienen masas con cables, y el problema sugiere
+encontrar las tensiones que son ejercidas en los cables debido a la carga que ejerce la masa en
+dirección opuesta. Por tal motivo se requiere que los estudiantes sean capaces de reflexionar
+esos casos específicos y logren diseñar el diagrama de cuerpo libre que se plantee en cada caso
+en particular para posteriormente con los métodos matemáticos obtener la respuesta correcta.
+
+El objetivo del aprendizaje basado en investigación (ABI) es interconectar las enseñanzas que
+se dan en el aula, con aplicaciones y metodologías de investigación, de este modo el estudiante
+forma competencias y habilidades para argumentar y reflexionar. Esta estrategia para el
+desarrollo del aprendizaje vincula el contenido de los programas educativos con información
+que el mismo estudiante recaba de manera teórica y práctica, de este modo es partícipe del
+desarrollo de su conocimiento (Briceño, 2021). El rol del docente juega un papel fundamental
+debido a que debe generar retroalimentación, supervisar actividades y procedimientos, y
+asegurar los objetivos planteados para el desarrollo del aprendizaje.
+El estudiante debe ser capaz de lograr dichas competencias en la materia de física, debe de
+generar las habilidades para realizar un análisis correcto para cada caso que se le plantee,
+independientemente del tema que se trate, la interpretación de un problema en un diagrama de
+cuerpo libre solo se logra si el estudiante domina de manera clara los contenidos teóricos y los
+aplica en dichos “problemas” a través del raciocinio lógico que el mismo va desarrollando, por
+tal motivo plantear un aprendizaje basado en investigación genera dichas conexiones donde el
+estudiante puede interpretar y ser reflexivo. Si además se incorporan herramientas tecnológicas
+en el proceso de aprendizaje, los estudiantes desarrollan competencias digitales que son básicas
+para estudiantes del siglo XXI.
+Tecnología educativa
+Los factores que han influido en el concepto de tecnología educativa se han generado a través
+de la historia y desde que se incorporaron las tecnologías de la información y la comunicación
+al lenguaje educativo. Un concepto básico de la tecnología educativa (TE) es la utilidad que se
+le da a algún artefacto tecnológico con fines educativos. El valor de la TE se basa en integrar
+y visualizar las diversas áreas, tecnologías y técnicas (Mujica, 2020), ver la forma de
+implementar los dispositivos que resulten adecuados para la práctica docente es una labor que
+
+10
+
+requiere que los profesores tengan las competencias para utilizar los nuevos dispositivos y
+tecnologías como el smartphone que ha desplazado algunas tareas que requieren un equipo de
+cómputo de escritorio, además es eficaz utilizarlo como aliado para los procesos de enseñanza
+aprendizaje.
+
+Algunas aplicaciones móviles que son útiles para desarrollar procesos matemáticos pueden ser
+utilizadas en clases de física para la solución de problemas, Photomath, es una aplicación que
+permite escanear cualquier ecuación matemática para dar con la solución, por lo que puede ser
+aplicada en problemas de Estática y equilibrio de la partícula debido a que se requieren
+soluciones de sistemas lineales para obtener las incógnitas que resulten a las condiciones de los
+problemas planteados, esto por mencionar algún ejemplo.
+
+Existen también aplicaciones móviles que miden distancia, tiempo, cámaras lentas, que pueden
+ser incorporadas a los procesos de enseñanza de Dinámica, mediante la toma de datos de estas
+variables para calcular la posición de la partícula, velocidad y aceleración. Es necesario sacar
+el mayor provecho de nuestros dispositivos para realizar cualquier tarea, en el caso de la
+educación, incorporar estos elementos a la tarea docente es prácticamente necesario para estar
+a la vanguardia en cuanto a las necesidades actuales de lo que requiere una sociedad más
+competitiva.
+Innovación Educativa
+Cada autor tiene una definición de innovación distinta dependiendo el espectro que se refiere,
+pero en términos generales; el concepto trasciende a procesos nuevos, inventos, patentes, por
+el contrario, muchos autores lo mal interpretan con respecto a términos de índole tecnológica,
+su impacto rige de manera continua en la sociedad desde aspectos económicos, sociales y
+ambientales (Mella, 2018).
+La innovación debe ser continua en cuanto a los procesos de enseñanza-aprendizaje se refiere,
+debido a la continua necesidad de mejorar y promover una formación integral en los
+estudiantes, Martínez et al. (2018) diseñan una propuesta para la enseñanza de temas relativos
+a los cambios de la materia y la energía, que pertenecen al área de las ciencias, a estudiantes
+de tercero de secundaria. La propuesta se basa en incluir como entorno experimental a la
+cocina, para ello los estudiantes cocinan ciertos alimentos y con ello poder relacionar lo que
+viven de forma cotidiana con conocimiento teórico obtenido. Apegándose a los contenidos
+
+11
+
+requeridos aplicar una propuesta como la que planteó la autora resulta innovadora, las
+actividades planteadas para desarrollar aprendizajes en cuanto los cambios de energía fue la
+elaboración de magdalenas, cocción de carne con distintas fuentes de energía, en general
+resultará muy significativo para el estudiante visualizar y contextualizar los temas referentes a
+cualquier área, además de que resultará más motivador, y es que la motivación es un factor que
+debe estar incluido en la didáctica de los profesores, considerando que la falta de interés por
+los estudiantes es la primera causa de deserción escolar en la escuela media superior en México
+(INEGI, 2018).
+Al hacer uso de la tecnología en bachillerato, permite innovar el proceso de enseñanza
+aprendizaje, Abad-Encinas (2019), propone el uso de medios digitales y tecnologías de
+información (TI), para implementar una propuesta pedagógica a distancia para estudiantes de
+bachillerato para las materias de Química y de Física. La propuesta fue dirigida a personas
+adultas para que pudieran continuar con sus estudios además de sus actividades laborales. Otro
+ejemplo de innovación es la inclusión de temas avanzados como la física cuántica, en este
+sentido González et al. (2020) hacen un estudio comparativo de tres países que han incluido
+tópicos de física cuántica en niveles de secundaria y bachillerato, y se destaca la necesidad de
+la formación docente para poder impartir estos temas de mejor manera y con ello lograr que
+los estudiantes aprendan. Addine et al. (2020) definen que contextualizar el aprendizaje
+ayudará a desarrollar metodologías para la enseñanza de la ciencia basada en la construcción
+del conocimiento.
+De acuerdo con el Instituto Mexicano para La Competitividad A.C. IMCO (2021) la mayor
+cantidad de personas con título profesional en México corresponde a las carreras afines a las
+ciencias sociales, al hacer una comparativa con respecto a las carreras afines a las ciencias
+tecnológicas se nota claramente el contrapeso, las razones por lo que sucede este fenómeno
+puede ser variable, pero la falta de interés en las ciencias tecnológicas en términos generales
+es uno de ellos. Este fenómeno no solo ocurre en México, Sanmartín (2019) señala que la
+Comisión Europea determinó que habrá plazas de trabajo sin ocuparse en puestos laborales
+afines a perfiles tecnológicos debido que los universitarios españoles no están interesados en
+carreras STEAM (agrupan las áreas de ciencia, tecnología, ingeniería y matemáticas), y esto
+debido que desde el año 2000 se tiene contabilizado una caída del 30% en la matrícula escolar
+de estas ramas de la ciencia.
+
+12
+
+La ciencia, tecnología e innovación (CTI) se encuentran en una grave crisis; de acuerdo a cifras
+comparadas con la media de los países afiliados a la OCDE, México invierte ocho veces menos
+en investigación y desarrollo tecnológico, la lista de investigadores en el país es nueve veces
+menor, la publicación de artículos científicos es alrededor de cinco veces menor y los
+ciudadanos mexicanos realizan veinte veces menos solicitudes de patentes en la instancia
+correspondiente, en este caso el IMPI, por estas razones, México ocupa los últimos lugares en
+los rankings internacionales de innovación y desarrollo tecnológico (EGADE Business School
+Tecnológico de Monterrey, 2020).
+
+Uso del Video en la Educación
+A través de contenidos digitales, hoy se pueden desarrollar distintas intervenciones educativas
+mediante el uso de los dispositivos con los que se cuenten: tableta, smartphone, pc, etc. De
+manera que se puede sacar el mayor provecho tanto del contenido disponible en la red de forma
+gratuita, así como también el mayor provecho a los dispositivos de los estudiantes y los
+profesores, en este caso haciendo referencia a los videos y su uso como herramienta didáctica
+para la enseñanza en algún tema en particular.
+El sitio más visitado para visualizar videos a través de internet es la plataforma de YouTube,
+de acuerdo con un informe global, la red social tiene poco más de 2.5 millones de usuarios
+(Ayesta, 2023), en la plataforma se encuentran todo tipo de videos y la suscripción es gratuita
+y también cuenta con una suscripción de paga, diferenciando el tipo de contenido y la calidad
+del stream para reproducción de los videos. Su uso en la educación deriva en que prácticamente
+de cualquier área del conocimiento se puede encontrar información en la plataforma referente
+a ello, por ejemplo, un tutorial de cómo utilizar una soldadora de alguna marca, así como
+también el tipo de elementos que se pueden soldar con la herramienta mencionada, se le puede
+sacar mucho provecho a la plataforma siempre y cuando se utilice de manera responsable, así
+como también la responsabilidad de discernir entre la información confiable y la que no,
+haciendo referencia a la línea anterior, YouTube, lanza la plataforma YouTube.EDU en
+diciembre de 2009 en donde los administradores se aseguran que el contenido difundido sea
+exclusivamente de índole educativo y el suscriptor puede elegir contenido diseñado por
+universidades como UC Berkeley, UCLA, Yale, Stanford por hacer mención de algunas, al año
+de su lanzamiento, YouTube.EDU se convirtió en uno de los sitios con vídeos educativos con
+mayor uso en el mundo (Ramírez-Ochoa, 2016).
+
+13
+
+En las redes sociales como Facebook, Twitter, Tik tok, Instagram etc, existe contenido y gran
+cantidad de usuarios que utilizan tiempo de ocio para ver las distintas plataformas mencionadas
+a través de sus dispositivos móviles que tienen conexión a internet. En ámbitos educativos, el
+uso de la tecnología no puede quedarse atrás, innovar en ese sentido forma parte de una manera
+alternativa de desarrollar y generar estrategias que favorezcan el aprendizaje de los usuarios, y
+dar mayor calidad al tipo de contenido al que tienen acceso quienes utilizan dichas plataformas.
+Matarrita & Molina (2018) diseñan un canal de YouTube llamado “Canal educativo de la
+cátedra de la física” en Costa Rica, mediante el cual se seleccionaron distintos temas de la
+materia referentes a resolución de problemas o análisis conceptuales para que fuera útil como
+material de apoyo para estudiantes que cursen la materia, el diseño del material se realiza a
+modo de video-tutorial en donde se resuelven y explican los problemas de las temáticas en
+cuestión.
+Rodríguez-Licea et. al (2017) plantearon una propuesta de enseñanza de matemáticas a través
+de videos para los temas de bisectrices y mediatrices y puntos notables en el triángulo,
+concluyeron que hubo mejoras significativas de acuerdo a la comparativa que se realizó entre
+el grupo experimental y el grupo de control de 1.0919 puntos en la escala Likert, es decir, que
+el grupo experimental fue mejor evaluado a nivel global con respecto a la evaluación sumativa
+que se realizó.
+Una de las ventajas que ofrece este tipo de herramientas didácticas es que están disponibles de
+manera permanente mientras el estudiante cuente con un dispositivo con conexión a internet, y
+el estudiante puede reproducir dicho material las veces que considere necesarias para el mejor
+entendimiento de algún ejercicio o problema de matemáticas o física.
+
+III. JUSTIFICACIÓN
+Realizar una propuesta didáctica alterna que resulte innovadora para la enseñanza de la física
+y generar aprendizajes significativos en los estudiantes utilizando el deporte y la tecnología
+educativa, permitirá que los alumnos desarrollen las habilidades y competencias, así como
+también de manera intrínseca promover el deporte para tender a una sociedad más sana en un
+periodo a mediano y largo plazo.
+
+14
+
+Arroyo & Rayuela (2020) evidencian la interdisciplinariedad entre las áreas Física (mecánica
+clásica) y Educación física ante la necesidad de innovar en los procesos de enseñanzaaprendizaje para recurrir a métodos alternos que potencien las capacidades de los estudiantes,
+así como también desarrollar actividades que convergen en torno a la mejora continua de la
+comunidad académica y todos los involucrados en ella, al analizar los resultados obtenidos
+mediante la aplicación de cuestionamientos-encuestas a profesores y estudiantes respecto a las
+sesiones de intervención; concluyó que en el primer grupo (profesores) desde percepciones
+individuales, la mayoría respondió que la prueba resultó idónea y pertinente para el desarrollo
+de los temas que se plantearon, abriendo la posibilidad de aplicar la metodología en otros
+tópicos y con otros deportes en donde sea factible realizarlo.
+Promover una práctica docente que resulte atractiva para los estudiantes es un reto que deben
+afrontar los profesores al planear sus clases, debido a ello innovar en este sentido resulta
+oportuno para que los procesos de enseñanza-aprendizaje sean más efectivos siempre
+apegandose a diseños instruccionales que resulten idóneos. Mendez (2014) concluyó que al
+estudiante le resulta motivador utilizar aplicaciones (physik trackers) así como también notó
+que el aprendizaje en cuanto al tema de tiro parabólico resultó efectivo al utilizar una situación
+real y tangible como lo fue el lanzamiento de las pelotas de béisbol y de basquetbol al contrastar
+con las temáticas vistas de movimiento.
+Estudios previos como el de Rodríguez Licea et. al (2018) han demostrado que el uso de videos
+como herramienta didáctica para la enseñanza son convenientes debido que el estudiante puede
+tener acceso a ellos de manera permanente y utilizarlo cada que crea conveniente hacerlo para
+disipar las dudas que puedan surgirle referente a alguna temática en especial.
+Distintos tópicos de mecánica clásica que son parte de los programas vigentes de esta materia
+podemos encontrarlos en los deportes, así como también en situaciones cotidianas; por ejemplo
+el tiro parabólico, lo encontramos en el fútbol americano, en el voleibol, en el futbol soccer; de
+igual forma describe el desplazamiento de algunos animales tales como la rana, el canguro y el
+conejo (Herrera-González, 2021).
+De acuerdo a los resultados obtenidos en las evaluaciones que aplicó Sesma-Arrestia (2016),
+resultó productiva la aplicación de problemas de física basados en deportes y entornos
+cotidianos a los estudiantes, el 75% de los estudiantes aprobaron el curso y en general se
+
+15
+
+mostraron dispuestos y motivados para resolver de manera autónoma las actividades que se
+aplicaron, por lo tanto, se recomienda dicha metodología en cursos posteriores.
+Fortalecer la capacidad física de los alumnos desde la educación, tiene gran relevancia debido
+a que se atribuyen aumentar el rendimiento físico de los jóvenes, fomentan una vida saludable;
+en cuanto a la formación ética y de valores también repercute desde todas las implicaciones en
+donde estas convergen debido a que desarrollan capacidades motrices basicas, habilidades
+necesarias, las relaciones entorno ámbitos económicos y deportivos y en general una vida más
+saludable y placentera (Carrillo-Linares et al., 2020).
+
+Ver al deporte como una alternativa para motivar al estudiante para el estudio de las ciencias
+en general y combinarlo con la tecnología educativa coadyuva en lo establecido en el desarrollo
+integral que debe ser promovido en la Escuela Media Superior en el país. En internet se
+encuentran recursos que se pueden utilizar para explicar algún tema en específico de mecánica
+clásica, por ejemplo en la figura 1, el atleta para mantener la posición indicada requiere control
+absoluto del centro de masa, además del tema de equilibrio y momento de fuerza puede ser
+explicado a través de la imagen y videos.
+
+Figura 1. Captura de pantalla de https://www.youtube.com/watch?v=cIEy_VvopIY
+El fútbol probablemente sea el deporte más popular en Jalpan de Serra, por esa razón utilizarlo
+resulta conveniente para que el estudiante se sienta atraído por el estudio de temas de mecánica
+clásica, en la figura 2, se encuentra Cristiano Ronaldo ejecutando un tiro libre, en un video con
+esas características pueden abordarse los temas de tiro parabólico y movimiento de la partícula
+en general, esto debido a la trayectoria que hace la pelota para la anotación del deportista.
+
+16
+
+Figura 2. Captura de pantalla de https://www.youtube.com/watch?v=INCKTlS1Jms
+Del mismo modo, las Leyes de Newton pueden ser explicadas jugando béisbol, se puede
+demostrar que si el lanzador no aplica una fuerza la pelota no entra en juego, estará estática.
+En caso contrario, durante la trayectoria de la pelota, la velocidad que alcanza será proporcional
+a la fuerza que ejerce el lanzador en su brazo, y finalmente la tercera ley de Newton cuando el
+bateador logra hacer un tiro certero y la bola toma alguna dirección y distancia.
+Por mencionar algunos ejemplos de forma general, el deporte y la física tienen una estrecha
+relación dependiendo desde qué fenómeno se pretende analizar y también dependiendo que
+deporte se mencione; por ejemplo realizar un tiro para anotar un punto en el basquetbol se
+requiere cierta habilidad, entonces suponer desde la física lo que conlleva a que se anote o no,
+va ligado conforme a las condiciones de movimiento o sea, las leyes de dinámica; por su parte,
+diversos ejercicios de la calistenia pueden mostrarse desde sus aspectos en la física como las
+leyes de estática y centro de masa para determinar la zona fuerza que debe aplicar el atleta para
+lograr mantenerse en una posición estática y compensar el momento de fuerza que su propio
+peso ejerce sobre el punto de apoyo. Dicho esto, los principios de física clásica se pueden
+analizar con los estudiantes a través de vídeos y prácticas deportivas para generar aprendizajes
+significativos, de este modo cambiar la dinámica tradicional de la clase tradicional de física.
+La propuesta didáctica planteada se basa en una metodología constructivista al utilizar el
+aprendizaje basado en problemas y aprendizaje basado en investigación, así como la práctica
+deportiva para resolver problemas reales mediante temas de la física. Desde un enfoque
+multidisciplinario y transversal se cumple con lo establecido en los modelos educativos que se
+establecen para la educación media superior en el país.
+
+17
+
+IV. DESCRIPCIÓN DEL PROBLEMA
+Los bajos resultados escolares y la pérdida de interés en algunas materias, en este caso a la
+Física considerada por un gran porcentaje de estudiantes como una materia complicada, difícil
+y tediosa, abre el panorama a investigaciones y propuestas didácticas que mejoren el
+aprendizaje de los estudiantes.
+En los resultados de la prueba diagnóstica de aprendizajes 2022 realizados en los distintos
+subsistemas de bachillerato en el estado de Queretaro por el consejo estatal para la planeacion
+y programacion de la educacion media superior CEPPEMS (2022), se encontró que en las
+materias de ciencias es donde existen los niveles mas bajos de conocimientos, en el caso del
+Bachillerato de la UAQ de Jalpan de Serra, se tiene la misma coincidencia, ya que se obtuvo
+una calificación grupal de 50.1, lo que indica que la mayoría de estudiantes no son capaces de
+resolver problemas en donde se aplican conceptos de fuerza, movimiento y energía. ElizondoTreviño (2013) enuncia las complicaciones que regularmente enfrentan los alumnos de
+bachillerato para el entendimiento de los problemas de física clásica:
+1. Complicación para señalar datos imprescindibles del problema
+2. Complicación para entender el alcance de los datos
+3. Complicación para contextualizar los principios de mecánica clásica
+4. Complicación para elaborar el diagrama de cuerpo libre de un problema
+5. Complicación por falta de conocimientos necesarios de matemáticas
+La propuesta didáctica incluye la práctica deportiva para enseñar algunos conceptos de la física
+general lo que se alinea al Programa Institucional y Desarrollo de la Universidad Autónoma de
+Querétaro, para proporcionar una formación integral al incentivar el deporte, la cultura y la
+paz.
+V. COMITÉ DE BIOÉTICA
+Al trabajar con menores de edad e implicarnos en un estudio como el que se pretende, es
+prudente que además del permiso institucional para llevar a cabo la investigación dentro de las
+instalaciones, contar además con el permiso de los padres, a través de una carta de
+consentimiento informado, para recabar datos e información que sea prudente para llevar a
+cabo el desarrollo del proyecto.
+
+18
+
+Así mismo asumir el compromiso de utilizar la veracidad de los datos recabados y no falsear
+ningún tipo de información para darle un sentido tendencioso; esto con la finalidad de concluir
+de manera asertiva a los objetivos e hipótesis planteados, de manera que al redactar las
+conclusiones al proyecto de investigación solo se promulguen razones positivas a lo
+mencionado, independientemente del tipo de respuesta que arrojen los resultados de la
+investigación.
+Contar con un aviso de privacidad para dar seguridad a los miembros que participen de manera
+activa en el desarrollo de la investigación de que los datos proporcionados no serán difundidos
+bajo ninguna circunstancia.
+No se hará mención en ningún momento de los nombres de los estudiantes que deseen
+participar en la prueba planteada, esto con la finalidad de salvaguardar su identidad y acorde a
+lo mencionado en el párrafo anterior con respecto al aviso de privacidad, en caso de ser
+necesario hacer mención de casos particulares, se denotará como “estudiante n” o “alumno n”.
+Asimismo, toda acción planteada y desarrollada a lo largo de la intervención deberá ser acorde
+a los protocolos vigentes de perspectiva y actuación de género, evitando roles sexistas,
+violencia o disidencias sexuales, promoviendo siempre una cultura de paz y sana convivencia
+haciendo de lado todo tipo de discriminación en razón de lo mencionado.
+VI. PLANTEAMIENTO TEÓRICO (Hipótesis y/o supuestos, pregunta, etc.)
+Pregunta de investigación
+¿Utilizar videos y prácticas deportivas como método didáctico para la enseñanza de física
+general, promueve el aprendizaje de los estudiantes?
+Hipótesis, Supuestos y/o proposiciones de investigación
+Hipótesis: Si se implementan vídeos y prácticas deportivas para la enseñanza de la física
+general se favorece el aprendizaje de los estudiantes.
+Supuesto: Implementar videos y prácticas deportivas como estrategia didáctica para la
+enseñanza de la física general en estudiantes de bachillerato favorece el interés de los
+alumnos en la materia.
+
+19
+
+VII. OBJETIVOS
+Objetivo general:
+Desarrollar una propuesta didáctica basada en el uso del video y prácticas deportivas para la
+enseñanza de la Física General a estudiantes de la escuela de bachilleres de Jalpan de Serra y
+mejorar el aprendizaje y el interés en la misma.
+Objetivos específicos:
+1. Identificar los deportes que permitan explicar temáticas de la física general y que
+puedan ser practicados por los estudiantes de la escuela de bachilleres de la UAQ
+campus Jalpan de Serra.
+2. Conocer los estilos de aprendizaje de los estudiantes y los conocimientos adquiridos en
+los temas objeto de estudio.
+3. Desarrollar los contenidos y actividades de la estrategia didáctica basados en estrategias
+de aprendizaje constructivista, la inclusión del video como herramienta tecnológica y
+la práctica deportiva para facilitar el aprendizaje.
+4. Aplicar la propuesta didáctica a los estudiantes de 6to semestre de la escuela de
+bachilleres de la UAQ campus Jalpan de Serra.
+5. Evaluar el alcance de la propuesta didáctica de acuerdo a los resultados obtenidos.
+
+VIII. METODOLOGÍA
+Considerando que el aprendizaje es un fenómeno complejo debido a las causas eclécticas que
+intervienen en él, se toma la decisión de aplicar una metodología mixta para el desarrollo de la
+investigación. Sampieri (2018) hace referencia a la necesidad de recurrir a métodos mixtos
+cuando el tema en cuestión resulta complejo y diverso debido a que tratarlos desde un enfoque
+único, tanto cuantitativo como cualitativo, puede ser insuficiente para tratar esta
+heterogeneidad y complejidad.
+
+Desde el aspecto CUAN en un estudio como el planteado, se puede determinar el rendimiento
+escolar de los estudiantes por las calificaciones asociadas a cada alumno, o de igual forma en
+los resultados que se obtengan en pruebas, o exámenes. Si se trata de la misma institución, el
+
+20
+
+mismo material bibliográfico, el mismo docente, la misma clase, la misma materia, el mismo
+examen; determinar las causas del por qué diferenciar el rendimiento escolar entre alumno y
+alumno requiere una visión pragmática a través de una observación para determinar dichas
+razones, considerando el interés o motivación como causas probables del rendimiento de los
+estudiantes, para ello se requiere una visión cualitativa.
+De acuerdo con Álvarez-Risco (2020) una metodología mixta con alcance descriptivo
+comparativo deberá especificar las propiedades de las variables, definir y medir las variables y
+cuantificar y mostrar la dimensión de un fenómeno o contexto. Para lograr alcanzar los
+objetivos y comprobar la hipótesis se plantea el siguiente diseño de la investigación.
+
+Diseño de la investigación
+1. La población en donde se llevará a cabo el estudio, son los estudiantes del bachillerato de
+la UAQ, campus Jalpan de Serra.
+2. La muestra a elegir será por conveniencia y serán dos grupos de estudiantes de sexto
+semestre de bachillerato de Jalpan de Serra, uno de control y otro de experimentación.
+Cuyas edades oscilan entre los 17 y 18 años.
+
+3. Instrumentos
+•
+
+Elaborar instrumento para identificar los deportes que más practican los estudiantes. Ya
+que será crucial para aumentar la posibilidad de elevar los niveles de motivación y
+entusiasmo para la participación de los alumnos.
+
+•
+
+Elaborar instrumento para identificar los conocimientos adquiridos de los estudiantes
+antes y después de aplicar la estrategia propuesta (pretest y postest).
+
+•
+
+Diseñar instrumento para observar el comportamiento (interés, motivación,
+participación, etc.) de los estudiantes al aplicar la estrategia propuesta.
+
+4. Desarrollo de la propuesta
+Con los resultados de la encuesta sobre deportes que más les gustan y practican los
+estudiantes, los resultados de los estilos de aprendizaje y el diagnóstico inicial sobre
+sus conocimientos de física general se desarrollará la propuesta didáctica considerando
+el aprendizaje basado en problemas y basado en investigación.
+
+5. Recogida de Datos
+
+21
+
+•
+
+La información se recabará mediante la aplicación de los instrumentos propuestos.
+
+6. Análisis de datos
+•
+
+Para el análisis de datos se realizará un análisis descriptivo comparativo para
+determinar si hay una mejora en el aprendizaje de los estudiantes y si los estudiantes
+muestran un mayor interés en los temas de física general.
+
+7. Cronograma.
+CRONOGRAMA
+M A M J
+
+2015
+2024
+2023
+J A S O N D E F M A M J J A S O N D E F M A M J J
+
+ANÁLISIS DE POBLACIÓN
+DESCRIBIR EL GRUPO
+IDENTIFICAR DEPORTES
+IDENTIFICAR E. DE APRENDIZAJE
+SELECCIÓN DE MUESTRA
+ELEGIR GRUPO EXPERIMENTAL
+DISEÑO INSTRUCCIONAL
+SELECCIONAR VIDEOS
+EDITAR VIDEOS
+PLANEAR CLASES DE LEY DE NEWTON
+PLANEAR CLASES DE MOVIMIENTO
+PLANEAR CLASES DE VECTORES DE FUERZA
+
+APLICAR PROPUESTA
+EVALUAR PROPUESTA
+COMPARAR RESULTADOS
+ANÁLISIS DE OBSERVACIONES
+ESCRITURA DE ARTÍCULO
+PARA REVISTA INDEXADA
+PONENCIA EN CONGRESO
+NACIONAL O INTERNACIONAL
+
+ESCRITURA DE ARTÍCULO
+PARA REVISTA INDEXADA
+PONENCIA EN CONGRESO
+NACIONAL O INTERNACIONAL
+
+ESCRITURA DE TESIS
+
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+Propuesta didáctica que sirva como herramienta docente para la enseñanza de la física y
+ciencias en general y además sirva como precedente para futuras investigaciones afines a los
+resultados mencionados, además de romper con paradigmas en donde se considera al estudio
+de la física como una materia compleja y difícil de aprender.
+Se esperan resultados positivos de acuerdo a los objetivos planteados en el proyecto, considerar
+que una propuesta didáctica promueve el interés y motivación sobre el estudio de las ciencias,
+en este caso Física, en los estudiantes, a través de la implementación de prácticas deportivas
+22
+
+como calistenia, basquetbol, entre otros y el uso de las tecnologia educativa, considerando la
+transversalidad que existe entre las materias de estudio que van en los planes educativos de la
+educación media superior en México. Además, se esperan los siguientes resultados:
+•
+
+2 participaciones en congresos nacionales o internacionales como ponente para difundir
+la aplicación y los resultados obtenidos
+
+•
+
+1 publicación de artículo en revistas indexadas afines a los temas referentes al proyecto
+nacionales e internacionales
+
+•
+
+Documento con los contenidos y actividades de física general basados en la estrategia
+propuesta.
+
+X. ÍNDICE TENTATIVO DE LA TESIS
+Resumen
+Capítulo I: Aspectos Generales
+1. Introducción
+2. Problema
+3. Objetivos
+4. Justificación
+Capítulo II: Fundamentación Teórica
+1. Conceptos Generales
+a. Constructivismo
+b. Diseño Instruccional
+i.
+Estrategias de aprendizaje
+ii.
+Identificación estilos de aprendizaje
+c. Desempeño Academico
+2. Estado del Arte
+a. La Escuela Media Superior en México
+b. Estilos de aprendizaje
+c. Innovación educativa
+d. El constructivismo en la enseñanza de las ciencias
+e. El deporte como estrategia constructivista para la enseñanza de la física
+f. Uso del Video en la Educación
+3. Marco Teórico
+a. Teorias Enseñanza-Aprendizaje
+b. Didactica de la fisica
+c. Diseño instruccional basado en constructivismo
+i.
+Aprendizaje basado en problemas aplicado en la enseñanza de la
+física
+ii.
+Aprendizaje basado en investigación aplicado en la enseñanza de la
+física
+
+23
+
+d. Retroalimentación docente
+Capítulo III: Desarrollo
+1. Metodología
+2. Modelo Experimental
+3. Desarrollo del Modelo
+4. Aplicacion de Intervención Educativa
+5. Monitoreo
+Capítulo IV: Resultados y Análisis
+1. Resultados
+2. Análisis de Resultados
+Discusión
+Conclusiones
+Bibliografía
+XI. REFERENCIAS BIBLIOGRÁFICAS
+Abad Encinas, P. (2019). Aula virtual de Física y Química para 1º de Bachillerato. Un entorno de
+enseñanza-aprendizaje innovador para personas adultas [Tesis de Maestría, Universidad
+Publica de Navarra]. https://academica-e.unavarra.es/handle/2454/33605
+Addine, F., Recarey, S., Fuxá, M., & Fernández, S. (2020). Didáctica: teoría y práctica. Editorial Pueblo
+y Educación.
+Alonso Sánchez, M., Gil Pérez, D. y Martínez Torregrosa, J. (1996). Evaluar no es calificar. La
+evaluación y la calificación en una enseñanza constructiva de las ciencias. Revista Investigación
+en la Escuela, 30, 15-26. http://hdl.handle.net/11441/59727
+Álvarez Risco, A. (2020). Clasificación de las investigaciones. Universidad de Lima, Facultad de
+Ciencias Empresariales y Económicas, Carrera de Negocios Internacionales.
+https://hdl.handle.net/20.500.12724/10818
+Arroyo, F. J. B., & Royuela, C. M. (2020). Propuesta de innovación interdisciplinar de contenidos de
+física en las clases de educación física mediante aplicaciones móviles. RETOS: Nuevas
+tendencias
+en
+educación
+física,
+deporte
+y
+recreación,
+(38),
+255-261.
+https://www.researchgate.net/profile/JaviBasterra/publication/338914374_Innovative_proposal_of_physics_contents_on_physical_educ
+ation_sessions_through_movile_applications/links/5e5f7d40299bf1bdb850d56c/Innovativeproposal-of-physics-contents-on-physical-education-sessions-through-movile-applications.pdf
+Ayesta, A. (14 de febrero 2023). Aniversario de YouTube: cinco tendencias en videos para este 2023.
+Trend | Agencia de PR & Reputación; Trend Comunicación. https://trend.pe/aniversario-deyoutube-cinco-tendencias-en-videos-para-este-2023/
+Basto Ramayo, R. (2017) La Función Docente Y El Rendimiento Académico: Una Aportación Al Estado
+Del Conocimiento. Congreso nacional de investigación educativa Universidad Autónoma de
+Tlaxcala, https://comie.org.mx/congreso/memoriaelectronica/v14/doc/2030.pdf
+BCNTraining [@bcntraining7625]. (2016, abril 14). Como hacer la bandera humana | Tutorial con
+ejercicios y progresión. Youtube. https://www.youtube.com/watch?v=cIEy_VvopIY
+Bravo, Alicia A, Ramírez, Glenda P, Faúndez, Claudio A, & Astudillo, Hernán F. (2016). Propuesta
+Didáctica Constructivista para la Adquisición de Aprendizajes Significativos de Conceptos en
+Física de Fluidos. Formación universitaria, 9(2), 105-114. https://dx.doi.org/10.4067/S071850062016000200012
+Briceño, G. (20 de julio 2021). Aprendizaje basado en la investigación: estrategia educativa para el
+desarrollo
+de
+competencias.
+Servicios
+Sociales
+y
+a
+la
+Comunidad.
+https://www.aucal.edu/blog/servicios-sociales-comunidad/aprendizaje-basado-en-lainvestigacion-estrategia-educativa-para-el-desarrollo-de-competencias
+
+24
+
+Campos Salazar, C., & Aragón Vargas, L. F (2011). Práctica de problemas físico matemáticos
+relacionados
+con
+el
+análisis
+del
+movimiento
+aplicado
+al
+deporte.
+https://hdl.handle.net/10669/75667
+Carrillo Linares, E, Aguilar Hernández, V., & González Blanco, Y. (2020). El desarrollo de las
+capacidades físicas del estudiante de Mecánica desde la Educación Física. Mendive. Revista de
+Educación, 18(4), 794-807. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S181576962020000400794&lng=es&tlng=.
+Chadwick, C. B., (2001). La psicología de aprendizajedel enfoque constructivista. Revista
+Latinoamericana
+de
+Estudios
+Educativos
+(México),
+XXXI(4),
+111-126.
+https://www.redalyc.org/articulo.oa?id=27031405
+Chong González, E.G. (2017). Factores que inciden en el rendimiento académico de los estudiantes de la
+universidad politécnica del valle de Toluca. Construcción ciudadana de lo público. XLVII, 91108. DOI:10.48102/rlee.2017.47.1.159
+Consejo Estatal Para La Planeación Y Programación De La Educación Media Superior CEPPEMS (2022)
+Resultados de la prueba diagnóstica de aprendizajes 2022 [Archivo PDF]
+Constitución Política de los Estados Unidos Mexicanos . Artículo 3º. 28-05-2021 (México).
+DIARIO
+OFICIAL
+DE
+LA
+FEDERACIÓN.
+(2012).
+https://www.dof.gob.mx/nota_detalle.php?codigo=5233070&fecha=09/02/2012#gsc.tab=0.
+Díaz-Garay, I. D. S., Narváez-Escorcia, I. T., & Armas, A. D. (2020). El proyecto de vida como
+competencia básica en la formación integral de estudiantes de educación media. Revista de
+investigación,
+desarrollo
+e
+innovación,
+11(1),
+113-126.
+https://doi.org/10.19053/20278306.v11.n1.2020.11687
+EGADE Business School Tecnológico de Monterrey (27 de noviembre de 2020). Ciencia, tecnología e
+innovación en México. https://egade.tec.mx/es/egade-ideas/opinion/ciencia-tecnologia-einnovacion-en-mexico-se-encuentran-en-situacion-critica
+Elizondo Treviño, M. D. S. (2013). Dificultades en el proceso enseñanza aprendizaje de la Física.
+Presencia universitaria, 3(5), 70-77. http://eprints.uanl.mx/id/eprint/3368
+FUNDAMENTOS DEL MARCO CURRICULAR COMÚN DE EDUCACIÓN MEDIA SUPERIOR,
+2022 Subsecretaría de Educación Media Superior (SEMS).
+Fundamentos del Marco Curricular Común de Educación Media. (19 de agosto 2022).
+http://desarrolloprofesionaldocente.sems.gob.mx/convocatoria4_2022/files/Fundamentos%20d
+el%20MCC%20de%20Educaci%C3%B3n%20Media%20Superior.pdf
+García, A. E. (2018). Estilos de aprendizaje y rendimiento académico. Revista Boletín Redipe, 7(7), 218228. https://revista.redipe.org/index.php/1/article/view/536
+González, E., Burbano, Z. E. M., & Solbes, J. (2020). La enseñanza de la física cuántica: una comparativa
+de tres países. Góndola, enseñanza y aprendizaje de las ciencias, 15(2), 239250. https://doi.org/10.14483/23464712.15619
+Herrera-Aguilar, J. L., García, A. V. C., & Herrera, C. Á. (2016). ¿Dónde está la Física y las Matemáticas
+en los Deportes Olímpicos?. FINGUACH. Revista de Investigación Científica de la Facultad de
+Ingeniería
+de
+la
+Universidad
+Autónoma
+de
+Chihuahua,
+3(8),
+6-7.
+https://vocero.uach.mx/index.php/finguach/article/view/267
+Herrera-González, J. E. (2021). La aplicación de la función Seno en el tiro parabólico. Vida Científica
+Boletín
+Científico
+de
+la
+Escuela
+Preparatoria
+No.
+4,
+9(17),
+30-31.
+https://repository.uaeh.edu.mx/revistas/index.php/prepa4/article/view/6651
+
+IMCO
+
+(s.f.) Las 10 carreras profesionales con mayor porcentaje de desempleados
+https://imco.org.mx/comparacarreras/las-10-mas/porcentaje-desempleados/2021/1
+INEGI (2018) Estadísticas a propósito del día mundial de la población (11 de julio) [Archivo PDF]
+https://www.inegi.org.mx/contenidos/saladeprensa/aproposito/2018/poblacion2018_nal.pdf
+López, J. (2019). Grupos numerosos: un reto para la enseñanza de las matemáticas. Investigación e
+Innovación en Matemática Educativa, 4, 349-351. http://revistaiime.org/index.php/IIME
+Lozano Rodriguez, A. (2016). Teoría y métodos pedagógicos estilos de aprendizaje y enseñanza. Trillas
+3 ed.
+Lugo, L. R. (2007). Formación integral: desarrollo intelectual, emocional, social y ético de los
+estudiantes.
+Revista
+universitaria
+de
+Sonora,(1),
+1-3.
+http://www.revistauniversidad.uson.mx/revistas/19-19articulo%204.pdf
+Martínez, N. G., Martínez, S. G., Martínez, P. A., & Ruiz, L. A. (2018). Ciencia en la cocina. Una
+propuesta innovadora para enseñar Física y Química en educación secundaria. Enseñanza de las
+
+25
+
+Ciencias. Revista de investigación y experiencias didácticas, 36(3), 179-198.
+https://doi.org/10.5565/rev/ensciencias.2473
+Matarrita, C. A., & Molina, E. H. (2018). Un canal en YouTube como herramienta de apoyo a un curso
+de física en educación a distancia. Ensayos Pedagógicos, 13(1), 107-130.
+http://dx.doi.org/10.15359/rep.13-1.5
+Medina Ibarra, A.M. (s.f) Estilos de Aprendizaje y Hábitos para el Estudio. Dirección General de
+Servicios Educativos Universidad Autónoma de Aguascalientes. https://www.uaa.mx/portal/wpcontent/uploads/2020/08/Sesión-Estilos-de-aprendizaje-y-hábitos-de-estudio.pdf
+Mella, R. S. (2018). Reflexiones sobre el concepto de innovación. Revista San Gregorio, (24), 120-131.
+https://dialnet.unirioja.es/servlet/articulo?codigo=6839735
+Méndez, G., & Rodríguez, S. (2014). Physics Tracker: Una implementación didáctica para la
+presentación del tema tiro parabólico en bachillerato. Tecné, Episteme y Didaxis: TED.
+https://doi.org/10.17227/01203916.3381
+Mujica, R. (2020). Fundamentos de la Tecnología Educativa. Revista Tecnológica-Educativa Docentes
+2.0, 8(1), 15-20, https://ojs.docentes20.com/index.ph p/revista-docentes20/article/view/82
+Pereira, A. R. P. (2018). Estrategias Constructivistas Aplicadas por el Docente para el Aprendizaje de la
+Física
+en
+el
+Nivel
+Superior.
+Revista
+Scientific,
+3(7),
+37-56.
+https://doi.org/10.29394/Scientific.issn.2542-2987.2018.3.7.2.37-56
+Piaget, J. (1980). Teoría del desarrollo cognitivo de Piaget. Creative Commons Attribution-Share Alike,
+3, 1-13.
+Ramírez-Ochoa, M. I. (2016). Posibilidades del uso educativo de YouTube. RA ximhai, 12(6), 537-546.
+http://www.redalyc.org/articulo.oa?id=46148194036
+Ramírez, M. L. (2019). El ingreso a carreras de alta o baja demanda en una universidad mexicana:¿ qué
+influye en la elección?. Revista de Sociología de la Educación-RASE, 12(2), 183-200.
+DOI: https://doi.org/10.7203/RASE.12.2.14750
+Rodríguez Licea, R. A., López Frías, B. S., & Mortera Gutiérrez, F. J. (2017). El video como Recurso
+Educativo Abierto y la enseñanza de Matemáticas. Revista electrónica de investigación
+educativa, 19(3), 92-100. https://doi.org/10.24320/redie.2017.19.3.936
+Sampieri, R. H. (2018). Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta.
+McGraw Hill México.
+Sanmartín, O. R. (19 de diciembre 2919). Los universitarios matriculados en carreras tecnológicas caen
+un 30. El mundo https://www.elmundo.es/espana/2019/12/18/5dfa081afc6c834c168b4572.html
+Santana-Fajardo, J. L. (2018). Ganancia en el aprendizaje del concepto de fuerza y cambio en las actitudes
+hacia la física en estudiantes de la Escuela Preparatoria de Tonalá. CienciaUAT, 13(1), 65-80
+https://doi.org/10.29059/cienciauat.v13i1.974
+Secretaría de Educación Pública (19 de marzo 2015) El Sistema Educativo Nacional está compuesto por
+los tipos: Básico, Medio Superior y Superior, en las modalidades escolar, no escolarizada y
+mixta. https://www.gob.mx/sep/articulos/conoce-el-sistema-educativo-nacional
+Sesma Arrastia, A. (2016). Una aplicación del método de aprendizaje basado en problemas, trabajo
+colaborativo y uso de herramientas TIC, en la enseñanza de física en 1º de bachillerato.[Tesis
+de
+Maestría,
+Universidad
+Pública
+de
+Navarra]
+https://academicae.unavarra.es/bitstream/handle/2454/21388/TFM_Adriana%20Sesma.pdf?sequence=1&isAllo
+wed=y
+Subsecretaría de Educación Media Superior (2022): Documentos Base MCCEMS. Gob.mx
+Valadez Huizar, M. (2009). Estilos de aprendizaje y estilos de pensamiento: precisiones
+conceptuales. Revista
+de
+Educación
+y
+Desarrollo, 11,
+19-30.
+https://www.cucs.udg.mx/revistas/edu_desarrollo/anteriores/11/011_Huizar
+Zoquez, A. P. G., Ramírez-González, S., & Infante-Ruiz, N. M. (2019). La biomecánica al servicio de la
+actividad física en Holguín. Revista científica especializada en Ciencias de la Cultura Física y
+del Deporte, 16(42), 89-102. http://repositorio.uho.edu.cu/xmlui/handle/uho/9173
+____________________________
+Firma del alumno
+
+26
+
+

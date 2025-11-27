@@ -1,0 +1,1355 @@
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 16 de enero de 2023
+
+DOCTORADO EN INNOVACIÓN EN TECNOLOGÍA EDUCATIVA
+Me permito presentar ante el H. Consejo Académico de la Facultad de
+Informática la siguiente solicitud de titulación por tesis de acuerdo con la fracción
+VII, artículos: 45-54 y 55-58 del reglamento de titulación vigente.
+
+Nombre del Alumno: David Antonio García Reyes
+No. de Expediente: 317976
+No. CVU: 883868
+Correo electrónico: garcia.reyees@gmail.com
+Teléfono: (993) 361 46 12
+
+Línea de investigación sobre la cual se desarrollará el trabajo: La aplicación de
+Tecnología Educativa innovadora en los ámbitos educativos y laborales
+Responsable de la Asesoría: Dra. Ma. Teresa García Ramírez
+Programas educativos que apoya: Ingeniería en Software, Ingeniería en Ciencia
+de Datos, Ingeniería en Telecomunicaciones. Doctorado en Innovación en
+Tecnología Educativa, Doctorado en Tecnología Educativa
+Línea de investigación del responsable:
+La aplicación de Tecnología Educativa innovadora en los ámbitos educativos
+y laborales
+Firma de aceptación: Dra. Ma. Teresa García Ramírez _____________________
+
+Número de veces que se a sometido esta propuesta al H. Consejo Académico de la
+Facultad: Primera vez ( )
+
+2da. ( X )
+
+Más de 2 veces (
+
+)
+
+Semestre o Cuatrimestre actual del alumno: Segundo semestre
+Fecha de Ingreso al programa: 01 de agosto de 2022
+1
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+I. DATOS GENERALES
+•
+
+Título del proyecto: Modelo basado en análisis estructural para mejorar la calidad
+educativa de los programas educativos virtuales del TecMN Campus
+Villahermosa.
+
+•
+
+Nombre del alumno responsable: David Antonio García Reyes
+
+•
+
+Colaboradores (Director y/o Co-director): Dra. Ma. Teresa García Ramírez
+
+•
+
+Centro o lugar donde se realiza investigación: Tecnológico Nacional de México
+Campus Villahermosa, con dirección en Km. 3.5 Carretera, Villahermosa Frontera, Cd Industrial, C.P. 86010, en la ciudad de Villahermosa, Tabasco,
+México.
+
+•
+
+Tipo de investigación básica, aplicada o tecnológica (diseño, construcción de
+prototipo o prueba experimental): Investigación aplicada
+
+•
+
+Línea de investigación sobre la cual se desarrollará el trabajo: La aplicación de
+Tecnología Educativa innovadora en los ámbitos educativos y laborales
+
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+II.1. El concepto de calidad llevado a la educación
+El concepto de calidad que se maneja en sector empresarial, principalmente en los
+esquemas de administración es el de calidad total (Total Quality Management)
+(Ahuja, Yépez y Pedroza, 2020). Este concepto surgió con el fin de elevar los
+valores de estandarización que demandaba la producción de bienes y servicios, y
+con ello, garantizar la calidad. Dicha idea fue tomada por los japoneses y
+norteamericanos aproximadamente en los años 30, para posteriormente ser
+adoptada por los europeos en la década de los 80 y perdurar hasta nuestros días
+(González, Soler y Navarro, 2021).
+
+Partiendo de dicho concepto, se puede resaltar su mayor característica, la cual hace
+énfasis en la satisfacción del cliente, que puede llegar a ser descubierta y satisfecha
+por una oferta inteligente. La calidad total exige, en segundo lugar, la mejora
+2
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+continua de la gestión empresarial y de sus procesos (Medici, 2020). Unida a esta
+exigencia está, en tercer lugar, la necesidad de una participación gratificada y
+gratificante de todos los agentes involucrados (Seibold, 2000).
+
+La calidad total propone una participación activa por parte de todo el sistema. Todos,
+desde el presidente de una organización hasta los empleados operativos, están
+involucrados en la mejora de la calidad, para lo cual deben asumir una función de
+creciente liderazgo sustentada en la competencia y la motivación, que no están
+exentas de valores (Díaz y Salazar, 2021).
+
+Este concepto de calidad total utilizado mayormente por el ámbito empresarial, se
+ha ido filtrando en el sector educativo (Zeledón, Castro y Araya, 2022). La
+importancia y la posición central que el concepto de calidad educativa pone en los
+alumnos, es coincidente con los avances de la nueva pedagogía, (García, Gamarra
+y Cruzado, 2022) que ha desplazado la importancia que en otros tiempos tuvieron
+los contenidos y los docentes y que ahora con los modelos educativos basados en
+el desarrollo de competencias, los alumnos juegan un papel más protagónico.
+
+El concepto de calidad educativa permite observar a las instituciones educativas
+como un todo, relacionadas constantemente con su entorno. Es por ello que la
+educación superior es considerada como base para un buen desarrollo
+socioeconómico, tecnológico y cultural debido a la influencia en la formación de
+capital humano. (García, García y Lozano, 2020).
+
+Sin embargo, demostrar y garantizar la calidad educativa en modalidades no
+escolarizadas representa un gran reto para las instituciones de educación superior,
+especialmente en México. Según Cervantes, Bañuelos, Chávez y Rocha (2015),
+esto es debido a las complejidades que se muestran en las metodologías de
+evaluación de los organismos nacionales, tales como la falta de mecanismos de
+evaluación diseñados especíﬁcamente para la modalidad, problema que tiene su
+
+3
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+origen en la falta de consistencia en las normas y leyes que dan forma a la
+educación virtual.
+
+II.2. La calidad educativa a la distancia
+Para Morocho y Rama (2015), en el contexto de la educación a distancia se requiere
+de una actualización en dichos procesos debido a que los instrumentos utilizados
+son considerados imprecisos y por tanto no han evidenciado los resultados de estas
+nuevas modalidades educativas. Para Rama (2015) un sistema de evaluación
+educativa debe contemplar todas sus dimensiones, áreas y factores en el entorno
+universitario,
+
+desde su gestión
+
+e implementación
+
+hasta sus resultados
+
+transformados en aprendizajes, analizándolo desde su complejidad. Para ello, el
+autor considera que se requiere de sistemas de evaluación que sistematicen la gran
+cantidad de datos obtenidos en el proceso.
+
+Ante los cambios del entorno, los factores que se desprenden de estos toman un
+valor importante en los procesos de enseñanza y aprendizaje virtuales según
+Chávez (2020) abren un sin número de ventajas en los actores educativos, sin
+embargo, existen otros que se pueden presentar como una limitante para desarrollar
+un proceso de enseñanza-aprendizaje óptimo (Molina y Rivera, 2019).
+
+Por ejemplo, una escasa o una excesiva cantidad de horas produce un desbalance
+en los estudiantes referente a la formación académica, este factor depende mucho
+de la capacidad organizativa con la que cuenta la institución (Clavijo y Balaguera
+2020). Esta dificultad puede será abordada desde diferentes puntos de vista como
+lo académico, administrativo, educativo, pedagógico, psicológico, y todas las
+situaciones que involucren personal directivo y administrativo de la institución,
+docentes y alumnos, ya que, una carga horaria es el punto fundamental a la hora
+de correlacionar el ámbito académico con lo personal (Chiquito y Loor, 2021).
+
+Es importante mencionar que las estrategias metodológicas empleadas por los
+docentes al momento de enseñar por medios virtuales son dinámicas y complejas,
+4
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+debido a las diferentes necesidades que los estudiantes manifiestan, ya que el
+proceso depende de variables como el internet, conectividad, dispositivos y otros
+servicios que son necesarios para las clases virtuales, según Rizo (2020).
+
+II.3. Factores determinantes para la calidad educativa
+Martelo, Franco y Oyola (2020), determinan y clasifican algunos otros factores que
+influyen en la calidad de la educación virtual. Los autores lograron definir diversos
+factores y clasificarlos en factores claves, determinantes, autónomos y de
+resultados. La clasificación antes mencionada fue basada en los estudios de
+Martelo, Jiménez y Villabona (2017), donde se determinaron los factores que
+influyen en la deserción escolar. Igualmente, los estudios de Martelo, Bastidas y
+Martínez (2018), fueron útiles para determinar las variables claves a tener en cuenta
+para plantear propuestas programáticas en universidades.
+
+Con todo lo anterior, es evidente que existen diversos factores que influyen en la
+calidad educativa, por lo que resulta importante entender la raíz fundamental del
+concepto y como se involucra con los entornos de las instituciones de educación
+superior (Segovia y Said, 2021). Por lo que Martelo, Franco y Oyola (2020), afirman
+la necesidad de desarrollar metodologías para la medición y evaluación de los
+escenarios implícitos y explícitos, debido a que crean valor en las organizaciones y
+facilitan el desarrollo de estrategias generar servicios de calidad.
+
+Los factores que influyen en la calidad educativa son muchos, pero estos factores
+no existen de una manera desordenada, sino que están estructurados respecto a
+su existencia, y afectan la calidad de la educación de una manera ordenada, cada
+uno se encuentra en su propio lugar, causando su propio impacto. (Yao, 2016)
+
+Así mismo, Yao (2016) hace un análisis clasificando en diferentes capas los factores
+que influyen en la educación. Los cuales se pueden clasificar como internos, que a
+su vez se dividen en cuatro capas: factores reales, factores básicos, factores
+
+5
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+fluidos, factores sólidos. Mientras que los externos en dos: factores familiares y
+factores socioeconómicos.
+
+El factor real involucra a docentes y alumnos a través de la enseñanza-aprendizaje;
+el factor básico asocia las cualidades de docentes y alumnos en aspectos de
+competencias, conocimientos, capacidades y cualidades físicas y psicológicas; el
+factor fluido se refiere a aspectos que tienen mayor probabilidad de variación como
+el currículo, contenido de enseñanza y métodos de enseñanza; y el factor sólido
+trata aspectos tangibles como las instalaciones y mobiliario. (Yao, 2016)
+
+A su vez, el factor familia trata aspectos como nivel educativo familiar, estructura y
+cultura familiar; y el factor socioeconómico se refiere a nivel socioeconómico,
+aspiraciones económicas y costumbres financieras. (Yao, 2016)
+
+II.4. Medición de la calidad educativa
+Muchos son los métodos y enfoques que se le dan a la medición de la calidad
+educativa, sin embargo, el Análisis estructural MICMAC pos sus siglas en francés
+(Matrice d’ Impacts Croisés Multiplication Appliqués à un Classement) es una
+herramienta de estructuración y reflexión colectiva, que podría integrar todos los
+factores y elementos constitutivos en la institución para analizar la calidad educativa,
+ya que brinda la posibilidad de describir un sistema con ayuda de una matriz integral.
+(Godet, 2007)
+
+El método permite dar prioridad a los factores más relevantes y obtener su
+disposición dentro de un contexto donde estos elementos se articulan según sus
+relaciones de causalidad. El análisis estructural es un método sistemático, de forma
+matricial donde se analizan las relaciones entre los factores del sistema estudiado
+y las de su entorno explicativo (Godet y Durance, 2011).
+
+6
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+El método MICMAC ayudará a estudiar los factores y qué relación tienen con la
+variable de estudio, esto dará la pauta para un análisis, integrando los elementos
+para el diseño de un escenario actualizado.
+
+III. JUSTIFICACIÓN
+En la actualidad, las organizaciones del sector educativo, en especial las
+instituciones de educación superior (IES), están atravesando por grandes
+transformaciones y retos académicos a causa de la creación de nuevas
+tecnologías de información y comunicación, cultura de la población y cambios
+ambientales. Las instituciones de educación superior que trascienden en
+contextos globalizados, están cimentadas bajo el concepto de calidad educativa,
+es decir; procesos estructurados hacia la mejora continua, creatividad e
+innovación permanente, estrategias flexibles y adaptadas a los contextos
+actuales y personal con las competencias necesarias.
+
+Dentro de los factores que inciden negativamente en la eficiencia en la calidad
+educativa en la institución objeto de estudio, están la falta de infraestructura
+tecnológica para satisfacer integralmente las necesidades de las carreras
+virtuales, así como la baja calificación en el personal administrativo y docente
+para el desarrollo eficiente de los programas. Estas situaciones se han podido
+constatar mediante una observación preliminar en la institución. En varios casos
+se ha observado que para las carreras virtuales se demora la asignación de
+materias al personal docente. Con cierta frecuencia se observan errores en la
+plataforma virtual y el material precargado en dicha plataforma es obsoleta y no
+está actualizada.
+
+Las situaciones pueden darse por diversas razones, una de ellas es la falta de
+especificación de funciones y de organización en la plataforma virtual, lo que
+hace que el control y la gestión se torne difícil. También se detecta poco
+compromiso del personal docente por actualizarse en las tecnologías de la
+
+7
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+información, con una resistencia al cambio muy predominante en el claustro
+académico.
+
+Es preocupante la situación actual de la institución, pues de continuar en la
+misma ruta, podría perderse el prestigio con la que se ha caracterizado en el
+estado. De la misma manera, las generaciones de estudiantes no obtendrían las
+competencias necesarias para posicionarse en el sector productivo.
+
+Dada la situación descrita, se pretende incursionar en este campo emergente a
+nivel institucional, realizando un estudio de los factores que determinan la
+calidad educativa en el aspecto interno, como lo son:
+•
+
+Factor real (que involucra a docentes y alumnos a través de la enseñanzaaprendizaje);
+
+•
+
+Factor básico (involucra las cualidades de docentes y alumnos en
+aspectos de competencias, conocimientos, capacidades y cualidades
+físicas y psicológicas);
+
+•
+
+Factor fluido (que se refiere a aspectos que tienen mayor probabilidad de
+variación como el currículo, contenido de enseñanza y métodos de
+enseñanza);
+
+•
+
+Factor sólido (abarca aspectos tangibles como las instalaciones y
+mobiliario);
+
+Y a su vez, los factores externos como:
+•
+
+Factor familia (considera aspectos como nivel educativo familiar,
+estructura y cultura familiar);
+
+•
+
+Factor socioeconómico (se refiere a nivel socioeconómico, aspiraciones
+económicas y costumbres financieras);
+
+Para que con la ayuda del análisis estructural MICMAC se integren los factores
+que inciden en la calidad educativa en las carreras virtuales del TecNM Campus
+
+8
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Villahermosa, con el fin de realizar una propuesta que aporte estrategias y
+responda a las exigencias del entorno.
+
+IV. DESCRIPCIÓN DEL PROBLEMA
+Planteamiento del problema
+En un mundo caracterizado por cambios rápidos y complejos, el tema de la calidad
+educativa se ha convertido en un cuestionamiento constante en el escenario de la
+Educación Superior, dadas las exigencias del mercado laboral, la formación de
+capital humano crítico, reflexivo, capaz de solucionar problemas de la mejor manera
+posible, y capaz de comprender y actuar en la sociedad actual, se ha convertido en
+una prioridad.
+
+Según Fabela y García (2014) el compromiso de las instituciones de educación
+superior, es que todos sus individuos dominen los conocimientos indispensables
+para desenvolverse competitivamente en el desempeño de su profesión, lo que se
+convierte en uno de los retos que exige inmediata atención. De igual manera,
+Giodan (2006) resalta que las nuevas tendencias en los contextos de las
+Instituciones de Educación Superior, deberían garantizar una formación académica
+que involucre el aprendizaje de destrezas, capacidades y habilidades permanentes.
+
+Es posible pensar que para que el alumnado desarrolle este cúmulo de
+competencias, bastaría con buenas prácticas de enseñanza, sin embargo, la
+problemática no sólo radica en eso, sino que transciende hasta la infraestructura y
+procesos administrativos por parte de las instituciones, involucrando a alumnos,
+profesores, personal administrativos y directivos.
+
+Ante esto, la educación virtual en la institución objeto de estudio se situaba en una
+posición vulnerable, ya que, por su modalidad, existe poca inversión de recursos
+tecnológicos, económicos, humanos e intelectuales. Aunado a esto, la falta de
+cultura tecnológica y resistencia al cambio impide satisfacer las necesidades que se
+tienen en esta modalidad.
+9
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Bajo este panorama existen numerosos estudios realizados por diversos
+especialistas (Seibold, 2000; Rama, 2015; Molina, Á. y Rivera, M. 2019) en los que
+muestran la importancia de atender aspectos básicos, como los mencionados en el
+párrafo anterior, para el aseguramiento de la calidad educativa en entornos
+virtuales, señalando sus consecuencias sociales, educativas y económicas.
+
+Con la intención de explicar este problema y comprender las consecuencias, es
+conveniente redactar las siguientes preguntas guía, las cuales serán de ayuda para
+acotar la investigación:
+
+¿Qué es la calidad educativa? ¿Qué factores están involucrados para que se
+desarrolle? ¿A qué se debe la deficiencia en la calidad educativa? ¿Cómo se puede
+dar solución a este problema? Las anteriores interrogantes confluyen en la finalidad
+de la presente investigación, que consiste en dar respuesta a una pregunta central:
+¿Cuáles son los principales factores que determinan la calidad educativa en las
+carreras virtuales del TecNM Campus Villahermosa?
+
+V. COMITÉ DE BIOÉTICA
+Previo a la aplicación de las encuestas y la metodología de análisis estructural a
+los actores involucrados, se proporcionará toda la información necesaria con
+respecto al objetivo de la investigación, el uso de los datos recolectados y se
+garantizará, además, el anonimato y confidencialidad en el manejo de la
+información.
+
+Se planea que, mediante la firma de un consentimiento informado, los actores
+aprueben y acepten su participación en el estudio. (Véase anexo 1).
+
+10
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+VI. PLANTEAMIENTO TEÓRICO (Hipótesis y/o supuestos, pregunta, etc.)
+Preguntas de investigación
+•
+
+¿Cuáles son los principales factores que determinan la calidad educativa
+en las carreras virtuales del TecNM Campus Villahermosa?
+
+•
+
+¿El análisis estructural MICMAC ayudará a identificar los elementos
+inmersos en los factores de estudio para que se propicie la calidad
+educativa en las carreras virtuales del TecNM Campus Villahermosa?
+
+Hipótesis
+•
+
+Los factores básico, real, fluido, sólido, tienen una incidencia mayor al 50%
+en la generación de calidad educativa en los programas virtuales del TecNM
+Campus Villahermosa.
+
+•
+
+Los factores familia y socioeconómico, tienen una incidencia menor al 50%
+en la generación de calidad educativa en los programas virtuales del TecNM
+Campus Villahermosa.
+
+Supuestos
+•
+
+El estudio de los elementos derivados de los factores, determinarán la calidad
+educativa en los programas virtuales del TecNM Campus Villahermosa
+repercutirá positivamente en la generación de esta.
+
+•
+
+El resultado del análisis estructural MICMAC brindará información que
+permita elaborar un modelo educativo que fortalezca la calidad educativa en
+los programas virtuales del TecNM Campus Villahermosa.
+
+•
+
+El modelo educativo propuesto será percibido como productivo y de fácil uso
+por los alumnos, personal administrativo y docente del TecNM Campus
+Villahermosa.
+
+VII. OBJETIVOS
+Objetivo general:
+
+11
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Desarrollar un modelo basado en MICMAC para incrementar la calidad educativa
+de las carreras virtuales del TecNM Campus Villahermosa.
+
+Objetivos específicos:
+•
+
+Identificar los indicadores o factores para medir la calidad educativa
+desde el marco teórico.
+
+•
+
+Conocer el nivel de calidad educativa que tienen los programas
+educativos virtuales del TecNM Campus Villahermosa.
+
+•
+
+Desarrollar el modelo educativo a partir de los resultados obtenidos.
+
+•
+
+Determinar si hay cambios en la calidad educativa de los programas
+educativos virtuales del TecNM Campus Villahermosa después de aplicar
+el modelo propuesto.
+
+VIII. METODOLOGÍA
+Dadas las características de la investigación, esta se tipificó como mixta, debido
+a que presenta enfoques tanto cualitativos como cuantitativos. El diseño de la
+investigación es no experimental, correlacional y descriptiva.
+
+Partiendo de los factores involucrados para la obtención de calidad educativa
+(Factor básico, Factor real, Factor fluido, Factor sólido, Factor familia y Factor
+socioeconómico), se pretende identificar, con la ayuda de los actores
+involucrados, los elementos que los conforman, lo anterior, por medio de la
+cuantificación de las percepciones de los actores participantes en el estudio
+(alumnos, personal administrativo y docentes).
+
+Metodología y levantamiento de la información
+Como primera instancia, se hace una prueba piloto, esto para perfeccionar los
+instrumentos que se emplearán previo a la aplicación del método análisis
+estructural, por lo que se hace por medio de un muestreo no probabilístico por
+conveniencia basado en los sujetos disponibles de las poblaciones de
+estudiantes, personal, administrativo y docentes.
+12
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Vale la pena mencionar que los instrumentos estarán basados en cuestionarios
+enfocados en los cuatro factores internos a la institución manejados por Yao
+(2016) los cuales son el factor real (que involucra a docentes y alumnos a través
+de la enseñanza-aprendizaje); factor básico (involucra las cualidades de
+docentes y alumnos en aspectos de competencias, conocimientos, capacidades
+y cualidades físicas y psicológicas); factor fluido (que se refiere a aspectos que
+tienen mayor probabilidad de variación como el currículo, contenido de
+enseñanza y métodos de enseñanza); factor sólido (abarca aspectos tangibles
+como las instalaciones y mobiliario);
+
+Y los dos factores externos a la institución que son el factor familia (considera
+aspectos como nivel educativo familiar, estructura y cultura familiar) y el factor
+socioeconómico (se refiere a nivel socioeconómico, aspiraciones económicas y
+costumbres financieras).
+
+Al ejecutar la prueba piloto, limpiar los datos recopilados, realizar un análisis de
+sus componentes y verificar el planteamiento de cada pregunta, se validarán los
+instrumentos definitivos.
+
+Como segundo paso, se emplea el método Delphi para la selección de los
+expertos (Paola et al., 2008). Con independencia de sus títulos, su función o
+nivel jerárquico, el experto será elegido por su capacidad de encarar el futuro
+(Godet, 2007). Por tanto, para la aplicación del método se agendarán sesiones
+de entrevistas siguiendo los pasos de la metodología según Varela, Díaz y
+García (2012):
+
+1. Identificación de la problemática o el tema.
+2. Elaboración del cuestionario (instrumentos).
+3. Definir el panel de expertos o participantes en la encuesta de los tres
+grupos (alumnos, personal administrativo y docentes).
+13
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+4. Distribuir el cuestionario.
+5. Analizar resultados, tabulación y análisis de los resultados
+6. Entrega de análisis a expertos y redistribución del cuestionario: entrega
+del cuestionario de nuevo junto con el análisis de las respuestas
+obtenidas anteriormente.
+7. Segundo análisis, para la identificación tendencias, patrones, y sesgos.
+
+Las entrevistas contendrán preguntas simples, relacionadas al conocimiento de
+los procesos administrativos y académicos que soportan la calidad educativa,
+así como preguntas relacionadas al conocimiento de conceptos relacionados a
+la calidad educativa.
+
+Después se realizará la etapa de muestreo, para cada población de expertos
+previamente seleccionados, gracias a la metodología Delphi. La técnica de
+muestreo será diferente para cada población, dadas las características de los
+mismos.
+
+1. El muestreo probabilístico sistemático será aplicado para la población de
+estudiantes, dado que con la ayuda de los jefes de los departamentos de
+Ingeniería industrial, Ingeniería en gestión empresarial e Ingeniería en
+sistemas computacionales, se tienen las listas de los estudiantes de cada
+carrera,
+
+ordenados
+
+por
+
+semestre.
+
+Según
+
+Mayor
+
+(2009),
+
+este
+
+procedimiento de muestreo se basa en tomar muestras de una manera
+directa y ordenada a partir de una regla determinística, también llamada
+sistemática. Concretamente, a partir de una sola unidad que se
+selecciona en primer lugar, el resto de unidades de la muestra vienen
+determinadas automáticamente al aplicarle a dicha unidad una regla
+selección sistemática. Bajo este procedimiento de muestreo, por ejemplo,
+se selecciona cada vigésimo nombre de una lista de alumnos de una
+determinada carrera.
+
+14
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+La obtención de una muestra sistemática de tamaño n de una población
+de N elementos se consigue siguiendo el siguiente procedimiento:
+a) Conseguir un listado ordenado de los N elementos de la
+población.
+b) Determinar el tamaño muestral n.
+c) Definir el tamaño del salto sistemático k dado por k = N/n.
+d) Elegir un número aleatorio δ entre 1 y k (δ = arranque aleatorio).
+Este número permite obtener la primera unidad muestral.
+e) A partir de la posición δ, dando un salto de k unidades, se
+obtendrá la segunda unidad de la muestra uδ + k y de esta
+forma, saltando de k en k unidades, el resto de la muestra
+estará formada por las unidades uδ + 2k, uδ + 3k, . . ., uδ +
+(n−1)k.
+
+2. El muestreo probabilístico aleatorio simple se aplicará para la población
+de docentes, ya que la población es homogénea, no son muy diferentes
+en escolaridad. Con la ayuda del departamento de R.R.H.H. y los
+departamentos de cada carrera, se pueden obtener la lista de profesores.
+Para el muestreo, Hernández y Carpio (2019), mencionan que primero se
+tiene que determinar el nivel de confianza deseado (Z). Indica el grado de
+confianza que se tendrá de que el valor verdadero del parámetro en la
+población se encuentre en la muestra calculada. Cuanta más confianza
+se desee, será más elevado el número de sujetos necesarios. Por lo que
+se elegirá un 95% de confianza.
+La población de docentes es finita y se utilizará la siguiente fórmula para
+calcular el tamaño de la muestra:
+𝑁=
+
+𝑁𝑍 2 𝑆 2
+𝑑 2 (𝑁 − 1) + 𝑍 2 𝑆 2
+
+Donde:
+n = tamaño de la muestra
+N = tamaño de la población
+15
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Z = valor de Z crítico, calculado en las tablas del área de la curva normal,
+llamado también nivel de confianza.
+𝑆 2 = varianza de la población en estudio (que es el cuadrado de la
+desviación estándar y puede obtenerse de estudios similares o pruebas
+piloto).
+d = nivel de precisión absoluta. Referido a la amplitud del intervalo de
+confianza deseado en la determinación del valor promedio de la variable
+en estudio.
+Para seguir con la técnica, a cada uno de los sujetos de la población se
+le asignará un número correlativo y luego a través de cualquier método
+del azar se va seleccionando cada individuo hasta completar la muestra
+requerida. El método al azar puede ser producido por una opción
+informatizada como una calculadora u hoja de cálculo.
+3. El muestreo no probabilístico por conveniencia será aplicado a la
+población de administrativos, ya que es la población que cuenta con
+menor disponibilidad de tiempo, sobre todo el personal directivo, así que
+el muestreo se basará en los sujetos disponibles.
+
+Una vez aplicado el muestro y los instrumentos se empiezan las etapas del
+método de análisis estructural:
+
+Etapa 1. Identificación de elementos inmersos en los factores: En esta etapa los
+actores, mediante una reflexión hacen una lista homogénea de los elementos
+internos y externos que consideran que impactan en cada factor. El mismo
+proceso se realizará para cada población, ya que son parte importante para la
+obtención de la calidad educativa.
+
+Etapa 2. Describir las relaciones existentes entre las variables: Utilizando una
+matriz de doble entrada llamada análisis estructural, se permitirá identificar las
+relaciones entre variables. El investigador, apoyado por las respuestas de los
+
+16
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+actores en los cuestionarios aplicados llena la matriz siendo un proceso
+cualitativo.
+
+En seguida, se utiliza la lógica difusa (fuzzy logic) la cual es una metodología
+cuantitativa para recoger y procesar la información que brindan los actores
+(Fleites et. al., 2021). Por cada pareja de variables, se plantea la siguiente
+pregunta: ¿Existe una relación de influencia directa entre el elemento “X” y el
+elemento “Y”? si la respuesta es negativa, se anota 0, en el caso contrario, se
+preguntaron si esta relación de influencia directa es, débil que representa el valor
+(1) mediana (2); y fuerte (3), tal y como se muestra en el ejemplo de la figura 2.
+Este procedimiento de interrogación no sólo permite evitar errores, sino también
+ordenar y clasificar las ideas. Además, permite, en la mayoría de los casos,
+reconsiderar ciertos elementos.
+
+Figura 2: Ejemplo de una matriz de doble entra con elementos.
+
+Nota: Recuperado de Ballesteros y Ballesteros (2008)
+
+17
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Etapa 3. Identificar las variables estratégicas: En la interpretación del análisis
+estructural confluyen dos conceptos: motricidad y dependencia. La motricidad es
+el impacto que un elemento ejerce sobre las demás. La dependencia se define
+como la subordinación de un elemento respecto a las restantes. (Villegas et. al.,
+2021).
+
+Los resultados en términos de influencia y de dependencia de cada variable se
+representan sobre un plano (el eje de abscisas corresponde a la dependencia y
+el eje de ordenadas a la influencia). Este plano cartesiano como se ve en la
+Figura 3, permite determinar cuáles son los factores más influyentes y cuáles los
+más dependientes. Los elementos estratégicos o clave son finalmente las que
+contengan las calificaciones más altas de influencia y de dependencia. (Villegas
+et. al., 2021).
+
+Figura 3: Ejemplo de un plano cartesiano con cuadrantes de motricidad y
+dependencia.
+
+Nota: Recuperado de Villegas, Plata, Gallardo y López (2021)
+
+18
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Posteriormente se determina el margen de motricidad y dependencia, partiendo
+de la fórmula 𝑀𝑀𝐷 = 100/n dónde: 𝑀𝑀𝐷 es el Margen de motricidad y
+dependencia y 𝑛 será el Número total de factores.
+
+El margen de motricidad y dependencia actúa como origen en el plano por lo que
+cuando 𝑥 < 𝑀𝑀𝐷, se determina como número negativo, cuando 𝑥 > 𝑀𝑀𝐷,
+entonces el número será positivo en el plano. En la Figura 4 se pueden observar
+en el círculo los elementos estratégicos con los valores más altos en influencia
+y dependencia.
+
+Figura 4: Ejemplo de un plano cartesiano con elementos en los cuadrantes de
+motricidad y dependencia.
+
+Nota: Recuperado de Villegas, Plata, Gallardo y López (2021)
+
+Análisis de datos y procesamiento de la información
+Después de graficar los factores en el plano de motricidad, el investigador
+analiza la posición de los factores y determina la integración del escenario del
+contexto para generar un diagnóstico. El diagnóstico es el soporte para el diseño
+
+19
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+del modelo conceptual que se pretende proponer y mejorar el sector del objeto
+de estudio.
+
+Recursos materiales y humanos
+Los recursos materiales con los que se cuenta para realizar esta investigación
+son: el equipo físico de cómputo actualizado, conexión a Internet vía Wi-fi,
+plataforma Moodle donde se encuentran las aulas virtuales. En cuanto a los
+recursos humanos, se tienen contemplado al subdirector académico de la
+Institución, a los jefes de departamento de las tres carreras virtuales, a los
+profesores que imparten asignaturas virtuales en las tres carreras en línea, a los
+estudiantes inscritos en de dichas asignaturas y al responsable del proyecto de
+investigación.
+
+Cronograma tentativo de actividades
+A continuación, se puede observar un cronograma con las fases, las actividades
+y las fechas estimadas para la realización del proyecto de investigación:
+
+1. Determinar el marco
+Fase I: Surgimiento temático
+de la idea
+2. Determinar el contexto de
+estudio
+3. Definir el problema de
+investigación
+Fase II: Revisión 4. Construcción del
+de la literatura
+anteproyecto de investigación
+5. Desarrollo de los marcos
+de referencia
+6. Prueba piloto
+Fase III:
+7. Muestreo
+Metodología y
+levantamiento de la 8. Aplicación del método
+información
+Delphi
+9. Diseño y aplicación del
+análisis estrcutural
+10. Recopilación y
+Fase IV: Análisis preocesamiento de los datos
+de datos y
+11. Obtención del escenario
+procesamiento de integral o diagnóstico
+la información
+12. Diseño del modelo
+educativo
+
+Fuente: Elaboración propia
+
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+Hoy en día, todas las organizaciones en especial las instituciones que se centran
+en la educación, enfrentan retos constantes a causa de los cambios y movimientos
+20
+
+01/04/2025
+
+01/05/2025
+
+01/01/2025
+
+01/02/2025
+
+01/03/2025
+
+01/11/2024
+
+01/12/2024
+
+01/08/2024
+
+01/09/2024
+
+30/04/2025
+
+01/10/2024
+
+119
+
+01/06/2024
+
+31/12/2024
+
+01/01/2025
+
+01/07/2024
+
+184
+
+01/03/2024
+
+30/06/2024
+
+01/07/2024
+
+01/04/2024
+
+182
+
+01/05/2024
+
+31/12/2023
+
+01/01/2024
+
+01/01/2024
+
+92
+
+01/02/2024
+
+30/09/2023
+
+01/10/2023
+
+01/10/2023
+
+30
+
+01/11/2023
+
+31/08/2023
+
+01/09/2023
+
+01/12/2023
+
+31
+
+01/08/2023
+
+31/07/2023
+
+01/08/2023
+
+01/09/2023
+
+31
+
+01/06/2023
+
+30/06/2023
+
+01/07/2023
+
+01/07/2023
+
+181
+
+01/03/2023
+
+31/12/2022
+
+01/01/2023
+
+01/04/2023
+
+153
+
+01/05/2023
+
+31/07/2022
+
+01/08/2022
+
+01/01/2023
+
+31
+
+01/02/2023
+
+30/06/2022
+
+01/07/2022
+
+01/10/2022
+
+31/05/2022
+
+30
+
+01/11/2022
+
+31
+
+01/06/2022
+
+01/12/2022
+
+01/05/2022
+
+01/08/2022
+
+FIN
+
+01/09/2022
+
+DÍAS
+
+01/05/2022
+
+INICIO
+
+01/06/2022
+
+ACTIVIDAD
+
+01/07/2022
+
+Figura 5. Cronograma de actividades
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+ambientales, económicos, sociales, políticos, culturales y tecnológicos, que
+acontecen a nivel global, es por eso, que es de suma importancia un enfoque de
+mejoramiento continuo para brindar una educación de calidad para los estudiantes
+y todos los actores que intervienen en el proceso.
+
+Se espera que la presente investigación tenga una repercusión positiva hacia los
+tres actores principales en el proceso de obtención de calidad educativa: los
+alumnos, el personal administrativo y docentes, aportando alternativas para el
+desarrollo de nuevas habilidades y destrezas orientadas al uso de tecnologías
+educativas, el mejoramiento del proceso enseñanza aprendizaje en las carreras
+virtuales y en un trabajo conjunto, la eficiencia en gestión y administración de las
+plataformas virtuales. Con lo anterior, y el estudio de los escenarios, el modelo
+conceptual facilitará el análisis y estudio de los factores involucrados para garantizar
+un incremento en la calidad educativa.
+
+Se contemplan los siguientes productos derivados de la investigación:
+
+1. Un diagnóstico integral que muestre el comportamiento de las variables y factores
+involucrados en la generación de calidad educativa, para la creación de estrategias
+pedagógicas.
+2. Un modelo de factores que proponga estrategias que ayuden al mejoramiento de
+la calidad educativa, identificando las áreas de oportunidad.
+3. Una publicación en revista indexada.
+4. Una participación en evento académico con memorias en extenso.
+
+21
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+X. INDICE TENTATIVO DE LA TESIS
+Dedicatorias
+Agradecimientos
+Índice
+Índice de figuras
+Índice de tablas
+Abreviaturas y siglas
+Resumen en español
+Abstract
+I.
+Introducción / planteamiento del problema y justificación
+II.
+
+Antecedentes/estado del arte
+
+III.
+
+Fundamentación teórica
+III.1. Formación del profesorado
+III.2. Las TIC en la educación
+III.3. La educación superior en la virtualidad
+III.4. Modelos pedagógicos en la educación virtual
+III.5. Contextos estudiantiles en la virtualidad
+
+IV.
+
+Hipótesis o supuestos
+
+V.
+
+Objetivos
+
+VI.
+
+Material y Métodos o Metodología
+VI.1. Enfoque metodológico
+VI.2. Diseño de la investigación
+VI.3. Contexto de la investigación
+VI.4. Prueba piloto
+VI.5. Método Delphi
+VI.6. Población y muestra
+VI.7. Instrumento de medición
+VI.8. Análisis estructural MICMAC
+
+VII.
+
+Resultados y discusión
+
+VIII.
+
+Conclusiones
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+16
+25
+28
+31
+38
+45
+49
+56
+57
+58
+59
+62
+66
+69
+73
+77
+84
+90
+115
+122
+22
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+IX.
+
+Bibliografía
+
+X.
+
+Anexos
+
+126
+128
+
+XI. REFERENCIAS BIBLIOGRÁFICAS
+Ahuja, L., Yepez, N. y Pedroza Á. (2020). La relación entre gestión de la calidad
+total (GCT) y gestión de la tecnología /I+D (GT/I+D) en empresas de
+manufactura
+
+en
+
+México.
+
+Contad.
+
+Adm
+
+[online].
+
+65(1)
+
+1-25.
+
+https://doi.org/10.22201/fca.24488410e.2019.1698.
+Ballesteros, D. y Ballesteros, P. (2008). Análisis estructural prospectivo aplicado al
+sistema logístico. Scientia et Technica 39, 194-199.
+Cervantes, F., Bañuelos, A., Chávez, F. y Rocha, J. (2015). La evaluación de la
+calidad de la educación superior a distancia en México. Loja, Ecuador:
+Universidad Técnica Particular de Loja. 102-130.
+Chiquito, J. y Loor, K. (2022). Análisis de los sistemas de gestión de calidad: una
+mirada
+
+a
+
+las
+
+universidades.
+
+Revista
+
+San
+
+Gregorio,
+
+50,
+
+72-85.
+
+http://dx.doi.org/10.36097/rsan.v0i50.2155
+Clavijo, D., y Balaguera, A. (2020). La calidad y la docencia universitaria: algunos
+criterios para su valoración. Revista de Investigación, Desarrollo e
+Innovación,
+
+11(1),
+
+127–139.
+
+https://doi.org/10.19053/20278306.v11.n1.2020.11688
+Díaz, G., y Salazar D. (2021). La calidad como herramienta estratégica para la
+gestión empresarial. Podium, 39, 19–36. Doi:10.31095/podium.2021.39.2
+Fabela, M. y García, A. (2014). Gestión de la calidad educativa en educación
+superior del sector privado. magis, Revista Internacional de Investigación en
+Educación, 6 (13), 65-82.
+Fleites, Y. Vizcaíno, A y Crespo, E. (2021). Lógica difusa: metodología cuantitativa
+útil para determinar el consenso entre expertos de ciencias estomatológicas.
+Medicentro Electrónica.
+
+23
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+García, A., Gamarra, M. y Cruzado, Á. (2022). Calidad de servicio en educación
+superior. Horizontes. Revista De Investigación En Ciencias De La Educación,
+6(23), 744–758. https://doi.org/10.33996/revistahorizontes.v6i23.374
+García, G., García, R. y Lozano, A. (2020). Calidad en la educación superior en
+línea:
+
+un
+
+análisis
+
+teórico.
+
+Revista
+
+Educación,
+
+44,
+
+2-6.
+
+DOI:
+
+10.15517/revedu.v44i2.39714
+Giodan, A. (2006). Aprender, un proceso esencialmente complejo. Praxis Educativa
+(Arg). Universidad Nacional de La Pampa. 10-12.
+Godet. M. (1993). De la anticipación a la acción, manual de prospectiva y estrategia.
+Marcombo Boixaure Editores.
+Godet, M. y Durance, P. (2007). Prospectiva estratégica: problemas y métodos.
+Cuadernos de LIPSOR.
+Hernández, C. y Carpio, N. (2019). Introducción a los tipos de muestreo. Revista
+ALERTA. 2(1). 75-79. DOI: 10.5377/alerta.v2i1.7535
+Hernández Sanpieri, R., Fernández-Collado, C. y Baptista Lucio, P. (2006).
+Metodología de la investigación. Mc Graw Hill.
+Martero, R., Franco, D. y Oyola, P. (2020). Factores que influyen en la calidad de la
+educación virtual. Revista Espacios, 41, 352-361. DOI: 10.48082/espaciosa20v41n46p29
+Martelo, R., Jimenez, I., y Villabona, N. (2017). Determinación de factores para
+deserción de estudiantes en pregrado a través de las técnicas lluvia de ideas
+y MICMAC. Espacios. ISSN 0798-1015
+Martelo, R., Bastidas, M., y Martínez, J. (2018). Determination of Key Variables for
+the Program Proposal to Address Aspiring Undergraduate Programs in Public
+Universities.
+
+Contemporary
+
+Engineering
+
+Science,
+
+707-717.
+
+doi:https://doi.org/10.12988/ces.2018.8253
+Mayor, J. (2009). Muestreo Estadístico I. Diplomatura de Estadística. Curso
+Segundo. Facultad de Matemáticas. Universidad de Sevilla
+Medici, L. (2020). ISO 9000: Evolución hacia la calidad total. Publicaciones en
+Ciencia y Tecnología, 14(1), 3-13.
+
+24
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Morocho M. y Rama, C. (2015). Los problemas de la evaluación de la educación a
+distancia en América Latina y el Caribe. Loja: UTPL.
+Molina, Á. y Rivera, M. (2019). Importancia del Aseguramiento de la Calidad en la
+Educación Superior, CienciAcierta, 61, 1-7.
+Rama, C. (2015). Las complejidades de evaluar y acreditar la educación a distancia.
+Loja, Ecuador: Universidad Técnica Particular de Loja, 9-16.
+Rizo Rodríguez, M. (2020). Rol del docente y estudiante en la educación virtual.
+Revista Multi-Ensayos, 28-37. DOI: 10.5377/multiensayos.v6i12.10117
+Segovia, N. y Said, E. (2021). Factores de satisfacción de los alumnos en e-learning
+en Colombia. RMIE, 26(89), 595-621.
+Seibold, J. (2000). La calidad integral en educación. Reflexiones sobre un nuevo
+concepto de calidad educativa que integre valores y equidad educativa.
+Revista Iberoamericana, 23, 220-223.
+Valera, M., Díaz, L. y García, R. (2012). Descripción y usos del método Delphi en
+investigaciones del área de la salud. Investigación en educación médica.
+1(2). 90-95.
+Villegas, A., Platas, D., Gallardo, F. y López, G. (2020). Análisis estructural MicMac
+para determinar las variables estratégicas de la agroindustria azucarera en
+México. Revista Mexicana Ciencias Agrícolas, 11(6), 1325-1335.
+Yao, F. (2016). Los factores que influyen en la calidad de la educación. Itinerario
+Educativo, 67, 217-225.
+Zeledón, M., Castro, C., y Araya, Z. (2022). Perspectivas sobre calidad e innovación
+en la Educación Superior. Una mirada crítica. Yulök Revista De Innovación
+Académica, 6(2), 22-36. https://doi.org/10.47633/yulk.v6i2.469
+
+25
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+XII. ANEXOS
+Anexo 1:
+Villahermosa, Tabasco, a ____de___de 20__
+CARTA DE CONSENTIMIENTO INFORMADO
+
+Título de la Investigación: ____________________________________________
+Nombre del Investigador Principal: _____________________________________
+Nombre de la persona que participará en la Investigación: _________________
+A través de este documento que forma parte del proceso para la obtención del
+consentimiento informado, me gustaría invitarlo a participar en la investigación
+titulada: _________________________________________________________.
+Antes de decidir, necesita entender por qué se está realizando esta investigación
+y en qué consistirá su participación. Por favor tómese el tiempo que usted
+necesite, para leer la siguiente información cuidadosamente y pregunte cualquier
+cosa que no comprenda.
+1. ¿Dónde se llevará a cabo esta investigación?
+Esta investigación se llevará a cabo en las instalaciones del Tecnológico Nacional
+de México Campus Villahermosa, ubicado en Km. 3.5 Carretera, Villahermosa Frontera, Cd Industrial, 86010 Villahermosa, Tabasco.
+2. ¿Cuál es el objetivo de esta investigación?
+________________________________________________________________
+________________________________________________________________
+3. ¿Por qué es importante esta investigación?
+________________________________________________________________
+________________________________________________________________
+4. ¿Por qué he sido invitado a participar en esta investigación?
+________________________________________________________________
+________________________________________________________________
+5. ¿Estoy obligado a participar?
+
+26
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Su participación es voluntaria, anónima y confidencial; no tiene que participar
+forzosamente. No habrá impacto negativo alguno si decide no participar en la
+investigación.
+6. ¿En qué consistirá mi participación y cuánto durará?
+Su participación consistirá en lo siguiente:
+________________________________________________________________
+________________________________________________________________
+Si está de acuerdo en participar, le pediremos que escriba su nombre y firme el
+formato de Consentimiento Informado y firme al final del mismo.
+7. ¿Tendrá algún costo para mi participar en esta Investigación?
+Se le informa que los gastos relacionados con esta investigación que se originen
+a partir del momento en que, voluntariamente, acepta participar en la misma, no
+serán pagados por Usted. En el caso de que existan gastos adicionales originados
+por el desarrollo de esta investigación, serán cubiertos por el presupuesto de la
+misma.
+8. Una vez que acepte participar ¿Es posible retirarme de la Investigación?
+Se le informa que usted tiene el derecho, en cualquier momento y sin necesidad
+de dar explicación de dejar de participar en la presente investigación. Únicamente
+avisando al investigador principal sobre su decisión.
+9. ¿Qué sucede cuando la Investigación termina?
+Los resultados, de manera anónima, podrán ser publicados en revistas de
+investigación científica o podrán ser presentados en congresos.
+10. ¿A quién puedo dirigirme si tengo alguna complicación, preocupación o
+problema relacionado con la Investigación?
+Cualquier duda, preocupación o queja acerca de algún aspecto de la investigación
+o de la forma en que he sido tratado durante el transcurso de la misma, por favor
+contacte al investigador principal.
+Aclaraciones:
+a) Esta investigación ha sido revisada y aprobada por la Universidad
+Autónoma de Querétaro y el Tecnológico Nacional de México Campus
+Villahermosa.
+b) Su decisión de participar en la presente Investigación es completamente
+voluntaria.
+c) En el transcurso de la Investigación, usted podrá solicitar información
+actualizada sobre la misma, al investigador responsable.
+27
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+d) La información obtenida en esta investigación, utilizada para la
+identificación de cada participante
+será mantenida con estricta
+confidencialidad.
+e) Se le garantiza que usted recibirá respuesta a cualquier pregunta, duda o
+aclaración acerca de los procedimientos, riesgos, beneficios u otros
+asuntos relacionados con la presente investigación.
+f) Si considera que no hay dudas ni preguntas acerca de su participación,
+puede, si así lo desea, firmar la Carta de Consentimiento Informado.
+g) Se le comunica que esta Carta de Consentimiento Informado se elabora y
+firma en dos ejemplares originales, se le entregará un original y el otro lo
+conservará el investigador principal.
+
+FIRMA DE CONSENTIMIENTO
+[fecha dd/mm/20XX]
+
+Yo, ________________________________________, manifiesto que fui
+informado (a) del propósito, procedimientos y tiempo de participación y en pleno
+uso de mis facultades, es mi voluntad participar en esta investigación titulada:
+________________________________________________________________.
+No omito manifestar que he sido informado(a) clara, precisa y ampliamente,
+respecto de los procedimientos que implica esta investigación. He leído y
+comprendido la información anterior, y todas mis preguntas han sido respondidas
+de manera clara y a mi entera satisfacción.
+
+__________________________
+NOMBRE Y FIRMA
+DEL PARTICIPANTE
+(Se requiere identificación oficial)
+
+______________________________
+NOMBRE Y FIRMA
+DEL INVESTIGADOR PRINCIPAL
+(Se requiere identificación oficial)
+
+__________________________
+NOMBRE Y FIRMA
+
+______________________________
+NOMBRE Y FIRMA
+28
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+DEL TESTIGO
+(Se requiere identificación oficial)
+
+DEL TESTIGO
+(Se requiere identificación oficial)
+
+Nota:
+Los datos personales contenidos en la presente Carta de Consentimiento
+Informado, serán protegidos conforme a lo dispuesto en las Leyes Federal de
+Transparencia y Acceso a la Información Pública, General de Transparencia y
+Acceso a la Información Pública y General de Protección de Datos Personales en
+Posesión de Sujetos Obligados y demás normatividad aplicable en la materia.
+
+David Antonio García Reyes
+____________________________
+29
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Firma del alumno
+Nivel de revisión: 02
+
+30
+
+

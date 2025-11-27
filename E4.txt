@@ -1,0 +1,756 @@
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 8 de marzo de 2024
+MAESTRÍA EN INNOVACIÓN EN ENTORNOS VIRTUALES DE
+ENSEÑANZA APRENDIZAJE
+
+Me permito presentar ante el H. Consejo Académico de la Facultad de Informática la
+siguiente solicitud de titulación por tesis de acuerdo con la fracción VII, artículos: 4554 y 55-58 del reglamento de titulación vigente.
+Nombre del Alumno: Juley Dayana Sotomayor Cano
+No. de Expediente: 326958
+No. CVU: 1293342
+Correo electrónico: juleysotomayor@gmail.com
+Teléfono: 3108265488
+Línea de investigación sobre la cual se desarrollará el trabajo: Innovación de
+procesos pedagógicos con el uso de las TIC
+Responsable de la Asesoría: Dra. Rocío Edith López Martínez
+Programas educativos que apoya:
+- Licenciatura en Informática
+- Maestría en Innovación de Entornos Virtuales de Enseñanza Aprendizaje
+- Doctorado en Innovación en Tecnología Educativa
+- Doctorado en Tecnología Educativa
+Línea de investigación del responsable:
+
+1
+
+I DATOS GENERALES
+Título del proyecto: Estrategia didáctica basada en ChatGPT para escritura
+de textos académicos en estudiantes de nivel superior.
+Nombre del alumno responsable: Juley Dayana Sotomayor Cano
+Colaboradores (director y/o Codirector): Dra. Rocio Edith López Martínez
+(directora) Centro o lugar donde se realizará la investigación: Universidad
+Autónoma de Querétaro
+Tipo de investigación: aplicada
+Línea de investigación sobre la cual se desarrollará el trabajo: Innovación de
+procesos pedagógicos con el uso de las TIC.
+II ANTECEDENTES
+Leer y escribir en la Universidad
+Enseñar a leer y a escribir en el contexto universitario es una labor que ha sido omitida
+por algunas instituciones, ya que los docentes presuponen que los estudiantes antes de
+ingresar a la universidad ya dominan ambas competencias. Sin embargo, cada asignatura
+presenta prácticas discursivas específicas, lo que significa que existe un modo
+característico de leer y escribir en cada una. Por lo tanto, es necesario que los docentes,
+desde su área de conocimiento, diseñen acciones pedagógicas y estructuras que permitan
+mostrar y compartir las formas de interpretación y producción textual pertinentes al
+campo de estudio (Carlino, 2022).
+En este sentido, las prácticas de lectura y escritura en la universidad tienden a ser
+complejas porque a medida que se especializa el conocimiento surgen formas propias de
+escribir y expresar los resultados en cada disciplina. Esto implica el dominio de diversos
+géneros discursivos, lo que dificulta la enseñanza y el aprendizaje de la escritura en este
+ámbito (Andrade, 2022).
+Por otro lado, la escritura en la universidad requiere de situaciones didácticas específicas
+que inviten y motiven a los estudiantes a reflexionar y a repensar el papel que cumple la
+2
+
+lengua escrita no solo en cuanto al manejo y dominio de los géneros discursivos, sino
+también en la construcción de su propia voz y en la reafirmación de su identidad como
+seres sociales y culturales. Por tanto, la enseñanza de la escritura en el contexto
+universitario debe atender a las necesidades e intereses de los estudiantes (Vielma, 2021).
+La escritura académica mediada por las TIC
+Teniendo en cuenta que en el contexto universitario el desarrollo de la competencia escrita
+ha perdido importancia, ya que la mayoría de los docentes suponen que los estudiantes
+saben escribir de manera correcta, y que es en la secundaria donde adquieren y desarrollan
+esta habilidad. Esta percepción refleja el desinterés tanto de docentes como de estudiantes
+en el desarrollo de esta habilidad comunicativa. Por tanto, surge la necesidad de promover
+una enseñanza de la escritura académica mediada por las nuevas tecnologías de la
+información y comunicación (TIC).
+Para empezar, Álvarez (2012a) sugiere que, aunque los talleres de lectoescritura en redes
+sociales como Facebook resultan atractivos para los estudiantes, no son suficientes para
+mejorar sus habilidades de lectura y escritura. Propone combinarlos con plataformas
+educativas como Moodle, lo que permitiría a los estudiantes interactuar con diversos
+recursos didácticos y pedagógicos a través de herramientas digitales como blogs, chats y
+foros. Esto podría facilitar la discusión, el trabajo colaborativo y el desarrollo de prácticas
+académicas, como la reformulación de enunciados y textos, habilidades básicas para
+lograr una comprensión y producción adecuadas de textos en el ámbito universitario.
+Por otro lado, en su estudio posterior Álvarez (2012b) examinó el uso de blogs en el
+contexto universitario, específicamente en materias que abordan las habilidades de
+lectoescritura, como una alternativa para superar las dificultades en este ámbito. A pesar
+de que numerosas investigaciones han identificado tanto ventajas como limitaciones de
+los blogs educativos, se destaca la continua necesidad de orientación para optimizar el
+aprendizaje con esta herramienta. Este estudio, basado en un análisis semiótico integral,
+analiza una serie de blogs en español dirigidos al desarrollo de habilidades de
+comprensión y producción textual, revelando que la mayoría de ellos se centran en la
+organización y gestión de la información, con un enfoque predominantemente verbal.
+
+3
+
+Otro de los estudios tenidos en cuenta es el de Casanovas (2016) quien pretende mostrar
+como las denominadas herramientas web 2.0, en especial, los buscadores genéricos y
+diccionarios en línea son empleados recurrentemente por los estudiantes al momento de
+elaborar textos académicos; los primeros, son considerados necesarios en la gestión y
+selección de la información y los segundos, resultan pertinentes en la revisión textual,
+sobre todo para aclarar dudas lingüísticas.
+Por otro lado, Orta et al. (2018) afirman que otra de las herramientas tecnológicas que
+facilitan el desarrollo de la escritura académica es Google Drive, el cual resulta práctico
+para los docentes del área de Lengua al momento de organizar y visibilizar sus cursos,
+además le permite acceder de manera fácil y rápida a las producciones escritas de los
+estudiantes, permitiéndole así hacer observaciones y recomendaciones en dichos textos,
+en efecto, a partir de esta retroalimentación, los estudiantes podrán identificar los errores
+cometidos en la redacción de los mismos y luego hacer sus correcciones. En este sentido,
+se puede decir que Google Drive facilita la escritura individual y colaborativa.
+La inteligencia artificial en los escenarios educativos
+En una sociedad que avanza a grandes escalas en el terreno de la ciencia, tecnología y la
+comunicación, surge la Inteligencia artificial (IA), la cual se ha posicionado como un
+recurso que está configurando varios aspectos de la vida cotidiana de algunas personas
+alrededor del mundo, y la educación no es la excepción. La IA generativa (IAGen), es una
+de las ramas de la inteligencia artificial (IA) que se emplea para mejorar las prácticas
+educativas. Debido a que las aplicaciones y sistemas de este tipo de IA son capaces de
+generar contenido y material personalizado, que brindan experiencias dinámicas de
+aprendizajes. Esta tecnología aporta elementos novedosos, capaces de transformar los
+procesos de enseñanza- aprendizaje, siempre y cuando son empleado en un marco ético y
+responsable (UNAM, 2023) .
+Con respecto a la inclusión de la IA en el ámbito educativo, el trabajo de Gangotena et al.
+(2023) representa una excelente iniciativa, puesto que da a conocer las herramientas de
+IA que se utilizan en estudiantes de primaria para mejorar el proceso de enseñanzaaprendizaje, y encuentra que el uso adecuado de estas herramientas mejora la
+interactividad, proporcionan retroalimentación instantánea, permiten accesibilidad a
+4
+
+información actualizada, potencian el desarrollo de las denominadas habilidades del siglo
+XXI y garantizan la inclusión y equidad en los procesos formativos. Indicando que
+preparan al estudiante para atender las necesidades de un mundo globalizado.
+Dentro de los espacios de contribución de la IA en la educación se encuentran los sistemas
+de enseñanza personalizada o adaptativos, estos son las plataformas y sistemas de tutorías
+inteligentes que suministran rutas e itinerarios personalizados de aprendizaje, que están
+constituidos en los perfiles, respuestas e interacciones de estudiantes (Hueso, 2022).
+Los sistemas inteligentes de tutorías (SIT), son empleados con frecuencia para mejorar
+las practicas pedagógicas, así como atender a la problemática de mejorar los procesos de
+aprendizaje, por ejemplo, de la Enseñanza del Español como Lengua Extranjera (ELE) a
+través del diseño e implementación de un analizador automático de errores gramaticales
+para la lengua castellana en el contexto de un tutorial inteligente para la enseñanza del
+español como lengua extranjera (Ferreira y Kotz, 2010). Por tanto, cada vez son más
+notorios los cambios y transformaciones que el uso de la tecnología digital ha generado
+en el contexto social, y en especial en el educativo. En los últimos años, el desarrollo de
+la IA ha dotado a los sistemas educativos de soluciones eficaces y más personalizadas
+para los procesos de enseñanza- aprendizaje.
+El big data y las famosas “cajas negras” dos elementos fundamentales de la IA están
+siendo utilizados para configurar las prácticas sociales, políticas y educativas. No
+obstante, se requiere que tanto educadores, investigadores y en especial, estudiantes,
+conozcan qué son los algoritmos y el impacto que éstos pueden causar en sus vidas, así
+como los efectos negativos que pueden generar al no ser bien empleados (Giró-Gracia y
+Sancho-Gil, 2022).
+Otra de las contribuciones destacadas de la inteligencia artificial (IA) al ámbito educativo
+es su integración en las plataformas de juegos utilizadas como experiencias de
+aprendizaje. La eficacia de los juegos que incorporan recursos de la IA ha sido
+comprobada en el contexto educativo, ya que estos tienen el potencial de fortalecer las
+habilidades y competencias sociales, creativas, comunicativas y de resolución de
+problemas en los estudiantes (Alonso et al., 2022).
+
+5
+
+El uso de juegos en la educación superior ha demostrado generar beneficios significativos,
+ya que los estudiantes universitarios muestran mayor participación e interés en sus
+asignaturas y contenidos de clase. Gamispace, es una plataforma de juegos abierta y
+configurable con respaldo de analítica basada en la IA computacional ha permitido a los
+docentes monitorear de manera discreta la participación y progresión de los estudiantes.
+Además, los docentes pueden utilizar esta información para diseñar clases más efectivas
+(Pisabarro-Marron et al., 2023).
+El ChatGPT en el proceso de redacción
+Otra de las invenciones de IA es el sistema de respuesta Generative Pre-trained
+Transformer, en adelante (GPT), lanzado a finales del 2022 por la empresa Open AI. El
+chat GPT es un chatbot de código abierto que utiliza el modelo de lenguaje GPT3, que a
+través de modelos de aprendizaje automático está transformando la manera de producir
+textos. Desde sus inicios, los chatbot sólo se usaban para sostener conversaciones con
+usuarios como si fueran humanos, no obstante, el Chat GPT no sólo cumple este tipo de
+funciones, sino que además genera distintos contenidos como poemas, trabajos y sirve
+para depurar códigos ( Alonso y Quinde, 2023) .
+Tal como se mencionó anteriormente, el uso y aplicación del Chat GPT ha configurado la
+manera de generar textos académicos, sin embargo, surge la iniciativa de estudiar las
+posibilidades creativas de la IA para el desarrollo de la escritura en el contexto educativo,
+una de esas alternativas fue aplicar algunos de los juegos (2 y 3) del test español PIC-A
+(«Prueba de Imaginación Creativa para Adultos») en 20 sistemas IA y estudiantes
+universitarios. Ambos juegos cuentan con ítems como: fluidez, flexibilidad y Originalidad
+narrativa. Los resultados ponen de manifiesto la ayuda que la IA proporciona en tareas de
+escritura y creatividad verbal, lo que debería ser tenido en cuenta en la enseñanza de
+lenguas; en cualquier caso, la IA aún no puede reemplazar a la inteligencia y la creatividad
+humana (Vicente-Yagüe-Jara et al., 2023).
+El Chat GPT a pesar de ser actualmente una de las tecnologías más empleadas por los
+estudiantes en la realización de actividades académicas tales como: redacción de textos y
+trabajos de investigación. Sin embargo, los docentes presentan un gran desconocimiento
+respecto a esta herramienta. Por tanto, se considera necesario promover el conocimiento
+6
+
+y aplicación crítica del Chat GPT entre estudiantes y profesores, y así aprovechar sus
+potencialidades en el proceso formativo (Vilchis, 2023).
+En la actualidad, el Chat GPT se ha convertido en el mejor aliado de los universitarios al
+momento de redactar ensayos, ya que consideran que este sistema de la IA les permite
+ahorrar tiempo y esfuerzo; además de ser de fácil uso y accesibilidad, genera contenidos
+coherentes y relevantes, que garantizan que sus escritos cuenten con una buena estructura
+y forma. No obstante, los docentes manifiestan su preocupación frente a este tema, pues
+la dependencia del ChatGPT para generar ensayos, puede limitar el desarrollo de
+habilidades importantes como la investigación, el pensamiento crítico, la interpretación
+de fuentes y la capacidad de plasmar ideas propias de manera coherente (RomeroRodríguez, 2023).
+Los sistemas de respuesta como ChatGPT, en sus versiones GPT-3.5 y GPT-4, han
+demostrado ser herramientas eficaces en la elaboración de artículos científicos. Son
+capaces de ayudar en el proceso de diseño, ya que proporcionan ideas congruentes con el
+objetivo general y el enfoque del artículo. Además, ofrecen un apoyo parcial en las
+revisiones bibliográficas y por último permiten una edición y corrección razonables de
+los artículos (Livberber, 2023) .
+A pesar de que existen varios estudios que aborden el uso de las TIC y la IA en el ámbito
+educativo; su efectividad, ventajas y el impacto que generan en el proceso formativo. Así
+como también aquellos que relatan la experiencia de estudiantes y docentes frente al uso
+de estos recursos. Son escasos los que tratan la relación entre ambos y de qué manera bien
+fusionados podrían contribuir a la mejora de la redacción y revisión de trabajos
+académicos (Martín -Marchante, 2022).
+III. JUSTIFICACIÓN
+La escritura es una de las habilidades que más incide en el desarrollo humano, tanto
+por su poder expresivo y comunicacional como porque posibilita la construcción y
+socialización de conocimientos. No obstante, en la actualidad, la enseñanza de la
+escritura y su constante utilización que permite el desarrollo de la habilidad
+escritural, pareciera que hubiese perdido vigencia en la formación universitaria;
+puesto que algunos docentes suponen que el estudiante sabe escribir correctamente.
+7
+
+Al ingresar a la universidad, los estudiantes suelen enfrentarse a dificultades en el
+proceso de redacción de textos académicos. Esta situación ha llevado a
+investigadores y docentes a proponer modelos, estrategias y recursos para abordar
+este problema. Una de estas propuestas es la implementación de talleres orientados
+a la compresión y producción de textos científicos y académicos. Sin embargo,
+algunos de estos talleres no satisfacen las necesidades e intereses de los estudiantes,
+ya que se centran más en la teoría que en la práctica. Además, suelen ofrecerse de
+manera extracurricular, en lugar de estar incluidos en el currículo del programa.
+Otra de las iniciativas, son los centros de escritura que brindan tutorías
+individualizadas a los estudiantes para el desarrollo de habilidades de escritura. Este
+proyecto se originó en las universidades anglosajonas, pero en los últimos años ha
+sido adoptado en algunas instituciones del contexto hispano. El propósito de estas
+tutorías es que los estudiantes se familiaricen con su texto y, en colaboración con el
+tutor (estudiante o docente), revisen y corrijan errores de manera conjunta. A pesar
+de ser una alternativa valiosa, no todas las universidades disponen de este tipo de
+recursos (Núñez, 2020).
+Por otro lado, se encuentra la implementación de estrategias de enseñanza de la
+escritura académica mediada por las Tecnologías de la Información y
+Comunicación. Algunas de estas estrategias son la promoción de cursos y esquemas
+de alfabetización académica en entornos de aprendizaje B-Learning y en modalidad
+B-Learning y en comunidades de Blog (Hernández, 2020).
+Si bien, se ha demostrado que estas metodologías educativas ayudan a mejorar las
+habilidades escriturales en estudiantes de Educación Superior. En la actualidad, han
+surgido nuevas tecnologías como la IA aplicada a la educación, denominada IAGen,
+que surge como una herramienta prometedora para mejorar las prácticas educativas,
+debido a que aporta recursos y aplicaciones que pueden ser disruptivos en el proceso
+de enseñanza y aprendizaje (Coca-Bergolla y Llivina-Lavigne, 2021).
+Entre las herramientas de la IAGen se encuentran BingChat y ChatGPT, siendo esta
+última una de las que ha tenido mayor acogida en la comunidad educativa, ya que
+le permite a docentes y estudiantes realizar algunas tareas de gestión, enseñanza,
+aprendizaje o evaluación de manera rápida y efectiva. Una de sus ventajas es la
+8
+
+retroalimentación instantánea en la revisión, análisis y evaluación de textos
+académicos, ofreciendo sugerencias para mejorar la estructura, coherencia, fluidez,
+claridad y precisión de estos.
+A pesar de que estas herramientas facilitan la búsqueda y procesamiento de
+información, y la generación de textos coherentes y bien organizados de forma
+rápida, lo que ahorra tiempo y esfuerzo al estudiante. Es necesario que se generen
+estrategias, técnicas, y enfoques pedagógicos entorno al a la aplicación del
+ChatGPT en los procesos de enseñanza de la escritura académica. Con base en esto
+surge esta propuesta que pretende diseñar una estrategia didáctica basada en
+ChatGPT para mejorar la redacción de textos académicos a nivel superior.
+IV DESCRIPCIÓN DEL PROBLEMA
+El lenguaje es una de las capacidades más destacadas en el curso evolutivo de la especie
+humana. La escritura, como herramienta fundamental del lenguaje, potencia el desarrollo
+individual al permitir la comunicación escrita de ideas, opiniones, objetivos, sentimientos
+y pensamientos. Esto posibilita la interacción en diversos escenarios y contextos sociales,
+así como la comprensión y la diseminación del conocimiento de la realidad.
+La escritura es una práctica social que realizamos a lo largo de la vida, por tanto, es
+inherente a la vida cotidiana de los estudiantes, docentes y personas. Esta habilidad se
+desarrolla como un proceso continuo, es decir, que no se trata de una acción que se
+aprende de una vez y para siempre, por el contrario, debe desarrollarse de manera continua
+y constante (Viñas, 2014).
+En la actualidad, se reconoce la importancia de enseñar la competencia escrita de manera
+integral en todos los niveles educativos. Sin embargo, en la educación universitaria, se
+percibe una disminución en su apreciación. Algunos docentes creen que los estudiantes
+ya poseen habilidades escritas suficientes, incluyendo la capacidad de producir textos
+académicos como monografías, informes y artículos, así como de expresarse
+adecuadamente en foros y debates con argumentos sólidos. Esta percepción conduce a
+que los docentes se limiten a evaluar los textos, creyendo que la enseñanza de estas
+
+9
+
+prácticas ha sido cubierta por la asignatura de Lengua Castellana en la escuela primaria y
+secundaria (Edelman y Scriba, 2018).
+No obstante, en el ámbito de la educación superior, los estudiantes enfrentan diversas
+dificultades en el proceso de redacción. En primer lugar, muchos escriben sin considerar
+al lector, centrándose únicamente en lo que les parece correcto, a menudo influenciados
+por la bibliografía leída y su estructura. En segundo lugar, existe una tendencia a revisar
+superficialmente los escritos, enfocándose únicamente en la corrección de errores
+gramaticales u ortográficos, sin aprovechar la oportunidad para analizar y replantear lo
+escrito. Finalmente, postergar el momento de comenzar a escribir representa otra
+dificultad, especialmente al redactar textos académicos como monografías, tesis y
+artículos. Algunos estudiantes se dedican a leer en distintas fuentes sin dejar por escrito
+los pensamientos e ideas que surgen de manera emergente, lo que puede resultar en una
+mala gestión del tiempo al momento de elaborar dichos textos. (Carlino, 2004).
+Otro de los procesos que algunos estudiantes no tienen en cuenta al momento de escribir
+es la planificación textual, pues optan por escribir de forma espontánea, valiéndose de los
+conocimientos previos frente al tema, sin antes formular objetivos, generar ideas y
+organizarlas; así como tampoco tienen en cuenta la tipología textual y el género al que
+pertenece el texto. Este hecho puede ser causa de que en las escuelas no se les instruya a
+planificar sus textos, o que por el contrario aun teniendo el conocimiento sobre esta
+práctica no lo apliquen al momento de redactar sus textos (Martínez, 2010).
+Por otro lado, se ha estudiado que algunas de las dificultades que tienen los universitarios
+en el proceso de redacción se deben a que algunos presentan escaso desarrollo de
+habilidades escriturales, tanto en lo estructural como en lo cognitivo, lo cual abarca a la
+coherencia global y local del texto. Asimismo, se ha mencionado que estas falencias y
+otras, en ocasiones se debe a que los estudiantes en el transcurso de su formación
+profesional no reciben una oportuna alfabetización académica, es decir que en la práctica
+de las asignaturas que reciben no desarrollan la competencia escrita (Pérez, 2021).
+La alfabetización académica promueve el desarrollo de la lectura y la escritura durante
+toda la formación universitaria, permitiendo que los estudiantes adquieran las
+competencias comunicativas necesarias para la producción y análisis de textos
+10
+
+académicos requeridos en la universidad. A pesar de ser una práctica indispensable en el
+ámbito universitario, son pocas las instituciones educativas en Latinoamérica que integran
+la práctica y desarrollo de estas habilidades en el contexto formativo de las diferentes
+disciplinas, ya que los docentes parten de la creencia de que los estudiantes al ingresar a
+la universidad son competentes en la comprensión y redacción de textos (Carlino, 2004).
+Sin embargo, a pesar de la iniciativa de algunas universidades y su profesorado para que
+los estudiantes adquieran una adecuada alfabetización académica, estos culminan sus
+estudios superiores con falencias en la redacción de textos académicos. Teniendo en
+cuenta esta situación, algunas investigaciones han propuesto la integración de nuevas
+tecnologías en los procesos de enseñanza de la competencia en escritura académica. Una
+de estas propuestas tiene que ver con el diseño de una estrategia de redacción de artículos
+científicos, basada en un modelo de aprovechamiento de las aplicaciones de la
+Inteligencia Artificial (IA) en el campo de la investigación desde la escritura académica
+con el fin de beneficiar a estudiantes, docentes e investigadores en la tarea de producción
+revisión y corrección de artículos de investigación (Carrillo- Cruz et al., 2023).
+En este sentido, el uso de aplicaciones de inteligencia artificial (IA) no solo está
+transformando la manera de hacer investigación, sino también la forma de escribir en el
+ámbito académico. Por ejemplo, el Chat GPT (Generative Pre-trained Transformer), una
+de las aplicaciones de IA generativa (IAGen), es capaz de reconocer, identificar y generar
+palabras. Actualmente, se ha convertido en una de las herramientas más empleadas por
+los estudiantes, ya que les permite buscar, recopilar y procesar información de manera
+más sencilla y rápida. Además, les brinda la posibilidad de generar textos coherentes y
+bien estructurados, lo que ahorra tiempo y esfuerzo.
+Por otra parte, se ha demostrado la utilidad del Chat GPT en la educación, ya que
+proporciona nuevas oportunidades para la enseñanza a través de la creación de
+contenidos, la comunicación y el aprendizaje. Esta aplicación puede utilizarse como
+asistente para realizar diversas tareas académicas, como la producción de ensayos. Por
+ejemplo, para encontrar información precisa, el estudiante debe interactuar con la
+aplicación formulando preguntas bien estructuradas. Es fundamental que el estudiante
+haya leído y analizado las respuestas del chat para poder formular la siguiente pregunta,
+11
+
+en caso de que no esté satisfecho con el resultado. La calidad de las respuestas dependerá
+de la precisión y claridad de las preguntas (Arjona-Giner y LLorens-Largo, 2023).
+En general, los trabajos descritos anteriormente indican que las dificultades que enfrentan
+los universitarios en el proceso de redacción de textos académicos son de naturaleza
+cognitiva y estructural. Además, se evidencia una falta de alfabetización académica
+oportuna. Esta situación ha llevado a docentes e investigadores a plantear alternativas
+para abordar este problema, una de las cuales es la integración de nuevas tecnologías,
+como la Inteligencia Artificial Generativa (IAGen). En este contexto, el uso de sistemas
+de respuesta como el Chat GPT se destaca por su capacidad para generar y corregir textos.
+Dentro de la Facultad de Informática de la Universidad de Querétaro, específicamente en
+el programa de Licenciatura de Ingeniería de Software, los estudiantes tienen la
+responsabilidad de redactar textos académicos como parte de sus obligaciones.
+En los textos académicos redactados por los estudiantes en la asignatura de Tópico I, se
+identificaron deficiencias en la redacción. Estas abarcan aspectos como la concordancia
+de género y número, la sintaxis, la ortografía, la semántica y el manejo del vocabulario
+propio de la asignatura. Teniendo en cuenta, esta problemática, surge este trabajo de
+investigación, cuyo propósito consiste en desarrollar una estrategia didáctica basada en el
+ChatGPT que ayude a mejorar la redacción de estos textos en estudiantes de nivel
+superior.
+V COMITÉ DE BIÓETICA
+Todas las personas que participan en una investigación deben saber que la información
+relevante y sensible que aporten a los investigadores va a tener un carácter confidencial y
+que será utilizada únicamente para efectos estrictamente académicos; en esto consiste el
+consentimiento informado. Lo anterior predispone a los participantes a suministrar la
+información necesaria para la investigación en un ambiente de confianza y seguridad.
+Este hecho es de vital importancia para el proceso de investigación como para los
+implicados en el misma (Villanueva, 2000). La información que se les dará a conocer a
+los participantes será la siguiente:
+• El propósito de la investigación
+
+12
+
+•
+
+La duración esperada
+
+•
+
+El procedimiento
+
+•
+
+El derecho que tienen a retirarse antes, durante y después del proceso de investigación
+
+•
+
+No tendrá consecuencias positivas o negativas si deciden retirarse del proceso de
+investigación.
+Para persuadir a los participantes a fin de que proporcionen la información necesaria para
+desarrollar la investigación, se le entregarán a cada uno de ellos, el consentimiento
+informado en donde están descritas de manera precisa las actividades que van a
+desarrollar, los objetivos y las condiciones de realización del estudio. Además, se les
+reiterará que el manejo de los datos recolectados se hará bajo total confidencialidad y su
+uso será para fines académicos.
+VI PLANTEAMIENTO TEÓRICO
+Hipótesis
+Si la implementación de la estrategia didáctica, basada en ChatGPT, mejorará la
+redacción de textos académicos en estudiantes de octavo semestre de la Ingeniería de
+Software en la Facultad de Informática de la Universidad Autónoma de Querétaro.
+¿Preguntas de investigación:
+Pregunta general
+¿A través de los modelos de lenguaje -como ChatGPT- se puede generar estrategias
+didácticas para mejorar la redacción de textos académico en estudiantes de nivel
+superior?
+Preguntas específicas
+
+•
+
+¿Cuáles son las dificultades de los estudiantes de programas como Ingeniería de
+Software en la redacción de textos académicos?
+
+•
+
+¿Qué elementos se deben tener en cuenta en el diseño de estrategias didácticas basadas
+en el ChatGPT?
+
+•
+
+¿Cuál es la evaluación del impacto del uso de ChatGPT en la implementación de la
+estrategia didáctica?
+13
+
+Objetivo general:
+Desarrollar una estrategia didáctica basada en ChatGPT para la escritura de textos
+académicos en estudiantes de octavo semestre de la Ingeniería de Software en la
+Facultad de Informática de la Universidad Autónoma de Querétaro, con el propósito de
+mejorar la estructura y calidad de redacción.
+Objetivos específicos:
+•
+
+Identificar las dificultades de los estudiantes del programa de Ingeniería de Software en la
+redacción de textos académicos propios de la Licenciatura
+
+•
+
+Diseñar una estrategia didáctica a través de las funcionalidades del ChatGPT como
+asistente de redacción
+
+•
+
+Evaluar el impacto de la estrategia didáctica en la redacción de textos académicos
+
+VII METODOLOGÍA
+La metodología que se utilizará en el presente trabajo es la Investigación Basada en Diseño, en
+adelante, (IBD), la cual está orientada hacia la innovación educativa y se caracteriza
+principalmente por introducir un nuevo elemento para transformar una situación. A diferencia
+de la investigación educativa en general, se ocupa de problemas reales, atendiendo necesidades
+prácticas del sistema educativo. Al no contar con un modelo propio, dispone de teorías
+científicas y modelos disponibles para atender y dar posibles soluciones a los problemas
+detectados en la realidad educativa, ya sea a través del diseño de materiales o la configuración
+de procesos y procedimientos. Por último, la IBD consta de dos etapas: investigar hasta crear
+un nuevo producto y sucesivas mejoras y, por otra parte, aportar en forma de principios que
+contribuyen a nuevos procesos de diseño (Benito y Salinas, 2016).
+La IBD comenzó a implementarse a inicios de la década de los noventa, actualmente, la basta
+producción de trabajos en el campo de la Tecnología Educativa (TE), en los que se ha aplicado
+la IBD son muestra de que este tipo de metodologías son adecuadas para investigar propuestas
+educativas en entornos virtuales o mediados por tecnologías. Una de las razones por la cual ha
+tenido gran acogida en dicho campo es por su carácter recursivo, flexible, iterativo, inacabado
+14
+
+y abierto, característico de un proceso en el que se revisan la acciones las veces que sean
+necesarias para reformular el diseño y adaptarlo a las problemáticas analizadas (Coicaud, 2021).
+Se han propuestas distintas fases para conducir el proceso de investigación de la IBD, no
+obstante, se han establecido de manera general cuatro fases flexibles y recursivas: análisis,
+diseño, aplicación y evaluación. El carácter flexible hace referencia a que las fases,
+necesariamente, no siguen un orden estricto, aunque en la presentación de resultados si debe
+ser riguroso. Por otra, la característica de recursiva se debe a que al desarrollarse varias veces
+las fases es posible obtener un conocimiento más amplio y profundo sobre la problemática y
+las posibles soluciones (Escudero-Nahón, 2018).
+Figura 2. Fases generales de la IBD. Fuente: De Benito & Salinas (2016, p: 49)
+
+Para comenzar el desarrollo de la presente propuesta de investigación se seguirán las cuatro fases
+de la IBD de la siguiente forma:
+La primera fase de análisis de la situación y definición del problema: se realizará una revisión
+sistemática sobre estudios que integran tecnologías de inteligencia artificial como el ChatGPT para
+la redacción de textos en estudiantes de nivel superior. Asimismo, una
+
+prueba de diagnostica,
+
+elaborada en Google Form para identificar, inicialmente, las dificultades que regularmente
+enfrentan los estudiantes al momento de redactar textos de carácter académico, en especial
+artículos científicos. Por otra parte, conocer qué recursos, herramientas o aplicaciones de la
+Inteligencia Artificial emplean como apoyo en el proceso de redacción de dichos textos.
+La segunda fase es la de desarrollo de soluciones de acuerdo con la fundamentación teórica:
+Después de tener un marco de referencia sobre el objeto estudio se diseñará la estrategia didáctica,
+15
+
+la cual incluirá una serie de actividades que permitan a los estudiantes interactuar con ChatGPT
+de manera significativa en la redacción de textos académicos.
+La tercera fase es la de implementación: en esta parte del proceso se aplicará la estrategia
+didáctica de manera reiterada si es necesario, con el fin de adaptarla a la solución del problema.
+La cuarta fase es la de la validación que está relacionada con la evaluación del impacto de la
+estrategia didáctica. En este sentido, se evidenciará de qué forma el uso de esta herramienta de
+aprendizaje soluciona las dificultades de redacción de los textos académicos de los estudiantes a
+nivel superior.
+Las actividades para realizar posterior a las fases investigación son:
+1. Revisión sistemática y diagnóstico,
+2. Análisis de la literatura,
+3. Diseño de instrumento,
+4. Aplicación de este,
+5.
+
+Resultados y conclusiones y
+
+6. Aportes.
+Población y muestra
+La población por estudiar son los estudiantes de la Licenciatura en Ingeniería de Software de
+octavo semestre que cursan la asignatura de tópico I en la Universidad Autónoma de Querétaro
+(UAQ) La muestra se constituye por un total de 18 estudiantes.
+La asignatura de tópico I hace parte de la formación complementaria que tiene un carácter de e
+Obligatorio, por cuanto, todos los estudiantes de los diferentes programas tienen que cursarla. La
+población es heterogénea en cuanto a sexo (hombres y mujeres), edades (adultos) niveles de
+formación e intereses académicos de acuerdo con su perfil profesional.
+
+16
+
+VIII CRONOGRAMA
+Actividades
+
+Semestres
+2023-2 2024-1 2024-2 2025-1
+
+Revisión bibliográfica
+Elaboración del protocolo de investigación
+Revisión y ajustes del protocolo de investigación
+Entrega y registro del protocolo de investigación
+Revisión sistemática y diagnóstico
+Elaboración del artículo para revista
+Ponencia para congreso
+Escritura de la tesis:
+Introducción
+Marco Teórico:
+Aplicación de prueba diagnóstica
+Diseño de instrumento
+Implementación del instrumento
+Validación
+Resultados y conclusiones
+Aportes y recomendaciones
+Tesis terminada
+
+IX RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+La presente investigación espera obtener como resultados el impacto que tiene el diseño de una
+estrategia didáctica basada en sistemas inteligentes de respuestas como el ChatGPT, en el proceso
+de aprendizaje, de estudiantes de la asignatura de Tópico I de Universidad Autónoma de
+Querétaro (UAQ) en especial en la mejora y calidad de la redacción de textos académicos.
+
+17
+
+Para llevar a cabo esta investigación se realizará una indagación de la bibliografía relacionada
+con la IA en los procesos de enseñanza que efectúan los alumnos de la Universidad Autónoma
+de Querétaro. Debido a que los estudiantes cada vez más se les hace más indispensable el uso de
+herramientas como el ChatGPT en la realización de actividades académicas, tales como
+redacción de textos, trabajos, entre otros, ya que les facilita ahorrar tiempo en la búsqueda,
+selección y gestión de la información.
+Sin duda, el ChatGPT como otros sistemas de la IA son herramientas que están configurando los
+procesos de enseñanza- aprendizaje, es por eso por lo que resulta pertinente que tantos estudiantes
+como docentes se capaciten en el uso de este tipo de tecnologías. De acuerdo con esto, los
+resultados de la presente investigación pretenden promover este tipo de iniciativas.
+Se obtendrá la descripción de las necesidades contextuales y los componentes idóneos para el
+uso del ChatGPT en el contexto educativo con la finalidad de poder obtener líneas futuras de
+investigación y compararse con otras para obtener hallazgos y mejorar el proceso de enseñanza.
+Se va a aplicar una Investigación Basada en Diseño (IBD) con el propósito de establecer el
+impacto de una estrategia didáctica basada en el ChatGPT para obtener mejores resultados en la
+redacción de textos académicos de estudiantes en la Universidad Autónoma de Querétaro.
+En cuanto a los productos generados serán los siguientes:
+- Publicación de un artículo en revistas indexadas, arbitrada, de preferencia con factor de
+impacto y/o JCR.
+- Tesis para la obtención de grado de Magíster en Entornos Virtuales de Enseñanza Aprendizaje - Elaboración de ponencias para participación en congreso internacional.
+- Publicación en memorias de eventos internacionales con reconocido prestigio.
+X INDICE TENTATIVO
+1. Introducción
+1.1 Descripción del problema
+1.2 Institución Educativa
+1.3 Justificación
+1.4 Hipótesis o supuestos
+1.5 Objetivos
+18
+
+2. Antecedentes y estado del Arte
+2.1 Leer y escribir en la Universidad
+2.2 Los procesos de composición escrita
+2.3 La escritura académica mediada por las TIC
+3. Marco teórico
+3.1 Teorías del aprendizaje (paradigmas para la era digital)
+3.1 Conectivismo
+3.2 Escritura académica
+3.3 Estrategias didácticas
+4. Metodología
+4.1 Población y muestra de la investigación
+4.2 Diseño de la investigación
+4.3 Técnicas de instrumentos
+5. Resultados
+5.1 Funciones del ChatGPT
+5.2 La escritura de textos académicos
+5. 3 Calidad en el proceso de redacción
+6. Discusión
+7. Conclusiones
+8. Bibliografía
+XI REFERENCIAS BIBLIOGRAFICAS
+Alonso, J., y Quinde, M. (2023). ChatGPT: La creación auto mática de contenidos con Inteligencia
+Artifical y su impacto en la comunicación académica y educativa. Revista Desiderata, 22,
+136–142.
+Álvarez, G. (2012a). Entornos virtuales de aprendizaje y didáctica de la lengua: dos experiencias
+con integración de TIC para mejorar las habilidades de lectura y escritura de estudiantes
+preuniversitarios. Revista Q: Educación Comunicación Tecnología, 6(12), 1–23.
+Álvarez, G. (2012b). New Technologies in the University Context: The Use of Blogs for
+Developing Students’ Reading and Writing Skills. RUSC. Revista de Universidad y Sociedad
+Del Conocimiento, 9(2), 185–199. https://doi.org/10.7238/rusc.v9i2.1160
+19
+
+Andrade, M. (2022). Escritura y composición escrita en la educación superior. Reencuentro :La
+Enseñanza de La Investigación En Los Posgrados, 199–218.
+Arjona-Giner, S., y LLorens-Largo, F. (2023). Explorando ChatGPT para la educación: su
+potencial en la redacción Exploring ChatGPT for education: its potential on academic writing.
+In M. L. Sein-Echaluce, Á. Fidalgo, y F. J. García-Peñalvo (Eds.), Innovación educativa en
+los tiempos de la inteligencia artificial. Actas del VII Congreso Internacional sobre
+Aprendizaje, Innovación y Cooperación. CINAIC (pp. 1–6). https://doi.org/10.26754/uz.97884-18321-92-4
+Benito, B., y Salinas, J. M. (2016). La Investigación Basada en Diseño en Tecnología Educativa
+Design-Based Research in Educational Technology. Revista Interuniversitaria de
+Investigación En Tecnología Educativa (RIITE), 0, 44–59.
+Carlino, P. (2004). The Process of Academic Writing Consulting. Educere, 26(8), 321–327.
+Carlino, P. (2022). Escribir y leer en la universidad: responsabilidad compartida entre
+alummnos,docentes e instituciones. In Textos en contexto (Issue 6, pp. 1–23).
+Carrillo- Cruz, C. E., Herrera -Barragan, V. A., y Cortes- Serrato, J. N. (2023). Inteligencia
+Artificial para la escritura académica en investigación. Ciencia Latina Revista Científica
+Multidisciplinar, 7(4), 4604–4621. https://doi.org/10.37811/cl_rcm.v7i4.7304
+Casanovas, M. (2016). Las herramientas 20 en la escritura académica: buscadores y diccionarios. Folios, 1(43), 77–88. https://doi.org/10.17227/0123487043folios77.88
+Coca-Bergolla, Y., y Llivina-Lavigne, M. (2021). Desarrollo y retos de la inteligencia artificial. In
+Editorial educacion cubana. UNESCO.
+Coicaud, S. (2021). La Investigación Basada en Diseño para propuestas de formación virtual.
+Revista Locus Digital, 2(1), 2697–3138. https://doi.org/10.54312/2.1.5
+Edelman, M. G. R., y Scriba, S. A. (2018). Overcoming myths about reading comprehension in
+the university student population. Revista KaÑina -Artes y Letras, 42(1), 33–49.
+Escudero-Nahón, A. (2018). Principios de Investigación Basada en Diseño para la creación de un
+modelo de educación virtual. Congreso Internacional Educativo Interdisciplinario 2018.
+Afrontar
+
+Los
+
+Retos
+
+de
+
+La
+
+Educación
+
+En
+
+El
+
+Siglo
+
+XXI-2.,
+
+217–232.
+
+https://www.transdigital.mx/escudero-memorias/principios-de-investigacion-basada-endiseno-para-la-creacion-de-un-modelo-de-educacion-virtual/
+Ferreira, A., y Kotz, G. (2010). ELE-Tutor Inteligente: Un analizador computacional para el
+20
+
+tratamiento de errores gramaticales en Español como Lengua Extranjera. Revista Signos,
+43(73), 211–236. https://doi.org/10.4067/S0718-09342010000200002
+Gangotena, G., Arias, M. J., y Luna, P. M. (2023). Recursos digitales con Inteligencia Artificial
+para mejorar el Aprendizaje de los Estudiantes de Primaria. Ciencia Latina Revista Científica
+Multidisciplinar, 7(4), 1463–1481. https://doi.org/10.37811/clrcm.v7i4.6967
+Giró-Gracia, X., y Sancho-Gil, J. (2022). Artificial Intelligence in Education: Big Data, Black
+Boxes, and Technological Solutionism. Latin American Journal of Educational Technology,
+21(1), 129–145. https://doi.org/10.17398/1695-288X.21.1.129
+Hernández, D. (2020). Análisis de estrategias de mediación TIC para el aprendizaje de la escritura
+acádemica en estudiantes de educación superior [Tesis de licenciatura] [Universidad
+Pontificia Bolivariana]. http://hdl.handle.net/20.500.11912/9127
+Hueso, J. J. (2022). Estrategía metodológica para la educación: Inteligencia Artificial. In N.
+Alonso, R. Terol, P. Sidorenko, y J. M. Herranz (Eds.), Innovación digital en comunicación
+y educación (1a ed., p. 638). Dykinson.
+Livberber, T. (2023). Toward non-human-centered design: designing an academic article with
+ChatGPT.
+
+Profesional
+
+de
+
+La
+
+Informacion,
+
+32(5),
+
+1–19.
+
+https://doi.org/10.3145/epi.2023.sep.12
+Martín -Marchante, B. (2022). TIC e inteligencia artificial en la revisión del proceso de escritura :
+su uso en las universidades públicas valencianas. Research in Education and Learning
+Innovation Archives, 28, 16–31. https://doi.org/10.7203/realia.28.20622
+Martínez, J. (2010). La planificación textual y el mejoramiento de la escritura académica. Infancias
+Imágenes, 9(2004), 35–47. http://dialnet.unirioja.es/descarga/articulo/3653126.pdf
+Núñez,
+
+J.
+
+A.
+
+(2020).
+
+Pedagogías
+
+de
+
+la
+
+lengua.
+
+Enunciación,
+
+25(2),
+
+176–190.
+
+https://doi.org/10.14483/22486798.16563
+Orta, M. D., González, M. M., y Cardozo, C. A. (2018). Lectura y escritura aumentadas: Google
+drive como ambiente propicio para la escritura colaborativa y democrática en la universidad.
+Tercer Congreso de La Asociación Argentina de Humanidades Digitales. La Cultura de Los
+Datos., 417–429. https://www.aacademica.org.
+Pérez, R. (2021). Dificultades en el desarrollo académico escrito en estudiantes universitarios
+[Tesis Doctoral]. Universidad de extremadura.
+Pisabarro-Marron, A., Vivaracho-Pascual, C., Arias-Herguedas, S., y Jiménez, L. I. (2023).
+21
+
+GamiSpace : una plataforma de juegos abierta y configurable con soporte para analíticas.
+Actas de Las Jenui, 8, 225–232.
+Romero-Rodríguez, P. (2023). La Incorporación del ChatGPT en la Educación Superior: Una
+Mirada desde el Paradigma de la Complejidad. 593 Digital Publisher CEIT, 8(5), 213–225.
+https://doi.org/10.33386/593dp.2023.5.1976
+UNAM. (2023). Recomendaciones para el uso de la inteligencia artificial generativa en la
+docencia (1a ed.). Universidad Autónoma Nacional de México (UNAM).
+Vicente-Yagüe-Jara, M. I., López-Martínez, O., Navarro-Navarro, V., y Cuéllar-Santiago, F.
+(2023). Writing, creativity, and artificial intelligence. ChatGPT in the university context.
+Comunicar, 31(77), 1–11. https://doi.org/10.3916/c77-2023-04
+Vielma, J. O. (2021). El acto de escribir en la universidad. Una experiencia a partir de la
+autobiografía. Álabe Revista de La Red de Universidades Lectoras, 24, 1–17.
+https://doi.org/10.15645/alabe2021.24.4
+Vilchis, M. (2023). ChatGPT: Usos y oportunidades de la enseñanza-aprendizaje en Nivel Medio
+Superior. Diversidad Académica, 3(1), 90–112.
+
+https://diversidadacademica.uaemex.mx/article/view/21745
+Villanueva, M. (2000). Enfoque bioético de las investigaciones pedagógicas. Revista Cubana de
+Educacion Medica Superior, 14(1), 36–42.
+Viñas, R. (2014). Ser joven, leer y escribir en la universidad [Tesis Doctoral]. Universidad
+Nacional de la Plata.
+
+Firma del alumno
+
+22
+
+

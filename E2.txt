@@ -1,0 +1,1215 @@
+Universidad Autónoma de Querétaro
+Facultad de Informática
+C.U. a 10 de diciembre de 2024
+
+Maestría en Innovación en Entornos Virtuales de Enseñanza
+aprendizaje
+Me permito presentar ante el H. Consejo Académico de la Facultad de
+Informática la siguiente solicitud de titulación por tesis de acuerdo con la fracción
+VII, artículos: 45-54 y 55-58 del reglamento de titulación vigente.
+Nombre del Alumno: Mayra Diana Briseño Martínez
+No. de Expediente: 233528
+No. CVU: 1252484
+Correo electrónico: mayra.briseno@uaq.edu.mx
+Teléfono: 441.120.12.69
+Línea de investigación sobre la cual se desarrollará el trabajo: Diseño de
+materiales y recursos educativos para los EVEAS
+Responsable de la Asesoría: Dra. Gabriela Xicoténcatl Ramírez.
+Programas educativos que apoya: SOF18, MIEVEA, DTE, DITE.
+Línea de investigación del responsable: Tecnologías de la Información, Gestión
+y Educación.
+Firma de aceptación:
+Número de veces que se ha sometido esta propuesta al H. Consejo Académico de
+la Facultad: Primera vez ( X )
+
+2da. (
+
+)
+
+Más de 2 veces (
+
+)
+
+Semestre o Cuatrimestre actual del alumno: Primer semestre
+Fecha de Ingreso al programa: 22 de agosto 2024.
+1
+
+CONTENIDO
+I. DATOS GENERALES
+5
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+6
+2.1 Situación infantil mundial y nacional respecto a la educación.
+6
+2.2. Modelo Educativo UAQ alineado a NEM
+9
+2.3 UAQ-PERAJ Inspirando Futuros
+9
+2.4 Habilidades socioemocionales
+10
+2.5. Objetivos de Desarrollo Sostenible
+11
+2.6 Fundamentación Teórica
+13
+2.7 Estrategias del aprendizaje
+13
+2.8 Desarrollo de habilidades socioemocionales
+14
+2.9 Tics en el aprendizaje
+15
+2.10 TIC en el desarrollo de habilidades socioemocionales
+16
+2.11 Recursos digitales que permiten el desarrollo de la adquisición de
+competencias para la solución de problemas
+17
+III. JUSTIFICACIÓN
+17
+IV. DESCRIPCIÓN DEL PROBLEMA
+20
+V. COMITÉ DE BIOÉTICA
+24
+VI. PLANTEAMIENTO TEÓRICO
+25
+6.1 Hipótesis
+25
+6.2 Supuesto
+25
+VII. OBJETIVOS
+25
+7.1 Objetivo general
+25
+7.2 Objetivos específico
+25
+VIII. METODOLOGÍA
+26
+8.1 Tipo de investigación
+26
+8.2 Población
+27
+8.3 Técnicas e instrumentos
+27
+8.4 Cronograma
+27
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+28
+X. BIBLIOGRAFÍA
+29
+XI. ANEXOS
+32
+11.1 Entrevista semi dirigida.
+32
+11.2 Formato de registro de las infancias
+34
+11.3 Formato de carta responsiva
+35
+11.4 Formato de uso de imagen
+37
+
+2
+
+INDICE DE TABLAS
+Tabla 1 Similitudes Entre Tipos de Aprendizaje y HSE
+Tabla 2 Productos
+
+16
+27
+
+INDICE DE FIGURAS
+Figura 1 Metodología en Investigación Basada en Diseño
+
+25
+
+3
+
+I.
+
+DATOS GENERALES
+
+● Título del proyecto: Modelo de resolución de conflictos en infancias del
+programa
+
+UAQ-PERAJ
+
+a
+
+través
+
+del
+
+desarrollo
+
+de
+
+habilidades
+
+socioemocionales con recursos digitales, estrategias de comunicación y
+aprendizaje colaborativo.
+● Nombre del alumno responsable: Mayra Diana Briseño Martínez.
+● Directora de tesis: Dra. Gabriela Xicoténcatl Ramírez.
+● Centro donde se realiza la investigación: Dirección de Vinculación de la
+Universidad Autónoma de Querétaro.
+● Tipo de Investigación: Aplicada.
+● Línea de investigación: Diseño de materiales y recursos educativos para los
+EVEAS.
+
+4
+
+II.
+
+ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+
+2.1 Situación infantil mundial y nacional respecto a la educación.
+En el contexto internacional las infancias se ven sujetas a sus entornos, en el mundo
+hay aproximadamente 2.300 millones de niños y niñas según (Amnistía
+Internacional, n.d.) lo que equivale a casi un tercio de la población total, de los cuales
+un porcentaje significativo viven en países en desarrollo y las condiciones de cada
+uno de los infantes se beneficia o afecta de acuerdo al país de residencia.
+En México hay aproximadamente 130 millones 118 mil 356 habitantes de los cuales
+el 30.2% son niños y niñas entre los 0 y 17 años según (CONAPO, 2022), la
+(UNICEF, 2018) indicó que más de la mitad de la población infantil en México se
+encontraba en condiciones de pobreza y aproximadamente cuatro millones en
+pobreza extrema, aspectos como el económico según (María Caridad Araujo, 2016)
+refiere “hay que reconocer que los adultos que se enfrentan a diario con la pobreza
+tienen menos tiempo, dinero y recursos emocionales y cognitivos para atender las
+necesidades de sus hijos” es ello que se plantea existe un grado de abandono,
+cuidado y procuración de las infancias, los adultos padres y/o tutores deben trabajar
+para el sustento de sus hogares.
+El aspecto económico impiden que niños y niñas asistan a la escuela, tan solo en el
+ciclo escolar 2022-2023 según la (SEP, 2022) de 100% de los niños que debían
+acudir a la escuela sólo 62% lo hizo en nivel básico en México siendo un derecho la
+educación y obligación del estado proporcionar, según (Barba Casillas, 2019) la
+educación primaria obligatoria y gratuita para los pobres se promulga bajo la Ley
+Orgánica de Instrucción Pública del Distrito Federal en el artículo 2 a partir del año
+1867. Según el mismo autor “el 18 de diciembre de 1896, el reglamento interior para
+las Escuelas Nacionales de Niños y Niñas estableció la educación obligatoria, laica
+y gratuita (artículos 1 y 2)”. Para 1917 según (Cámara de Diputados Servicio de
+Investigación y Análisis, 2000) bajo el mandato de Venustiano Carranza, se formula
+la Constitución Política de los Estados Unidos Mexicanos señalando en el Art. 3°
+que la enseñanza es libre y se impartirá gratuitamente la enseñanza primaria.
+5
+
+A lo largo de los años el artículo 3° de la Constitución Política de los Estados Unidos
+Mexicanos se ha reformado, quedando hoy en día de la siguiente manera:
+Artículo 3o. Toda persona tiene derecho a la educación. El Estado Federación, Estados, Ciudad de México y Municipios- impartirá y garantizará
+la educación inicial, preescolar, primaria, secundaria, media superior y
+superior. La educación inicial, preescolar, primaria y secundaria, conforman
+la educación básica; ésta y la media superior serán obligatorias, la educación
+superior lo será en términos de la fracción X del presente artículo. La
+educación inicial es un derecho de la niñez y será responsabilidad del Estado
+concientizar sobre su importancia (Const., 2024)
+En México la educación tiene relación directa con el plan nacional de desarrollo que
+cada gobierno instaura, cada periodo de seis años se ve modificado el modelo
+educativo debido a cambios en administración ligados directamente con el
+presidente de la república en turno, sin embargo en la actualidad pese a que en el
+año actual ha habido cambio de gobierno federal se ha planteado la necesidad de
+seguir las líneas trazadas en gobierno anterior periodo 2018-2024, reconociendo
+así el trabajo del gobierno saliente y con el compromiso de dar seguimiento a lo que
+hoy en día se le conoce como “La Nueva Escuela Mexicana” (NEM), cuyos
+principios según la (SEP, 2023) son; Identidad con México, Responsabilidad
+Ciudadana, Honestidad, Participación
+
+en la Transformación de la Sociedad,
+
+Respeto de la Dignidad Humana, Interculturalidad, Cultura de Paz y Respeto por la
+Naturaleza.
+Planteando así que la NEM según la (SEP, 2023) es un proyecto de nación con
+características críticas, humanista y comunitarias, el objetivo es que las personas
+tengan formación integral y sean capaces de conducirse como ciudadanos
+autónomos, con bases para formar un futuro en la sociedad. El modelo surge como
+necesidad ante los problemas que se ven determinados por los enfoques que le
+antecedieron, los cuales se planteaban de forma individualistas sin posibilidades de
+crecimiento personal y social, mismo que permitió desequilibrio socioemocional en
+muchas generaciones.
+6
+
+Una característica principal de la NEM según (Subsecretaría de Educación Básica,
+2019) consiste en incorporar a las instituciones y agentes sociales que están
+alrededor del educando en los procesos de aprendizaje, estableciendo que los
+estudiantes son el centro en la educación, pero en escenarios amplios y diversos
+siendo el comunitario uno de ellos, es decir el enfoque pedagógico está motivado
+por el aprendizaje situado que según (López Ocampo et al., 2021) son “aquellos
+aprendizajes basados en una acción que involucran el contexto social/histórico del
+estudiante y los recursos ambientales disponibles”.
+Profundizando un poco en los principios de la NEM se establecen líneas de acción
+y objetivos vinculados a los ODS que según (ONU, 2015) incorpora ideas
+fundamentales como el acercarse más a las comunidades marginadas a través del
+respeto, promoviendo los derechos humanos fomentando el dialogo constructivo en
+términos sociales, sin dejar de lado el medio donde se desarrolla cada individuo
+para así lograr un aprendizaje situado.
+La NEM (SEP, 2023) plantea la promoción de la cultura de paz como un principio
+fundamental, es a través de este principio que México atiende las disposiciones que
+indica las Naciones Unidas en su agenda 2030, mismo que corresponde al objetivo
+16; Promoción de la cultura de la paz según la (ONU, 2015). Se hace mención en
+los documentos de la NEM (SEP, 2023) que los estudiantes deberán formarse en
+una cultura de paz que según (Acompañándote en el proceso de la NEM, 2019)
+deberá ser a partir la “diversidad, sana convivencia(…) en un ambiente de inclusión
+libertad, equidad, paz y respeto a los derechos humanos”, todo ello para favorecer
+el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la
+solución no violenta de conflictos y la convivencia en un marco de respeto a las
+diferencias, es este principio el que permitirá el cumplimiento de los compromisos
+internacionales que contribuyen con el bienestar de México y el mundo.
+2.2. Modelo Educativo UAQ alineado a NEM
+La Universidad Autónoma de Querétaro (UAQ) manifiesta, bajo los principios de la
+NEM, que la educación es un compromiso social por lo que se debe asumir en las
+7
+
+diversas instituciones de esa manera, por ello es que desde el año 2000 la UAQ
+consolidó el Modelo Educativo Universitario (MEU), documento que es guía para
+las acciones educativas dentro de la institución, teniendo una actualización en el
+año 2017 que según (UAQ, 2017) el MEU estableció el enfoque humanista centrado
+en el estudiante, posterior a ello en 2023 se actualiza nuevamente partiendo de las
+necesidades en la actualidad de las diversas unidades académicas y de la sociedad.
+El enfoque pedagógico planteado en el MEU según (UAQ, 2023) tiene siete
+apartados alineados al sistema de enseñanza propuesto en el país. El apartado de
+aprendizaje servicio reconoce la propuesta educativa que combina el proceso de
+aprendizaje dentro del servicio a la comunidad. Tal como se manifiesta en la NEM,
+según (SEP, 2023) los cambios sociales se darán a partir del compromiso social y
+estos cambios impactarán directamente a la sociedad, además de atender
+demandas específicas tales como desarrollo de habilidades en la comunidad
+universitaria (estudiantes, docentes, administrativos) y sociedad en general, lo cual
+nos lleva a la construcción ciudadana aunado a esto y siguiendo con la líneas de
+acción coincide en que el Aprendizaje Servicio (APS) según (Batlle, 2018) “orienta
+el talento de los alumnos, haciendo que lo empleen en la mejora de la sociedad y
+no solo en la mejora de su currículum personal”, priorizando intervenir en temas
+actuales como cultura de paz, formación ciudadana y sustentabilidad.
+2.3 UAQ-PERAJ Inspirando Futuros
+La Universidad Autónoma de Querétaro por medio del MEU (UAQ, 2023) busca a
+través del servicio social realizar cambios en la sociedad y aprendizaje en los
+estudiantes, evaluando y aprobando programas que permitan el proceso de
+aprendizaje servicio en su más pura esencia y beneficio para la sociedad, siendo el
+programa UAQ-PERAJ Inspirando futuros uno de los muchos programas con estas
+características.
+El programa PERAJ tiene su origen en Israel en los años 70s, cuyo significado es
+“FLOR” en el idioma hebreo, en el año 2003 lo incorpora la UNAM como parte de
+sus programas de servicio social y en 2008 llega a la UAQ, tiene la finalidad según
+8
+
+(PERAJ México, n.d.) en apoyar el desempeño académico y favorecer la formación
+integral de los participantes, se beneficia a niños y niñas de nivel primaria de forma
+individual y social, niños-usuarios que provienen de niveles socioeconómicos bajos
+con necesidades en su desarrollo integral.
+El programa según (PERAJ México, n.d.) plantea la incidencia en seis áreas de
+desarrollo en los participantes (estudiante universitario, niño usuario); afectiva,
+social, cultural, motivacional, comunicación y escolar, centrándonos en esta última,
+que plantea mejorar la motivación en niños con respecto a actividades de
+aprendizaje y con ello disminuir la brecha escolar, basándonos en estímulos
+educativos, fortaleciendo estrategias de aprendizaje y desarrollo de habilidades en
+el ámbito educativo y social.
+El ingreso al programa es de forma anual, teniendo el calendario de la Secretaría
+de Educación Pública (SEP) como eje rector, las infancias candidatas para el
+ingreso deben tener entre 10 y 12 años, provenientes de escuelas públicas, es decir
+que se encuentren cursando 5to y 6to año de primaria; su permanencia es
+únicamente de un año, esto significa que en el programa se recibe a niños diferentes
+cada inicio de ciclo, provenientes de dos instituciones en particular: la Escuela
+Primaria Centenario y la Escuela Primaria Constitución que por su cercanía al
+campus CU de la UAQ permite una asistencia permanente en el programa.
+2.4 Habilidades socioemocionales
+El desarrollo de habilidades es primordial dentro del área de educación, según la
+(UNICEF, n.d.) es importante que dentro de la educación se promueva el desarrollo
+de habilidades para la toma de decisiones, habilidades indispensables en la vida,
+considerando aún más a niños y niñas en situaciones vulnerables. A partir del 2017
+en México se empezó hablar sobre el desarrollo de habilidades socioemocionales,
+que, como antecedente de ello en el plan curricular educativo, se contaba con
+asignaturas como Formación Cívica y Ética, estipulados en el Plan de Estudios 2012
+misma que según la (SEP, 2012) correspondía al rubro de Campo de Formación:
+
+9
+
+Desarrollo personal y para la convivencia, la asignatura englobaba la construcción
+de la identidad y se consideraban competencias las emociones.
+En el Modelo Educativo 2017 según (SAPI, 2017)se incorpora el campo formativo
+de Desarrollo Socioemocional dentro del mapa curricular en nivel primaria y
+secundaria, (Fernando Ruiz n.d.) menciona que la propuesta ofrece dos tipos de
+habilidades socioemocionales: las orientadas al autoconocimiento, reconociendo
+sus intereses capacidades y potencialidades; y por otro lado, las enfocadas a
+construir las relaciones sociales, perteneciendo así al segundo componente del
+modelo educativo, mismo que se titula desarrollo personal y social, que según la
+(SAPI, 2017) por primera vez se incorpora este rubro para que niños y jóvenes
+crezcan seguros, libres y felices, los estudiantes podrán aprender e identificar
+sentimientos, resolver conflictos y trabajar en equipo.
+2.5. Objetivos de Desarrollo Sostenible
+La ONU aprobó en el año 2015 los 17 Objetivos de Desarrollo Sostenible (ODS)
+(ONU, 2015), objetivos que han sido trazados para el beneficio de la sociedad y
+sumar esfuerzos para minimizar la pobreza y a su vez reducir las desigualdades,
+además de luchar contra el cambio climático garantizando el que ninguna persona
+se quede atrás, promoviendo la prosperidad. En este sentido dentro de los ODS el
+objetivo cuatro habla en concreto sobre la educación de calidad, cuyos principios
+son conseguir una educación de acuerdo a los lineamientos que se plantean, esto
+trae consigo el mejorar la vida de las personas; la (ONU, 2023) estima que el
+progreso en este rubro era lento antes de la pandemia por COVID 19, el impacto
+que se tuvo posterior a esto se valora devastador pues provocó lagunas en el
+aprendizaje en cuatro de cada cinco países de un total de 104 valorados. Por otro
+lado, la (ONU, 2023) menciona que para cumplir con el objetivo es necesaria la
+financiación de la educación y ésta debe ser la inversión prioritaria, además de
+garantizar que la educación será gratuita y obligatoria.
+Como parte del cumplimiento del objetivo también es necesario el destinar recursos
+humanos que permitan alcanzar metas, es decir, más números de profesores,
+10
+
+mejorar instalaciones e incorporar la digitalización a los procesos de enseñanzaaprendizaje, (Martín-Párraga et al., 2024) menciona que “las TIC pueden ser un
+elemento fortalecedor para su alcance, ya que a través de ellas se pueden ofrecer
+contenidos de calidad e incorporar profesores expertos a los estudiantes que vivan
+en lugares con déficit de maestros” para romper con las barreras educativas
+universales y significativas.
+La acciones propuestas para avanzar respecto a las metas establecidas en el
+objetivo tiene que ver con que los gobiernos centren a la educación como prioridad
+dentro de las políticas públicas, que asuman compromisos firmes para ofrecer
+educación gratuita a todas y todos, pues es este objetivo el que permitirá alcanzar
+algunos otros ODS, suponiendo así que cuando las personas alcanzan educación
+de calidad rompen ciclos de pobreza, ayudan a reducir desigualdades, incluido el
+de género; dentro del objetivo se hace mención que la educación es importante para
+el fomento de la tolerancia y contribuye a sociedades más pacíficas.
+Por otro lado, en los mismos ODS el número 16 que se titula Paz, Justicia e
+Instituciones Sólidas según la (ONU, 2023) se vincula directamente con la meta del
+objetivo cuatro, entendiendo que según (Murillo & Duk, 2017) la educación llevará a
+una sociedad inclusiva, logrando sociedades pacíficas. Entendiendo así que el
+objetivo plantea promover sociedades pacíficas e inclusivas, con acceso a la justicia
+para la población, señala que las personas deben vivir libres de cualquier forma de
+violencia y sentir seguridad no importando su origen étnico, religioso u orientación
+sexual. Durante los últimos años ha incrementado la violencia por ello se propone
+que los gobiernos, sociedad civil y comunidades colaboren para plantear soluciones
+frente a los conflictos, fortalecer el estado de derecho y la promoción de derechos
+humanos para reducción de violencia en todos los niveles.
+Planteando así que “La Paz” es un requisito para el desarrollo social, cuando hay
+ausencia de esta en el entorno se puede hallar conflictos, violencia y una serie de
+aspectos que obstaculizan el progreso tanto social como de recursos. Por otro lado,
+según (Rodríguez, 2018) “la paz no es sólo una paz social e inclusiva sino también
+exige la presencia de un Estado de derecho y el buen gobierno que ofrecen las
+11
+
+instituciones sólidas” para así lograr justicia, resolver disputas y garantizar que la
+población no sea maltratada.
+Por ello se plantea que el punto central de la discusión en torno a los dos ODS 4 y
+16 es lograr una educación que permee a la sociedad de paz y justicia, planteando
+así el desarrollo de habilidades que permitan la disminución de conflictos
+entendiendo que también son ejes rectores de la NEM y MEU-UAQ además de
+programas sociales como el programa UAQ-PERAJ Inspirando futuros.
+2.6 Fundamentación Teórica
+A partir de esta sección se hace una descripción de metodologías para la
+adquisición de competencias en la solución de problemas, entendiendo que es una
+necesidad para el complemento de las ODS, reconociendo que es un compuesto
+del desarrollo de habilidades socioemocionales. Realizando un análisis y recorrido
+sobre la adquisición del aprendizaje y la influencia de las TIC en esta acción, que
+resulte en el desarrollo de habilidades socioemocionales, además de análisis de
+plataformas y/o herramientas virtuales que permitan la adquisición de competencias
+en los niños-usuarios del programa UAQ-PERAJ Inspirando futuros, población
+pensada para la investigación.
+2.7 Estrategias del aprendizaje
+El proceso del aprendizaje es complejo e involucra diversos procesos, (Moretta,
+2016) enmarca que el aprendizaje se caracteriza por varias etapas, menciona
+“ocurre de manera gradual e interconectada; motivación, interés, atención,
+adquisición, comprensión, asimilación, aplicación, transferencia y evaluación” son
+algunas de ellas, (García Retana, 2012) plantea que el proceso de aprendizaje es
+complejo pues es “el resultado de múltiples causas que se articulan en un solo
+producto. Sin embargo, estas causas son fundamentalmente de dos órdenes:
+cognitivo y emocional”, por lo cual dentro de la investigación se considerarán ambos
+aspectos para la comprensión del desarrollo integral del aprendizaje de
+competencias tanto sociales como emocionales.
+
+12
+
+2.8 Desarrollo de habilidades socioemocionales
+El desarrollo de habilidades socioemocionales se da a partir del aprendizaje y el
+desarrollo de éstas debe ser constante. (López, 2020b) menciona que las
+habilidades socioemocionales “se deben desarrollar constantemente para el
+aprendizaje permanente, estrés, autoestima y motivación durante su estancia
+escolar, como la autorregulación y las habilidades se desenvuelven en su vida
+rutinaria”; de acuerdo a estos postulados el no desarrollo de HSE tiene como
+consecuencia entorno hostiles, invadidos de violencia en diferentes medidas.
+(López, 2020a) plantea que “el cambio social hacia la violencia y el bajo desempeño
+del colegio, están ligadas al estudiantado de bajas calificaciones, baja autoestima,
+reprobados y la falta de habilidades socioemocionales”, por ello es importante el
+desarrollo de HSE para que el infante adquiera competencias para la solución de
+conflictos tanto internos como sociales.
+El desarrollo de habilidades socioemocionales, posee características alineadas al
+aprendizaje colaborativo que según (Vargas et al., 2020) “permite enfocarnos en la
+experimentación del estudiante en lo que dominamos equipos de aprendizaje; el
+mismo que influye en el logro de los aprendizajes con sus respectivos factores como
+los cognitivos, procedimentales y actitudinales”.
+Tabla 1
+Similitudes Entre Tipos de Aprendizaje colaborativo y significativo y HSE
+SIMILITUDES ENTRE TIPOS DE APRENDIZAJE Y HABILIDADES SOCIOEMOCIONALES
+CARACTERÍSTICAS
+
+HABILIDADES
+SOCIEMOCIONALES
+(CONAPO, 2023)
+
+Conecta el conocimiento previo
+Significativo
+(European School,
+2020)
+
+!
+
+con el nuevo
+Potencia el interés del alumno
+Utiliza ejemplos
+
+(Modelo de
+
+Fomenta la participación y el
+
+Ausubel)
+
+debate
+
+!
+
+13
+
+Tiene en cuenta el contexto social
+
+!
+
+y cultural
+TIPOS
+
+DE
+Genera una mayor conexión entre
+
+APRENDIZAJE
+
+alumno y profesor
+El proceso de aprendizaje se
+
+!
+
+hace en grupos pequeños.
+
+Colaborativo (UNIR
+REVISTA, 2024)
+
+Reparto de responsabilidades.
+
+!
+
+Participación activa
+
+!
+
+Objetivo en común.
+
+!
+
+Desarrollar habilidades sociales.
+
+!
+
+2.9 Tics en el aprendizaje
+Nos encontramos situados en un momento histórico el cual permite que cualquier
+información que ignoramos se pueda obtener a un clic sin importar en donde
+estemos situados físicamente. (Domènech, 2004) menciona que el usuario busca
+“contenido de calidad, actualización continua, mínimo tiempo de descarga y
+facilidad de uso” respecto a sus búsquedas, lo cual demuestra que el aprendizaje
+se practica desde el momento en que se indaga en cualquier buscador y se rastrea
+el contenido deseado para efectos de conocimiento personal. Por lo tanto, se
+plantea la incorporación de las TICS para el desarrollo y fácil acceso al aprendizaje
+de los temas de interés (Graells, 2013) menciona que “las TIC pueden usarse tanto
+para la búsqueda, consulta y elaboración de información como para relacionarse y
+comunicarse con otras personas (tareas intelectuales y sociales)”.
+2.10 TIC en el desarrollo de habilidades socioemocionales
+Expertos en el tema de HSE mencionan que el desarrollo de estas se da a partir de
+la experiencia. En el (Encuentro Internacional, 2021) se mencionó que es “a través
+de la socialización con pares y adultos significativos, dadas ciertas condiciones de
+dichos contextos de sociabilidad, las personas pueden adquirir grandes beneficios
+14
+
+en su proceso de adquisición de habilidades socioemocionales para la vida en
+sociedad”, sin embargo, considerando acontecimientos mundiales como lo fue la
+pandemia, permiten considerar lo digital como una propuesta dado que (Maira
+Amarilis Ochoa Mendieta et al., 2020) señala que “la tecnología ha alcanzado
+nuevas formas de trabajar, y se sustenta como herramientas que permiten
+solucionar varios inconvenientes”.
+En este punto es importante analizar el concepto de educación 4.0, la cual se
+destaca por señalar la relación entre lo virtual y las formas diversas de aprendizaje
+en relación con las TIC, brinda concepto que puede beneficiar a la investigación.
+Como es mencionado por (Molina Cusme, 2024);
+La educación 4.0 trasciende la pedagogía y la andragogía hacia un enfoque
+que hace una combinación de Heutagogía, Peresagogía y Cibergogía. La
+primera, estimula el autoaprendizaje mediante criterios humanistas y
+principios constructivistas que se centra en el estudiante para que aprenda y
+enseñe, que le permita la autorreflexión, la metacognición y la comprensión
+del proceso. El Segundo hace referencia al aprendizaje colaborativo, todas
+las técnicas de enseñanza están enfocadas al aprendizaje entre pares. El
+tercero, son estrategias de aprendizaje originadas por la TIC, que ofrecen
+experiencias de aprendizaje más allá del tiempo y el espacio (p.p. 9).
+Este concepto según (Novillo Solórzano & Avalos Guijarro, 2024) “promueve un
+enfoque más personalizado y centrado en el estudiante utilizando tecnologías
+emergentes para facilitar el desarrollo de habilidades tanto cognitivas como
+socioemocionales”.
+2.11 Recursos digitales que permiten el desarrollo de la adquisición de
+competencias para la solución de problemas
+A partir de lo expuesto se considera los Entornos Virtuales de Aprendizaje (EVA)
+como alternativa viable en el desarrollo de recursos digitales que permitan alcanzar
+objetivos y competencias en solución de conflictos (Novillo Solórzano & Avalos
+15
+
+Guijarro, 2024) indica que “las conclusiones derivadas de la investigación sobre el
+desarrollo de habilidades socioemocionales a través de las tecnologías de la
+información y comunicación (TIC) revelan una clara tendencia a la integración
+positiva de estas herramientas en entornos virtuales”.
+Anna García, menciona esto sobre los recursos digitales;
+Los recursos digitales ofrecen nuevas oportunidades en los procesos de
+enseñanza y aprendizaje al incorporar la imagen, el sonido y la interactividad
+como elementos que refuerzan la comprensión y motivación de los estudiantes.
+Recursos audiovisuales como el vídeo y televisión digital, los videojuegos y
+procesos de gamificación, la realidad aumentada, los dispositivos móviles, las
+tecnologías interactivas como pizarras digitales, mesas multicontacto, robótica…
+Se pueden convertir en importantes fuentes de información y aprendizaje para
+atender las necesidades de los estudiantes (García-Valcárcel Muñoz-Repiso,
+2016, p.1) .
+Estableciendo así los recursos digitales como alternativa para llevar a cabo
+actividades que permitan el desarrollo de la investigación.
+III.
+
+JUSTIFICACIÓN
+
+Habiendo revisado los postulados internacionales, nacionales y locales es preciso
+revisar el contexto en el que nos encontramos y aquellas áreas de oportunidad que
+se tiene en la educación. Estas áreas se abordan desde distintas vertientes, sin
+embargo, no han sido el centro pues en la mayoría de las ocasiones no son
+cuantificables.
+El desarrollo de habilidades socioemocionales se ha convertido en una meta para
+países en desarrollo, considerando un tema de relevancia y de atención en diversos
+ámbitos sociales. Según (García Cabrero, 2018a) “estas habilidades han sido
+consideradas como igual o más importantes que las habilidades cognitivas para
+desempeñarse exitosamente en los ámbitos académico, personal y profesional”,
+entendiendo así que el término de habilidades socioemocionales
+
+desde la
+16
+
+perspectiva de (Barrientos Fernández, 2016) es “el conjunto de competencia y
+habilidades que aseguraron el manejo y regulación de los estados de ánimo y los
+sentimientos, conllevando a modelar comportamientos emocionales y sociales
+coherentes en el contexto donde se desenvuelven”.
+En este sentido las habilidades socioemocionales permiten la adquisición de
+competencias y su desarrollo permea a las personas para su adaptación a las
+etapas diversas de su entorno, (Barrientos Fernández, 2016) menciona que esta
+adaptación se traduce a “superación de situaciones difíciles de la vida, mejora de
+los procesos de aprendizaje, desempeños eficientes y de calidad, éxito profesional,
+efectividad en la solución de problemas, bienestar psicosocial, armonía en la salud
+mental, física y emocional”; por otro lado (García Cabrero, 2018b) menciona que
+“las competencias son habilidades que nos permiten desempeñar roles de manera
+efectiva, completar tareas complejas o alcanzar objetivos específicos por ejemplo,
+pensamiento crítico, toma de decisiones responsables”.
+El desarrollo de habilidades socioemocionales permite la adquisición de
+competencias, como se menciona en el párrafo anterior, posibilita la toma de
+decisiones responsables y una efectividad en la solución de problemas, concibiendo
+esta competencia, como lo describe (Pupo, 2011) es “aquella que genera un
+proceso mental, en el cual quien aprende combina variedad de elementos,
+conocimientos, destrezas, habilidades, capacidades, reglas y conceptos adquiridos
+de manera previa que admiten dar solución a una situación nueva”.
+Los beneficios son para la sociedad y en favor de la nación, pues se tiene el
+compromiso y misión del cumplimento de los ODS que, a través de la investigación
+se pueden trabajar al menos dos de ellos el ODS4 y ODS16. El primero pretende
+que se procuren las necesidades propias de la educación, según la (ONU, n.d.-a)
+“la educación también es importante para fomentar la tolerancia entre las personas
+y contribuye al desarrollo de sociedades más pacíficas” siendo este postulado el
+que se vincula directamente con el ODS16 entendiéndolo según la (ONU, n.d.-b)
+como “promover sociedades pacíficas e inclusivas (…) que las personas de todo el
+mundo deben vivir libres del miedo a cualquier forma de violencia y sentirse seguras
+17
+
+en su día a día”, primicia que según expertos inicia desde lo individual, desde esa
+posición se evitará caer en una situación de conflicto pues según (Lapponi, 2000)
+se deben “aplicar habilidades que se aprenden desde lo individual para conciliar las
+diferencias que existan con otros”.
+Sin embargo, estos objetivos o al menos el ODS4 se vió afectado por la pandemia
+por el coronavirus SARS-CoV-2, lo cual implica un retraso en el cumplimento de las
+metas trazadas desde la agenda 2030, según (UNESCO, 2020) “la pandemia afectó
+a más de 1600 millones de estudiantes y jóvenes, los alumnos más vulnerables
+fueron los más afectados”.
+
+Este evento mundial permitió vislumbrar que la
+
+población docente y alumnos carecían de conocimientos en el ámbito tecnológico,
+e incluso demostró que compromisos nacionales como el llevar comunicación a
+espacios históricamente olvidados no se han cumplido pues no existieron
+condiciones para llegar a esas zonas de la nación.
+Según (Cuevas Jiménez et al., 2022) “el servicio social en México es una actividad
+de inserción práctica, legalmente establecida como requisito obligatorio para
+obtener la titulación en un grado profesional”, durante la pandemia el servicio social
+fue una de las actividades que incorporó un formato virtual, sin dejar de lado la
+naturaleza de este que es el bien común.
+El programa UAQ-PERAJ inspirando futuros fue uno de los servicios sociales que
+atendió a niños y niñas a distancia con ayuda de plataformas digitales, con el fin de
+no dejar de lado la labor social, adaptando así al programa a espacios virtuales.
+Entendiendo así que la incorporación de herramientas virtuales es necesaria para
+el avance en diversas situaciones adversas o no, para contribuir al desarrollo y
+alcanzar metas comprometidas y a su vez dotar de herramientas a los usuarios
+estudiantes universitarios y niños-usuarios que participan en el programa UAQPERAJ Inspirando Futuros para su formación individual y participación social.
+
+18
+
+IV.
+
+DESCRIPCIÓN DEL PROBLEMA
+
+La sociedad está inmersa en un sinfín de hechos violentos, la (ONU, n.d.-c) indica
+que “Los homicidios son cada vez más frecuentes en algunas partes del mundo, y
+también está aumentando el número de ataques por razón de género”, en México
+según (Europa Press, 2024) “a la semana se registran en promedio entre 450 y 500
+víctimas de homicidio doloso en el país, un promedio de 71 diarias”, se vive en un
+entorno lleno de violencia en distintos niveles, en el año 2006 se configuro la etapa
+que llevo por nombre guerra contra el narco, periodo en el que según (Ortega Ortiz
+et al., 2015)“será recordado como el más violento de los últimos cincuenta años”,
+hechos violentos que afectan a todos sin importar edad.
+Hoy en día en el estado de Querétaro la violencia va en crecimiento, pese a ser uno
+de los estados de la República Mexicana con un índice menor de percepción de
+violencia, en semanas recientes el periódico el financiero indica que ha habido un
+incremento de violencia en el estado. (Luciano Vázquez, 2024) menciona que “del
+1 de octubre de 2024 hasta la fecha, (noviembre 10) se contabilizan al menos 23
+personas que fueron asesinadas en diferentes ataques perpetrados por
+delincuentes” postulando así que la paz se aleja del Estado de Querétaro dando
+paso a la violencia dentro de la vida cotidiana de los que habitan el Estado.
+Estas acciones de violencia son un reflejo de lo que hay en la sociedad a nivel
+mundial, nacional y municipal, misma violencia que se reproduce en muchos
+ámbitos de la vida cotidiana, un ejemplo de ello son los ambientes escolares donde
+el ejercicio de violencia está presente dentro de sus espacios educativos, la página
+de Gobierno de México (Justicia Cotidiana, 2016) menciona que “en México, la
+violencia en las escuelas es cada vez más grave y se encuentra en ascenso, por lo
+que se ha convertido en un tema de interés nacional”, violencia como el acoso
+escolar, bullying, exclusión social son de las principales formas de violencia que se
+ejercen en estos espacios.
+Destacando las formas de violencia en ambientes escolares (Justicia Cotidiana,
+2016) indica que “deriva de un entorno que acepta y legitima las conductas debido
+19
+
+a la cultura arraigada de agresiones que se tiene en la sociedad, aunado a la falta
+de cultura de respeto a los derechos humanos de las niñas, niños”, según el (INEGI,
+2023) el 18% de niños y niñas encuestadas entre 9 y 11 años “sufrió por parte una
+compañera o compañeros de la escuela, burlas o le pusieron apodos que no le
+gustaron o le ofendieron” es decir 1 niño de cada 6 es violentado en el espacio
+educativo.
+Tan solo en 2022 según (REDIM, 2023);
+De las 11.7 millones de personas de 12 a 17 años que asistían a la escuela
+en México durante 2022, 28% comunicaron haber sido víctimas de acoso
+escolar en los últimos 12 meses, elevando a 3.3 millones de estudiantes
+adolescentes la cantidad de víctimas de esta forma de violencia en el país.
+El año 2020 el mundo atravesó una pandemia por el coronavirus SARS-CoV-2,
+evento que transformó y aceleró el traslado de la educación a lo virtual,
+diversificando así el área educativa, se efectuaron clases virtuales según (López
+Maldonado et al., 2021) “los estudiantes utilizaban estas herramientas
+principalmente para la entrega de tareas, y únicamente 15% de los estudiantes
+habían llevado un curso de manera virtual”.
+Sin embargo, la sociedad no solo ha utilizado la virtualidad de forma positiva sino
+también de forma negativa, tal es el caso del ciberbullying el cual, a partir de la
+pandemia tuvo un incremento considerable:
+(Mónica Fidelis Pérez de Tudela, 2022) sostiene que;
+Los tipos de agresión más frecuentes son los insultos, motes o burlas (un
+86,3%), seguido de la difusión de rumores, que ha aumentado
+significativamente en 2020-2021 pasando de un 11%, en 2018-2019, a un
+46,9% en 2020-2021. Cabe destacar así mismo el aumento de violencias
+relacionadas directamente con el ciberbullying, como el acoso en redes
+sociales, que ha pasado de un 0,2% a un 22,6% y hacer fotos y vídeos,
+categoría que antes no se reflejada y que entra en la lista con un 15,4%.
+20
+
+Situación que es alarmante debido al uso indebido de espacios virtuales, que
+permiten la violencia en cualquier espacio tanto físico como virtual.
+El programa UAQ-PERAJ Inspirando futuros en su afán por resolver problemáticas
+formula dentro de las áreas de desarrollo el apoyo para impulsar habilidades tanto
+cognitivas como sociales, según el informe anual entregado por la Coordinación de
+Proyectos Formativos, ahora Coordinación de Planeación Estratégica, a partir del
+año 2018 se realiza una encuesta de entrada que permite evaluar la llegada de las
+infancias y asi detectar necesidades grupales e individuales, en la generación 20182019 se recibieron a 17 infantes, de los cuales aproximadamente el 70% se
+encontraban en entornos familiares disfuncionales y aproximadamente el 80%
+ingresó con problemas de comunicación.
+Para
+
+la
+
+generación
+
+2019-2020
+
+ingresaron
+
+18
+
+infantes,
+
+de
+
+los
+
+cuales
+
+aproximadamente el 80% carecían de habilidades sociales, aproximadamente el
+50% presentaban cero tolerancia a la frustración y un 30% reflejó baja autoestima,
+además de que se detectó un déficit de conocimientos escolares en
+aproximadamente el 40% de los participantes. La generación se vio afectada por la
+pandemia culminando actividades de forma virtual, lo que permitió evaluar el
+conocimiento de uso en herramientas digitales.
+En ambas generaciones las evaluaciones de desempeño de los infantes arrojaron
+que el programa permitió el desarrollo de competencias en cuanto a la toma de
+decisiones, comunicación efectiva, liderazgo, trabajo en equipo, organización y
+establece una dinámica de trabajo con enfoque colaborativo, fortaleciendo en los
+niños actitudes de compromiso y responsabilidad.
+Las generaciones 2020-2021, 2021-2022 y 2022-2023 llevaron a cabo el programa
+de forma virtual, teniendo una participación de 143 niños en los tres años, utilizando
+herramientas virtuales que permitieron llevar a cabo las actividades, sin dejar de
+lado las áreas de desarrollo (afectiva, social, cultural, escolar, motivacional,
+comunicación) y debido a la dinámica establecida se declara sin información
+estadística.
+21
+
+Para la generación 2023-2024 se tuvo la participación de 25 niños, y se retomó el
+formato presencial, mismo que permitió realizar encuestas de entrada similar a lo
+realizado antes de pandemia, se incorporó la entrevista con papás previo al ingreso
+de los infantes, al igual que con las docentes de los infantes. El diagnóstico inicial
+indicó que aproximadamente el 80% de los infantes carecían de habilidades
+sociales y de comunicación, un 20% de los infantes carecían de tolerancia a la
+frustración y la mitad de ese 20% se encontraban educados bajo el esquema de la
+crianza respetuosa mal empleada según (Jennifer Alejandra Manzo Velásquez &
+Estefani Juliza Cordón Melchor, 2024) indican que la crianza respetuosa “se define
+como una forma de vida y se fundamenta en los principios de amor incondicional,
+empatía, igualdad y respeto por los niños”
+Al finalizar la generación del año 2023- 2024 se detectó, a partir de la observación,
+que al menos la mitad del 20% que carecían de tolerancia a la frustración ya
+toleraban situaciones que a su llegada era impensables, y el 10% de los infantes
+que estaban educados con la crianza respetuosa desarrollaron toma de decisiones
+por sí solos, además se visualizó un cambio en el 80% de infantes pues lograron
+comunicarse mejor. Los progresos se lograron a partir de la aplicación de técnicas
+de juego y dinámicas uno a uno establecidas en el programa.
+En la generación actual 2024-2025 se tiene la participación de 12 usuarios, de los
+aproximadamente el 17% tienen cero tolerancia a la frustración, 25% carecen de
+habilidades de comunicación y en esta generación se detecta por primera vez que
+aproximadamente el 75% ingresa al programa por problemas de conducta, al menos
+ese porcentaje manifiestan abandono de parte de sus padres y aproximadamente
+el 35% manifiesta ejercicio de violencia en sus hogares tanto física como
+psicológica.
+Los datos presentados se basan en las entrevistas realizadas a padres y docentes
+de los infantes a partir de la entrevista semiestructurada (anexo 1), además de
+pláticas informales con los infantes.
+
+22
+
+V.
+
+COMITÉ DE BIOÉTICA
+
+Según (Molina-Ricaurte, 2022) “Los comités de bioética apoyan las instancias
+sociales y gubernamentales que se encargan de la toma de decisiones en
+cuestiones relacionadas con el desarrollo de las nuevas tecnologías sobre la vida”,
+teniendo en consideración la privacidad y anonimato de los participantes de la
+investigación, se considera aún más hacer énfasis en esto debido a que la población
+de la investigación son niños menores de edad, lo cual compromete a cumplir con
+las reglas que el comité de bioética indica.
+Otros de los participantes en la investigación son alumnos universitarios, a los que
+se les hará entrega de un conocimiento informado sobre su participación, además
+de los procesos en los que se verán involucrados y tiempos en que se pedirá su
+colaboración (anexo 2, 3 y 4).
+En la fase de implementación de recursos virtuales se indicará de forma clara y
+precisa para cumplir con el criterio de mantener al grupo participante ordenado,
+conservando un grupo control, respetuoso de los procesos y de sus compañeros,
+en caso de que las actividades requieran del trabajo en grupo.
+Por otro lado, es probable que se requiera de la colaboración de papás y/o tutores
+de los niños participantes dentro del programa de servicio social UAQ-PERAJ
+Inspirando Futuros, se les comunicará la forma de participación con indicaciones
+claras y preservando un ambiente y espacio de respeto ante cualquier comentario
+idea u opinión.
+VI.
+
+PLANTEAMIENTO TEÓRICO
+
+6.1 Hipótesis
+● Sí las infancias participantes en el programa UAQ-PERAJ Inspirando Futuros
+aprenden a desarrollar habilidades socioemocionales a través del
+aprendizaje significativo y colaborativo, podrán solucionar conflictos.
+
+23
+
+6.2 Supuesto
+● El aprender a desarrollar habilidades socioemocionales podría ayudar a
+solucionar conflictos en infancias participantes en el programa UAQ-PERAJ
+VII.
+
+OBJETIVOS
+
+7.1 Objetivo general
+● Implementar un modelo de resolución de conflictos en infancias del programa
+UAQ-PERAJ a través del desarrollo y/o fortalecimiento de habilidades
+socioemocionales con recursos digitales, estrategias de comunicación y
+aprendizaje colaborativo.
+7.2 Objetivos específico
+1. Identificar por medio de un diagnóstico las habilidades socioemocionales
+que poseen los niños del programa UAQ-PERAJ Inspirando Futuros.
+2. Identificar las técnicas didáctico-pedagógicas de la comunicación y
+aprendizaje colaborativo para el diseño del modelo de recursos digitales
+para fortalecer las habilidades socioemocionales.
+3. Implementar y evaluar el modelo de recursos digitales para fortalecer las
+habilidades socioemocionales en las infancias del programa UAQ-PERAJ
+Inspirando Futuros.
+VIII.
+
+METODOLOGÍA
+
+8.1 Tipo de investigación
+La investigación se basa en el modelo de metodología mixta, con intención de hacer
+una exploración entre los conocimientos que poseen los usuarios (niños) del
+programa UAQ-PERAJ Inspirando Futuros respecto a conocimientos sobre solución
+de conflictos, lo cual llevará a producir datos descriptivos que permitan comprender
+la situación actual de los infantes.
+
+24
+
+El planteamiento según (de Benito Crosetti & Ibáñez, 2016) la IBD “pretende estudiar
+la propia actividad educativa con la intención de mejorarla” por medio del diseño de
+actividades didácticas, mimas que permitirán según (Coicaud, 2021) “niveles
+importantes de comprensión y mejora de los procesos educativos en ambientes
+complejos a partir de un trabajo iterativo de análisis, diseño, desarrollo e
+implementación”, por lo que la IBD permitirá también el reorientar la implementación
+de técnicas e instrumentos en caso de ser necesario. Desde el planteamiento de
+(Weiss et al., 2019) menciona que “va más allá de la mejora de las prácticas
+educativas, también hace hincapié en la rigurosidad que supone la experimentación
+y repetición de un diseño” en la práctica de la enseñanza.
+Figura 1 Metodología en Investigación Basada en Diseño
+
+8.2 Población
+Para llevar a cabo la investigación será necesario la vinculación con el programa de
+servicio social UAQ-PERAJ Inspirando Futuros en el cual participan niños y niñas
+de entre 10 y 12 años que según (PERAJ México, n.d.) provienen de escuelas
+públicas y se encuentran en situaciones desfavorecidas, la cantidad de niños
+participantes tiene relación directa con la cantidad de alumnos prestadores de
+servicio social debido a que es equivalente el número en ambas poblaciones (niños
+y alumnos universitarios prestadores de servicio social), por lo que a partir de esto
+se determinará la muestra. El acercamiento será de forma presencial los días en
+que se lleva a cabo la ejecución del programa.
+8.3 Técnicas e instrumentos
+Para conocer las habilidades socioemocionales que poseen los niños se realizará
+un diagnóstico que, y al tratarse de la IBD, se hará uso de técnicas como
+25
+
+cuestionarios,
+
+estudio
+
+de
+
+caso,
+
+observación
+
+participante,
+
+entrevista
+
+semiestructurada o estructurada, técnicas apropiadas al tipo de investigación que
+según (Coicaud, 2021) “la observación, el análisis documental, los registros
+narrativos, las entrevistas en profundidad (…) el registro de autopercepción y de
+intercambios comunicativos son algunos de los procedimientos y técnicas de
+colección y análisis que pueden utilizarse”.
+8.4 Cronograma
+AÑO
+ACTIVIDAD/MES
+
+2024
+A
+
+S
+
+O
+
+2025
+N
+
+D
+
+E
+
+F
+
+M
+
+A
+
+M
+
+J
+
+J
+
+2026
+A
+
+S
+
+O
+
+N
+
+D
+
+E
+
+F
+
+M
+
+Diseño de protocolo
+Diagnóstico sobre la HSE
+Análisis de Dx
+Diseño del modelo
+Ponencia en congreso
+Primera iteración
+Resultados de la primera iteración
+Ajustes del modelo
+Publicación de artículo científico
+Segunda iteración
+Resultados de segunda iteración
+Ajustes del modelo
+Tercera iteración
+Resultados de tercera iteración
+Estructuración de tesis
+Revisión teórica y metodológica
+
+26
+
+A
+
+M
+
+J
+
+J
+
+IX.
+
+RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO
+DEL PROYECTO
+
+Tabla 2 Productos
+ACTIVIDAD/ACCIÓN
+●
+
+Diagnósticos de entrevista semi dirigida y encuesta
+
+●
+
+Diseño del modelo
+
+●
+
+Análisis comparativo del Dx y la primera iteración
+
+●
+
+Rediseño del modelo
+
+●
+
+Análisis comparativo de la primera y segunda iteración
+
+●
+
+Rediseño del modelo
+
+●
+
+Análisis comparativo entre segunda y tercera iteración
+
+●
+
+Análisis comparativo entre Dx y las iteraciones.
+
+●
+
+Artículo de congreso
+
+●
+
+Artículo de revista
+
+●
+
+Documento de tesis
+
+X.
+
+INDICE TENTATIVO
+
+Dedicatorias.
+Agradecimientos.
+Índice.
+Índice de Figuras
+Índice de Tablas
+Abreviaturas y siglas
+Resumen en español
+Abstract.
+I. Introducción
+II. Antecedentes.
+III. Justificación
+IV. Descripción del problema
+V. Planteamiento teórico.
+27
+
+VI. Objetivos.
+VII. Metodología
+VIII. Resultados y discusión
+IX. Conclusiones.
+X.
+
+Bibliografía.
+
+XI. Anexos
+XI.
+
+REFERENCIAS
+
+Acompañandote en el proceso de la NEM. (2019). La nueva escuela mexicana.
+Amnistía Internacional. (n.d.). Derechos Humanos de la Infancia .
+Barba Casillas, J. B. (2019). La construcción del derecho a la educación en México.
+Perfiles Educativos, 41(166).
+https://doi.org/10.22201/iisue.24486167e.2019.166.58948
+Barrientos Fernández, A. (2016). Habilidades sociales y emocionales del profesorado
+de educación infantil relacionadas con la gestión del clima de aula.
+Batlle, R. (2018). Guía práctica de aprendizaje-servicio. Proyecto Social, 4–34.
+Cámara de Diputados Servicio de Investigación y Análisis. (2000). V. EVOLUCION
+JURIDICA DEL ARTICULO 3 CONSTITUCIONAL EN RELACION A LA
+GRATUIDAD DE LA EDUCACION SUPERIOR.
+Coicaud, S. (2021). La Investigación Basada en Diseño para propuestas de formación
+virtual. Locus Digital, 2(1).
+CONAPO. (2022, April 29). Día de la niña y el niño.
+CONAPO. (2023, September 26). Habilidades Socioemocionales ¿Cómo fomentarlas
+en el aula?
+Const. (2024). CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+Cuevas Jiménez, A., Covarrubias Terán, M. A., & Rodríguez Peralta, K. L. (2022). La
+educación a padres y el servicio social en México durante la pandemia de COVID19. Revista Estudios Del Desarrollo Social: Cuba y América Latina, 10(2).
+de Benito Crosetti, B., & Ibáñez, J. M. S. (2016). La investigación basada en diseño en
+Tecnología Educativa. RIITE Revista Interuniversitaria de Investigación En
+Tecnología Educativa.
+Domènech, L. (2004). El mundo en un clic: usabilidad y accesibilidad en la Web.
+Encuentro Internacional. (2021, October 2). Cómo se desarrollan habilidades
+socioemocionales en el sistema educativo formal.
+Europa Press. (2024, October 27). Violencia en México no cede: Reportan 389
+asesinatos en los cinco últimos días.
+European School. (2020, August 5). Características del aprendizaje significativo y
+ejemplos.
+Fernando Ruiz Ruiz. (n.d.). La educación socioemocional en México. 1–9.
+García Cabrero, B. (2018a). Socio-emotional, non-cognitive or “soft” skills:
+approximations to their evaluation. Revista Digital Universitaria, 19(6).
+https://doi.org/10.22201/codeic.16076079e.2018.v19n6.a5
+28
+
+García Cabrero, B. (2018b). Socio-emotional, non-cognitive or “soft” skills:
+approximations to their evaluation. Revista Digital Universitaria, 19(6).
+https://doi.org/10.22201/codeic.16076079e.2018.v19n6.a5
+García Retana, J. Á. (2012). La educación emocional, su importancia en el proceso de
+aprendizaje. Revista Educación, 36(1). https://doi.org/10.15517/revedu.v36i1.455
+García-Valcárcel Muñoz-Repiso, A. (2016). Recursos digitales para la mejora de la
+enseñanza y el aprendizaje.
+Graells, P. R. M. (2013). Impacto de las TIC en la educación: funciones y limitaciones.
+3 c TIC: Cuadernos de Desarrollo Aplicados a Las TIC, 2(1), 2.
+INEGI. (2023, June 26). Encuesta Nacional sobre Discriminación 2022.
+Jennifer Alejandra Manzo Velásquez, & Estefani Juliza Cordón Melchor. (2024). La
+crianza respetuosa como forma de ejercer la paternidad. Universidad de San
+Carlos de Guatemala.
+Justicia Cotidiana. (2016, February 16). Violencia en las escuelas.
+Lapponi, S. F. (2000). Resolución de conflictos en la escuela: una herramienta para la
+cultura de paz y la convivencia. Contextos Educativos: Revista de Educación, 3,
+91–106.
+López, M. G. (2020a). Estrategias didácticas para el desarrollo de habilidades
+socioemocionales en educación primaria. Gestión I+ D, 5(3), 134–156.
+López, M. G. (2020b). Habilidades para desarrollar la lectoescritura en los niños de
+educación primaria. Revista Estudios En Educación, 3(4), 45–68.
+López Maldonado, N. E., Rossetti López, S. R., Rojas Rodríguez, I. S., & Coronado
+García, M. A. (2021). Herramientas digitales en tiempos de covid-19: percepción
+de docentes de educación superior en México. RIDE Revista Iberoamericana Para
+La Investigación y El Desarrollo Educativo, 12(23).
+https://doi.org/10.23913/ride.v12i23.1108
+López Ocampo, N. A., Álzate López, L. F., Echeverri Llano, M., & Domínguez Roja, A.
+L. (2021). Práctica pedagógica y motivación desde el aprendizaje situado. Tesis
+Psicológica, 16(1), 1–29. https://doi.org/10.37511/tesis.v16n1a9
+Luciano Vázquez. (2024, November 10). Querétaro se aleja de la paz: Incrementa la
+ola de violencia en los últimos dos meses.
+Maira Amarilis Ochoa Mendieta, Gladys Verónica Ronquillo Murrieta, & Evelin Roxana
+Alvarado Pazmiño. (2020). LA TECNOLOGÍA EN LA EDUCACIÓN DEL SIGLO
+XXI. MAGAZINE DE LAS CIENCIAS , 5, 324–336.
+María Caridad Araujo. (2016, December 23). ¿Cómo influye la pobreza en la crianza?
+Martín-Párraga, L., Llorente-Cejudo, C., & Cabero-Almenara, J. (2024). Las TIC como
+espacio de progreso hacia el Objetivo de Desarrollo Sostenible 4 (ODS4). Revista
+Lusófona de Educação, 61, 75–88. https://doi.org/10.24140/issn.16457250.rle61.05
+Molina Cusme, J. J. (2024). Análisis del mundo virtual con relación a la Educación 4.0.
+Revista Ingenio Global, 3(1), 29–45. https://doi.org/10.62943/rig.v3n1.2024.73
+Molina-Ricaurte, C. J. (2022). Los comités de bioética. Aspectos de interés en la
+relación entre bioética y derecho. Revista Latinoamericana de Bioética, 22(1), 11–
+28.
+Mónica Fidelis Pérez de Tudela. (2022, March 15). El ciberbullying ha crecido con la
+pandemia.
+29
+
+Moretta, P. Y. (2016). El proceso de aprendizaje: fases y elementos fundamentales.
+Revista San Gregorio, 11, 70–81.
+Murillo, F. J., & Duk, C. (2017). El ODS 4 (y el 16) como meta para los próximos años.
+Revista Latinoamericana de Educación Inclusiva, 11(2), 11–13.
+Novillo Solórzano, V. E., & Avalos Guijarro, A. de L. Á. (2024). Desarrollo de
+Habilidades Socioemocionales a través de las TIC. Dominio de Las Ciencias,
+10(3), 281–391. https://doi.org/10.23857/dc.v10i3.3929
+ONU. (n.d.-a). Objetivo 4: Garantizar una educación inclusiva, equitativa y de calidad y
+promover oportunidades de aprendizaje durante toda la vida para todos.
+ONU. (n.d.-b). Objetivo 16: Promover sociedades justas, pacíficas e inclusivas.
+ONU. (n.d.-c). Una nueva era de conflictos y violencia.
+ONU. (2015, September 25). Objetivos de Desarrollo Sostenible . ODS.
+ONU. (2023). Informe de los Objetivos de Desarrollo Sostenible.
+Ortega Ortiz, R. Y., Ventura, S., & Fernanda, M. (2015). El periodo presidencial de
+Felipe Calderón Hinojosa. Foro Internacional, 55(1), 5–15.
+PERAJ México. (n.d.). PERAJ Inspirando Futuros .
+Pupo, A. J. I. (2011). Desarrollo de la competencia resolución de problemas desde una
+didáctica con enfoque metacognitivo. Zona Próxima: Revista Del Instituto de
+Estudios Superiores En Educación, 15, 2–21.
+REDIM. (2023, June 1). Acoso escolar de adolescentes en México.
+Rodríguez, J. J. F. (2018). ODS 16: paz, justicia e instituciones fuertes. Bie3: Boletín
+IEEE, 11, 970–1001.
+SAPI. (2017). MODELO EDUCATIVO 2017.
+SEP. (2012). PLAN DE ESTUDIOS 2011 Educación básica.
+SEP. (2022, August 28). Boletín SEP no 206 Más de 29 millones de alumnos de
+educación básica, media superior y normales inician Ciclo Escolar 2022-2023:
+SEP.
+SEP. (2023). La Nueva Escuela Mexicana (NEM): orientaciones para padres y
+comunidad en general (Primera edición).
+Subsecretaría de Educación Básica. (2019). Modelo educativo: nueva escuela
+mexicana. Recuperado de Https://Bit. Ly/2QSuVPu.
+UAQ. (2017). Modelo Educativo Universitario.
+UAQ. (2023). Modelo Educativo Universitario .
+UNESCO. (2020). Educación: del cierre de la escuela provocado por la COVID-19 a la
+recuperación.
+UNICEF. (n.d.). Desarrollo de habilidades.
+UNICEF. (2018, December 4). UNICEF presenta análisis sobre la situación de la
+infancia en México, avances y retos para la garantía de sus derechos.
+UNIR REVISTA. (2024, May 23). ¿Qué es el aprendizaje colaborativo y en qué se
+diferencia del cooperativo?
+Vargas, K., Yana, M., Perez, K., Chura, W., & Alanoca, R. (2020). Aprendizaje
+colaborativo: una estrategia que humaniza la educación. Revista Innova
+Educación, 2(2), 363–379. https://doi.org/10.35622/j.rie.2020.02.009
+Weiss, A. C. S., Lorca, A. P., & Espinoza, M. Q. (2019). Investigación basada en
+diseño para la mejora sostenida del aprendizaje auténtico. REGIES: Revista de
+Gestión de La Innovación, 4(1), 7–33.
+30
+
+XII.
+
+ANEXOS
+
+11.1 Entrevista semi dirigida.
+
+31
+
+11.2 Formato de registro de las infancias
+
+32
+
+11.3 Formato de carta responsiva
+
+33
+
+34
+
+11.4 Formato de uso de imagen
+
+35
+
+

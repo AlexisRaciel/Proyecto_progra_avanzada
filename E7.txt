@@ -1,0 +1,987 @@
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Fecha de Ingreso al programa: 10 de enero 2022
+I. DATOS GENERALES
+•
+
+Título del proyecto: Metodología para el diseño de WebQuests que integren las habilidades de la
+lengua para el aprendizaje autónomo de inglés.
+•
+
+Nombre del alumno responsable
+
+Mariana Mendoza Sánchez
+•
+
+Colaboradores (Director y/o Co-director)
+
+Director M.I.D.S. Carlos Alberto Olmos Trejo
+Co-directora M.E.A.E. Nimbe Gallegos Estrada
+•
+
+Centro o lugar donde se realiza investigación
+
+Facultad de Economía de la Universidad Autónoma del Estado de México.
+•
+
+Tipo de investigación básica, aplicada o tecnológica (diseño, construcción de
+prototipo o prueba experimental).
+
+Diseño de metodología.
+•
+
+Línea de investigación sobre la cual se desarrollará el trabajo
+
+Enseñanza de lenguas extranjeras.
+
+2
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+II. ANTECEDENTES Y/O FUNDAMENTACIÓN TEÓRICA
+1. Tecnologías del Aprendizaje y el Conocimiento en la enseñanza de
+lenguas y Technology-Enhanced Language Learning (TELL)
+La educación tradicional ha sufrido transformaciones evidentes debido a la
+sociedad de la información y la comunicación, ya que el conocimiento se puede
+producir y fomentar en ambientes virtuales y semipresenciales permitiendo la
+construcción de modelos más amplios y atractivos que cumplan con las
+expectativas académicas y sociales de los estudiantes. (Pérez Zúñiga et al.,
+2018)
+Zúñiga et al. (2018), mencionan que, desde hace tiempo, los libros de texto han
+sido el material utilizado para llevar a la enseñanza del inglés, y poco a poco se
+han integrado materiales complementarios y las nuevas tecnologías, sin embargo,
+González Otero (2016, citado en Rico, 2017) advierte que el uso excesivo de los
+libros de texto no permite que los procesos de enseñanza-aprendizaje de la
+lengua se centren en el estudiante, más bien, se terminan centrando en el
+profesor.
+A su vez, Rico (2017) considera que el desarrollo autónomo del aprendizaje es
+algo que se queda en el olvido en las clases de inglés debido a que los libros de
+texto se enfocan mayormente en la enseñanza de la gramática y el vocabulario,
+dejando de lado otras habilidades esenciales como lo son la comprensión, la
+producción oral, la pronunciación y la fluidez.
+Rico (2017) también menciona que a través de estudios tales como los de
+Warschauer (1996, citado en Rico, 2017), se ha demostrado que las nuevas
+tecnologías, crean mayores aspiraciones, son de apoyo para aprender más y de
+forma independiente y permiten a los estudiantes reconocer la evolución de su
+propio aprendizaje dando como resultado la motivación.
+
+3
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Rico (2017) reconoce también que la inclusión de tecnologías en la enseñanza de
+lenguas permite construir el conocimiento a través de recursos variados que sirven
+de medio para aprender a analizar de manera crítica, tomar conciencia del valor
+de la información y filtrarla para los fines que se requieran.
+Por su parte, Trujillo Sáez et al., (2019) hacen un análisis histórico del uso de
+tecnología para el aprendizaje de lenguas y refieren a las ventajas de la inclusión
+de esta para el aprendizaje, sin embargo, concluyen que la integración de estos
+medios debe llevar un análisis crítico, pedagógico y un fundamento científico
+previo a su aplicación, lo anterior debido a la gran variedad de recursos
+disponibles.
+Es en este marco es entonces importante reconocer la transformación del
+concepto de las Tecnologías de la Información y la Comunicación (TIC) al de las
+Tecnologías del Aprendizaje al Conocimiento (TAC), que, tal como refiere Lozano
+(2011), orientan las tecnologías hacía un uso formativo tanto para estudiantes
+como para docentes. De esta manera, la tecnología se integra en los métodos
+pedagógicos explotándola para sus posibles usos en el aprendizaje y la
+enseñanza.
+Aunado a esto, se puede también señalar la relación entre el aprendizaje de
+lenguas asistido por computadora (Computer Assisted Language Learning, CALL)
+y el aprendizaje de lenguas potenciado por la tecnología (Technology-Enhanced
+Language Learning, TELL), ambos conceptos que refieren de distintas maneras al
+uso de la tecnología con propósitos de enseñanza-aprendizaje de las lenguas.
+El primero de estos enfoques, CALL, considerado por Ratnaningsih et al. (2019)
+como un medio de fácil acceso, difusión y almacenamiento que dirige el uso de las
+aplicaciones de la computadora para el aprendizaje de la lengua y el segundo,
+TELL, según Ghanizadeh y Jahedizadeh (2015) refiere al mejoramiento del
+aprendizaje de la lengua a través del uso de la tecnología en distintos contextos,
+
+4
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+reconociendo varios aspectos que se ven impactados de manera positiva en la
+enseñanza de la lengua.
+Ghanizadeh y Jahedizadeh (2015) reconocen que el uso de los recursos
+tecnológicos disponibles en internet cubre la necesidad de implementar materiales
+variados y entendibles en la enseñanza del inglés. Así mismo estos recursos
+proporcionan el acceso y la exposición a materiales lingüísticos y culturales que
+enriquecen el aprendizaje y permiten a los estudiantes, por un lado, acceder a
+componentes auténticos en los cuales se pueden ver reflejados los cambios
+culturales de manera más efectiva que en los recursos impresos tradicionales y
+por otro, a través de un sinfín de recursos, se proporcionan oportunidades para
+comunicarse de maneras efectivas y auténticas en la lengua meta.
+2. La WebQuest y su uso para el aprendizaje autónomo de Lenguas
+Extranjeras
+El creador de la WebQuest Dodge, (1997, como se citó en Shutenko, 2019) define
+la WebQuest como una actividad auténtica que proporciona una versión en menor
+escala de situaciones cercanas a la vida real.
+De acuerdo con Dodge (2002, citado en Méndez, 2020), la WebQuest consiste en
+actividades secuenciadas que están orientadas a la investigación en la red y
+constan de una tarea final en la que el alumno debe resolver un problema a través
+de los conocimientos que adquirirá en las actividades previas a la final.
+Hernández (2008) y Pérez (2006) en sus aportes de WebQuests aplicadas para el
+aprendizaje
+
+del
+
+español
+
+y
+
+el
+
+inglés
+
+como
+
+lenguas
+
+extranjeras
+
+correspondientemente, consideran la WebQuest como una metodología didáctica
+basada en el constructivismo, el aprendizaje significativo y cooperativo que
+permite la aplicación de las tecnologías de la información y la comunicación, en
+este caso, específicamente de internet.
+
+5
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Así mismo, Hernández (2008) y Pérez (2006) reconocen también que las
+actividades desarrolladas en la WebQuest permiten que el estudiante construya su
+propio conocimiento a través de la investigación y la transformación de la
+información, todo lo anterior, haciendo uso de recursos auténticos de la web, que
+con ayuda de un sistema de andamiaje adecuado, diseñado previamente por el
+docente, permite elaborar distintas tareas en un contexto relevante.
+De acuerdo con Baguzina (2020), el desarrollo de las tareas de la WebQuest debe
+impulsar los procesos cognitivos de orden superior, el pensamiento crítico,
+creativo, el análisis, la solución de problemas, la síntesis, etc., incorporando
+actividades que requieran más que encontrar respuestas cortas a preguntas
+sencillas.
+Este proceso conlleva la participación activa individual y colaborativa de los
+estudiantes dado que está centrado en ellos y en su proceso de aprendizaje. De
+este modo se establece la construcción del conocimiento a través de las
+relaciones mentales que se crean entre cierta información del mundo real, la
+observación, la comparación, el análisis y la experimentación.
+Hernández (2007) por su parte, indica que los planteamientos de la WebQuest se
+relacionan naturalmente con el aprendizaje cooperativo, el aprendizaje centrado
+en el alumno y el enfoque de enseñanza basado en tareas, dichos enfoques
+permiten que la enseñanza de la lengua extranjera se dé desde un modelo
+coherente, sencillo y de fácil acceso, que se centra en el uso de la información
+más que en su búsqueda.
+En palabras de Méndez (2020), el diseño de la WebQuest ha logrado superar los
+problemas que se reconocen a la hora de integrar la búsqueda de información en
+internet en las aulas de enseñanza de lenguas. Esto se debe a que, en la
+WebQuest, el docente selecciona cuidadosamente los recursos web con los que
+los estudiantes interactuarán en cada tarea, permitiendo, por un lado, que los
+
+6
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+recursos sean confiables y por otro, que los estudiantes empleen su tiempo de
+forma eficaz.
+Méndez (2020) proporciona en su investigación, ciertas ventajas que presentan las
+WebQuests frente a otros recursos web, dichas afirmaciones se enlistan a
+continuación:
+1. Incentivan la construcción del propio conocimiento con instrumentos de fácil
+manejo y acceso.
+2. Fomentan el trabajo cooperativo y las aplicaciones prácticas del
+conocimiento.
+3. Ayudan a que los alumnos se apropien de la información, la interpreten y la
+exploten.
+4. Impulsan tareas de investigación, análisis, diseño y producción creativa.
+5. Desarrollan diferentes tipos de competencias.
+6. Fortalecen las capacidades intelectuales y de producción.
+7. Propician las estrategias de resolución de problemas y la actitud crítica.
+8. Proporcionan un sistema de evaluación objetivo y continuo más allá de los
+métodos tradicionales. (Méndez, 2020)
+Retomando las investigaciones que existen en la WebQuest aplicada para los
+procesos de enseñanza-aprendizaje de una lengua extranjera, podemos referir a
+los trabajos de autores como E. Baguzina (2020) quien dedica su investigación a
+reconocer la WebQuest como herramienta que fomenta el aprendizaje de la
+lengua extranjera en ambientes universitarios. Baguzina divide su aplicación en
+WebQuests a corto plazo para desarrollar habilidades cognitivas de menor
+complejidad como el recordar información, entenderla y aplicarla; y WebQuests a
+largo plazo que pretenden desarrollar habilidades cognitivas de nivel superior tales
+como el análisis, la comparación, la evaluación y la creación.
+Como resultado de su investigación, Baguzina (2020) concluye que la WebQuest
+aplicada en el aula de lengua extranjera, logra que los profesores motiven a los
+7
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+estudiantes a aprender en ambientes virtuales atractivos, con el objetivo de
+desarrollar habilidades específicas de la lengua, así también señala que estas
+tareas permiten a los estudiantes reevaluar sus propios objetivos de aprendizaje y
+aspiraciones, siendo estos entes activos en sus procesos de aprendizaje.
+Por otro lado, Shvaikina (2020) enfoca su investigación al uso de WebQuests
+como método instruccional para la enseñanza de lenguas extranjeras en una
+universidad técnica de Rusia. Shvaikina concluye que como resultado del empleo
+de la WebQuest, los estudiantes expresaron su entusiasmo acerca del proceso,
+mismo que los hizo sentir importantes e inteligentes, así mismo mencionaron que
+disfrutaron el hecho de que se les haya dado un sentido de independencia y
+confianza por parte de sus profesores, dado que se les permitió explorar el
+conocimiento por ellos mismos, tomando sus propias decisiones y organizando la
+información de manera apropiada para la conclusión de cada tarea.
+Méndez (2020) propone un modelo metodológico para la planificación de
+WebQuests en Enseñanza del Español como Lengua Extranjera, mismo que se
+muestra a continuación.
+Figura 1: Modelo metodológico para la planificación de las WQ en ELE (Méndez, 2020)
+
+Nota: Tomado de Metodología para el uso de las WebQuest en la enseñanza de ELE (p.29) por
+Méndez, 2020. RAEL: Revista Electrónica de Lingüística Aplicada
+
+8
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Si bien, este modelo proporciona una metodología aplicable para el diseño de
+WebQuests en la enseñanza de lenguas extranjeras, en este proyecto de
+investigación, se propondrá un modelo que retoma las características que propone
+Méndez, y a su vez permite al diseñador saltar de una etapa del diseño a otra con
+el propósito de construir un andamiaje coherente y enriquecer cada parte de la
+WebQuest.
+Dodge (2002, citado en Méndez, 2020) define los elementos de la WebQuest en
+seis partes:
+a) Introducción. Tiene el propósito de captar la atención del estudiante
+presentando de manera breve el contexto general en el cual se
+desenvolverá la WebQuest, así como la tarea principal y los propósitos de
+esta.
+b) Tarea. Se describirá la tarea o producto final que el estudiante elaborará
+una vez haya concluido los distintos procesos de la WebQuest. En este
+apartado se deberá catalogar la complejidad de la tarea de acuerdo con las
+habilidades tanto cognitivas como lingüísticas que se pretenden desarrollar.
+c) Proceso. Se mostrará de manera clara y concisa el procedimiento para
+llegar a la tarea final. Las actividades previas a la final, que se consideran
+tareas de menor complejidad. Así mismo, se pueden incluir los recursos
+web que se utilizarán durante el proceso.
+d) Recursos. Se enlistan los recursos web que son previamente seleccionados
+por el docente y que serán de ayuda para realizar las tareas. Las tareas
+deberán girar en torno al uso de estos recursos para su consulta, análisis y
+apoyo para las distintas actividades.
+e) Evaluación. Se establecen y explican los criterios de evaluación de la
+WebQuest, mismos que se pueden catalogar previamente en una rúbrica.
+f) Conclusión. Se resumirán los fines principales de la WebQuest, así como
+las reflexiones necesarias que permitan reconocer la importancia del
+
+9
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+proceso para llegar a la tarea final. En este apartado se pueden incluir
+actividades breves de reflexión y autoevaluación. (Dodge, 2002)
+Dentro de la propuesta de esta investigación se detallará cada una de las partes
+de la WebQuest, así como notas y sugerencias de los elementos que se pueden
+incluir en cada apartado.
+Aunado a esta información se retomarán algunos conceptos referentes al
+aprendizaje autónomo, mismo que, de acuerdo con Lázaro (2011, citado en
+Romero, 2020) es parte de las metodologías de enseñanza de lenguas que están
+basadas en el constructivismo.
+Hubbard (2004 citado en Rojas, 2020) a su vez, señala que la autonomía refiere a
+la capacidad de los estudiantes para aprender la lengua de manera voluntaria y
+sistemática fuera del aula de clase y sin ayuda del docente o compañeros de
+clase. Vale la pena entonces, reconocer, tal como lo mencionan Richards &
+Rodgers (2001, citados en Rojas, 2020), que esta autonomía demanda la
+participación activa y directa del estudiante, considerando que él mismo deberá
+planificar, monitorear y evaluar su propio aprendizaje.
+Mencionado lo anterior, se puede reconocer que, a través del diseño adecuado de
+las WebQuests, se permite desarrollar un aprendizaje autónomo semidirigido, en
+donde el docente establece los pasos a seguir, las tareas, recursos, objetivos, etc.,
+y a su vez, se reconoce la individualidad que posee cada estudiante para elaborar
+las tareas asignadas a través de las propias estrategias para discriminar
+información, analizarla, experimentar, resolver el problema establecido y evaluar
+su propio aprendizaje.
+
+10
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+3. Habilidades Integradas en la enseñanza de Lenguas Extranjeras y
+aprendizaje basado en tareas
+Se reconoce la enseñanza de lenguas extranjeras como un reto debido a la
+complejidad y diferencias que existen en cada sistema lingüístico, como
+consecuencia de este hecho, distintos autores han propuesto diversos enfoques y
+metodologías que sugieren organizar la enseñanza en diferentes habilidades, las
+cuales a su vez se interrelacionan para su uso en situaciones comunicativas
+reales, de este modo, Brown (2007) divide las habilidades de la lengua en dos de
+acuerdo a sus funciones, las receptivas: auditiva y lectora; y productivas: oral y
+escrita.
+Dentro de la metodología de la enseñanza de lenguas extranjeras se reconoce la
+integración de las habilidades de la lengua como un proceso en el cual, todas las
+habilidades tienen la misma importancia en cuanto al desarrollo del aprendizaje,
+por lo tanto, su integración permite que los estudiantes reconozcan el uso de la
+lengua en el mundo real y como lo menciona Brown (2007), dicha integración
+permite al docente crear de manera flexible y creativa actividades que promuevan
+el aprendizaje significativo permitiendo que el alumno se pueda comunicar a
+través de la lengua extranjera.
+De acuerdo con el Centro Virtual Cervantes (2022), se entiende por integración, la
+combinación de dos o más habilidades lingüísticas en la clase de lengua, dicha
+integración ocurre naturalmente debido a las necesidades comunicativas para el
+uso de la lengua en la vida real.
+Así también se menciona que, con el fin de simplificar la enseñanza, es habitual
+que cada habilidad se trate por separado en cursos, libros o distintas actividades,
+sin embargo, el Marco Común Europeo de Referencia (2021) indica que, como
+resultado de la integración de las cuatro habilidades, anteriormente mencionadas,
+se desarrollan otras habilidades comunicativas y sociales tales como, la
+
+11
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+comprensión, la expresión y la mediación, mismas que permiten la interacción
+eficaz entre individuos.
+De acuerdo con Brown (2007), el desarrollo de actividades que promueven la
+integración de las habilidades de la lengua permite a los estudiantes reconocer las
+conexiones que existen entre todas las partes que componen la lengua, su
+entendimiento, reforzamiento y uso auténtico de todo el sistema. De ahí que, este
+proceso tenga como resultado el desenvolvimiento real y natural del alumno en la
+lengua extranjera, permitiéndole interactuar de manera receptiva y brindándole
+oportunidades para comunicarse por medio de esta.
+Por otro lado, es de suma importancia señalar que la naturaleza de la WebQuest
+cumple con los principios del aprendizaje basado en tareas para la enseñanza de
+lenguas, mismo que de acuerdo con Skehans (citado en Brown, 2007) describe las
+tareas como actividades en las cuáles:
+•
+
+El significado es primario.
+
+•
+
+Existe un problema comunicativo que resolver.
+
+•
+
+Existe una relación con situaciones de la vida real.
+
+•
+
+La conclusión de la tarea tiene prioridad.
+
+•
+
+La evaluación de la tarea es en términos del resultado obtenido.
+
+La metodología de diseño de WebQuest en este trabajo propone la integración de
+las habilidades de la lengua y el aprendizaje basado en tareas como parte central
+para su diseño, tomando como ventaja la integración de las habilidades receptivas
+que ciertos recursos web propician e incluyendo entornos y actividades
+comunicativas auténticas que se acerquen a la realidad del uso de la lengua.
+
+12
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+4. Competencias del nivel B1 según el Marco Común Europeo de
+Referencia para las Lenguas
+El Marco Común Europeo de Referencia para las Lenguas: aprendizaje,
+enseñanza, evaluación (MCER) (2021) es un esquema presentado por el Consejo
+de Europa que describe el dominio de la lengua en un conjunto de niveles que son
+comunes y aplicables para todas las lenguas. Estos niveles se definen en escalas
+que presentan descriptores los cuales explican lo que se puede hacer con la
+lengua meta en cada nivel.
+El MCER (2021) tiene como objetivo ayudar a los profesionales de las lenguas
+para la mejora continua en la calidad y efectividad del aprendizaje y la enseñanza
+de lenguas. En este sentido, el MCER refiere al aprendiente como un agente
+social que se desenvuelve y ejerce una función en el proceso del aprendizaje, de
+esta manera se reconocen la necesidad de cambiar los enfoques en la planeación
+y enseñanza de lenguas (MCER, 2021)
+A grandes rasgos, el MCER divide el dominio de la lengua en seis niveles
+principales los cuales recogen distintas competencias que se pueden relacionar
+directamente con los objetivos de aprendizaje establecidos en programas de
+enseñanza o de acuerdo con los objetivos formativos de las instituciones.
+El MCER para las lenguas establece los niveles de dominio desde A1 (Acceso)
+como el nivel más bajo y C2 (Maestría) como el nivel más alto de dominio, entre
+estos dos niveles, se encuentra una escala de dominio, tal como se muestra en el
+siguiente diagrama tomado del documento traducido por el Consejo de Europa.
+Figura 2: Niveles comunes de referencia del MCER (MCER, 2021)
+
+13
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+Nota: Tomado de Marco Común Europeo de Referencia para las Lenguas: Aprendizaje,
+enseñanza, evaluación (p.46) por Consejo de Europa, 2021.
+
+De acuerdo con el MCER (2021), se considera al usuario de la lengua en un nivel
+B1, como usuario independiente que es capaz de:
+•
+
+Comprender la información principal de textos claros con un lenguaje de uso
+muy frecuente sobre asuntos conocidos y habituales en situaciones de trabajo,
+escuela, ocio, etc.
+
+•
+
+Desenvolverse en la mayor parte de situaciones que puedan surgir en un viaje
+por zonas donde se habla la lengua.
+
+•
+
+Elaborar textos sencillos y cohesionados sobre temas conocidos o de interés
+personal.
+
+•
+
+Describir experiencias, acontecimientos, sueños, esperanzas y ambiciones.
+
+•
+
+Ofrecer breves razonamientos y explicaciones de opiniones y planes.
+
+•
+
+Participar en interacciones para desarrollar un proyecto en grupo siempre que
+haya apoyos visuales que aclaren conceptos más complejos.
+
+•
+
+Ayudar a definir tareas en términos básicos y pedir que otros contribuyan con
+sus conocimientos.
+14
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+•
+
+Plantear preguntas adecuadas para comprobar la comprensión de conceptos.
+
+•
+
+Respaldar una cultura compartida de comunicación presentando a personas,
+intercambiando información y formulando peticiones sencillas de confirmación
+y aclaración.
+
+•
+
+Comunicar el sentido principal de lo que se dice sobre temas de interés
+personal, siempre que los hablantes articulen con claridad.
+
+•
+
+Mantener una interacción en situaciones comunes.
+
+•
+
+Afrontar de forma flexible problemas cotidianos. (MCER, 2021)
+
+En la presente investigación se tomará el nivel B1 del MCER como referencia para
+las actividades a desarrollar en las WebQuests, lo anterior tomando en cuenta que
+este los estudiantes cursan este nivel de dominio en los programas de inglés de la
+Facultad de Economía. En este sentido, es de suma importancia delimitar este
+nivel para el diseño de las WebQuests, reconociendo los objetivos generales de
+aprendizaje de los programas y generando actividades que permanezcan dentro
+de los parámetros de esta escala.
+.III. JUSTIFICACIÓN
+En el contexto didáctico y laboral actual, según García (2014, citado en Sáenz,
+2018), una de las necesidades fundamentales de los estudiantes de lenguas para
+fines profesionales, es el desarrollo de estrategias de aprendizaje autónomo a fin
+de adaptarse a nuevas situaciones comunicativas.
+Estas situaciones comunicativas reales requieren un nivel de dominio equitativo de
+las habilidades de la lengua integrándolas y reconociendo sus conexiones para la
+comunicación efectiva.
+Por su parte, Juan (2012) señala que es imprescindible integrar las nuevas
+tecnologías de la información y de la comunicación en la práctica docente diaria
+con el fin de adaptarse a las necesidades de la sociedad del conocimiento. Esto
+nos lleva al uso de estas tecnologías para el fin formativo de la lengua,
+
+15
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+convirtiéndolas en Tecnologías del Aprendizaje y el Conocimiento (TAC) que
+actúan como medios con los cuáles se puede llegar al aprendizaje de la lengua.
+Así pues, se Identifica el reto que conlleva para el docente de lenguas la inclusión
+de las tecnologías de la información y comunicación como herramientas para su
+uso en la enseñanza, así como el diseño de estrategias que promuevan la
+autonomía en el aprendizaje.
+En este marco se presenta la metodología de diseño de WebQuests en las que se
+integren las habilidades de la lengua y esta estrategia sirva como material de
+estudio independiente para los estudiantes de inglés. Si bien, esta propuesta está
+dirigida para que docentes de lenguas diseñen WebQuests con los fines antes
+mencionados, se pretende aplicar esta herramienta didáctica a un grupo de
+estudiantes para que reconozcan las relaciones que existen entre todas las
+habilidades de la lengua, su uso en situaciones cercanas a contextos que pueden
+vivir en la realidad y a su vez, sirvan estos contextos para motivar el aprendizaje
+autónomo de la lengua.
+A través de la aplicación de WebQuests se tiene la oportunidad de cubrir distintas
+necesidades tanto docentes como estudiantiles. La primera de ellas responde a la
+integración de la tecnología para la enseñanza de lenguas. La WebQuest permite
+interactuar con recursos en línea que son previamente seleccionados por el
+docente, estos recursos deben de ser auténticos y proporcionar información
+relevante para los estudiantes.
+Gracias a que el proceso de aprendizaje de las WebQuests se centra en el
+alumno, se proporcionan las herramientas necesarias para que este pueda llevar a
+cabo las actividades de manera autónoma, desarrollando tareas colaborativas o
+trabajando de manera independiente.
+Se abren las puertas para diseñar dentro de la WebQuest un sinfín de tareas que
+permiten al estudiante formular un aprendizaje progresivo desde las tareas más
+sencillas hasta productos de mayor complejidad haciendo uso de su creatividad.
+16
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Aunado a lo anterior, los recursos existentes en la web son variados y permiten
+proporcionar contextos auténticos que promuevan aprendizajes significativos de la
+lengua y a su vez, la flexibilidad para el diseño de WebQuests permite desarrollar
+actividades que se adapten a las necesidades académicas, comunicativas y
+profesionales de los estudiantes haciendo uso de estos recursos.
+De esta manera se pretende crear un aporte que beneficie la práctica docente y el
+aprendizaje de la lengua inglesa. Es importante mencionar que este material podrá
+estar sujeto a los aportes de los profesionales de la enseñanza del inglés para su
+mejoramiento. Si bien, esta propuesta será aplicada en una muestra de
+estudiantes de la Facultad de Economía, el material diseñado podrá servir de
+punto de partida para adaptarse a estudiantes de estudios profesionales en otros
+contextos.
+IV. DESCRIPCIÓN DEL PROBLEMA
+Actualmente se hace uso de materiales diseñados para la enseñanza del inglés
+desarrollados bajo distintos enfoques que promueven la práctica tanto estructural
+como comunicativa de la lengua, sin embargo, aunque estos tienen como fin el
+aprendizaje significativo en contextos auténticos dentro del aula de clase, se
+puede identificar en la práctica docente diaria, la necesidad de contar con
+materiales de estudio independiente que propicien en los estudiantes de la lengua
+la integración de las habilidades con fines comunicativos y de desarrollo del
+pensamiento crítico, y el desarrollo de habilidades cognitivas de nivel superior,
+tales como la reflexión, el análisis, la solución de problemas, etc.
+Así mismo, es esencial que estas estrategias respondan a las necesidades
+académicas y profesionales de los estudiantes.
+Es importante reconocer la necesidad de hacer uso de estrategias que permitan el
+aprendizaje semidirigido y desarrollen de manera gradual la autonomía en los
+estudiantes. Aunado a lo anterior, si bien, la tecnología ya forma parte de los
+procesos de enseñanza-aprendizaje de lenguas, es inminente que esta integración
+17
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+se lleve a cabo bajo un enfoque de discriminación de recursos que apoyen de
+manera eficaz los fines antes mencionados.
+
+V. COMITÉ DE BIOÉTICA
+Tal como lo indica Sañudo (2006), la investigación educativa requiere en términos
+éticos
+
+y
+
+morales,
+
+contar
+
+con
+
+utilidad
+
+y
+
+relevancia
+
+que
+
+permitan
+
+la
+
+reconceptualización de lo que es útil educativamente en función no solamente del
+avance en la investigación y conocimiento, sino de las prácticas educativas que
+afectan directamente a la sociedad.
+Así mismo, Sleber (2001, citado en Sañudo, 2016) reconoce que el ser ético
+incluye un proceso de planeación, tratamiento y evaluación sensible que permitirá
+al investigador maximizar los buenos productos y minimizar el riesgo y el daño.
+La investigación presentada se regirá bajo los principios éticos de la investigación
+educativa, mismos que señala Sañudo (2016) y permitirán la correcta dirección de
+la investigación que reconozca la importancia del trato a los participantes,
+investigadores e investigados, sus datos, opiniones y decisiones respecto a esta
+investigación:
+• Los sujetos estudiados deberán ser escogidos por razones relacionadas
+con las interrogantes científicas y considerando la inclusión de participantes
+que puedan beneficiarse de un resultado positivo.
+• Respeto por la privacidad y la confidencialidad de los participantes que les
+permitirá elegir que información, actitudes, creencias, opiniones, etc., que
+quiera compartir, así como el derecho de no compartir la información que
+así decida.
+• Hacer saber a los participantes el tipo de estudio en el que se están
+involucrando, los fines de este y las posibles implicaciones reconociendo
+los derechos, dignidad y bienestar de los individuos.
+
+18
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+• Preservar el anonimato de los participantes y respetar su privacidad, así
+como reconocer explícitamente el consentimiento de las personas para
+participar.
+Es importante mencionar que, aunado a estos principios, las opiniones e
+interpretaciones presentadas en este proyecto tienen un fin académico y son
+responsabilidad del autor del mismo.
+Se considera relevante en este punto, mencionar que, los recursos tanto
+bibliográficos como didácticos de los cuales se haga uso en este proyecto de
+investigación, serán referidos a sus autores originales, respetando siempre los
+derechos sobre su autoría.
+VI. PLANTEAMIENTO TEÓRICO (Hipótesis y/o supuestos, pregunta, etc.)
+Pregunta de investigación
+¿Cómo se integran las habilidades lingüísticas y comunicativas del inglés y de
+pensamiento crítico a través del uso de recursos de la web en las tareas de la
+WebQuest mediante el estudio independiente?
+Hipótesis
+Los recursos tecnológicos utilizados en las tareas de la WebQuest, así como su
+diseño instruccional fomentan el estudio independiente integrando las habilidades
+de la lengua inglesa en actividades comunicativas que desarrollan habilidades
+cognitivas superiores.
+VII. OBJETIVOS
+General
+Proponer una metodología para el diseño de WebQuests que sirva como
+estrategia de estudio independiente para integrar las habilidades de la lengua
+inglesa con fines comunicativos y de desarrollo de habilidades cognitivas
+superiores en estudiantes de inglés B1 de la Facultad de Economía de la UAEM.
+
+19
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Específicos
+1. Analizar el estado del arte, identificar y recolectar información relevante que
+sirva como sustento para la investigación.
+2. Realizar un diagnóstico de la situación actual en el estudio independiente
+del inglés.
+3. Proponer una metodología para el diseño y aplicación de WebQuests como
+material de estudio independiente que integre las habilidades del inglés.
+4. Diseñar y aplicar WebQuests que integren las habilidades de la lengua
+inglesa para promover el estudio independiente en estudiantes de inglés B1
+de la Facultad de Economía de la UAEMex.
+5. Evaluar el uso de WebQuests mediante la observación, el cuestionamiento
+y el contraste de las experiencias de los estudiantes para reconocer la
+eficacia de los WQ como material de estudio independiente.
+6. Analizar e interpretar los resultados que surjan de la aplicación.
+
+20
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+VIII. METODOLOGÍA
+Una vez determinados los objetivos y problemática del proyecto de investigación,
+se ha llegado a la conclusión de que esta será de tipo descriptivo, considerando
+que se expondrán las características y rasgos del contexto en el que actualmente
+se encuentra el aprendizaje autónomo de la lengua inglesa en los estudiantes de
+los distintos programas de la Facultad de Economía de la UAEM. Así mismo, se
+propondrá una metodología para el diseño de WebQuests como estrategia que
+permita el aprendizaje autónomo del inglés y se describirán los procesos tanto de
+diseño como de aplicación.
+A su vez, se reconoce que la metodología adecuada para este proyecto será la de
+investigación-acción dado que esta tiene como objetivo principal el de comprender
+y resolver una problemática, en este caso, dentro del proceso de enseñanzaaprendizaje del inglés como lengua extranjera.
+El diseño de esta investigación será práctico de modo que pretende reconocer, a
+través de entrevistas y grupos de discusión, el contexto referente al aprendizaje
+autónomo de la lengua inglesa en los estudiantes para implementar un plan de
+acción haciendo uso de los WebQuests como técnica que permita este
+aprendizaje y analizando los resultados de esta aplicación.
+La investigación se llevará a cabo en una muestra de estudiantes de educación
+superior pertenecientes a los programas de licenciatura en Relaciones
+Académicas Internacionales, Economía y Negocios Internacionales, mismos que
+deben cursar la asignatura de inglés durante al menos cuatro semestres de su
+licenciatura.
+A continuación, se muestra un diagrama tomado de Sampieri (2014) donde se
+establecen los pasos a seguir para realizar la investigación-acción:
+
+21
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Figura 3: Principales acciones para llevar a cabo la investigación-acción. (Sampieri, 2014)
+
+Las acciones que se contempla realizar son las siguientes en el orden
+mencionado:
+•
+
+Inmersión en la problemática, misma que se logrará a través de la
+
+interacción con los estudiantes en el proceso de enseñanza-aprendizaje de la
+lengua.
+•
+
+Seleccionar la muestra de estudiantes que participará en la investigación.
+
+•
+
+Recabar información acerca de la problemática acerca de la situación actual
+
+en cuanto al aprendizaje autónomo de la lengua inglesa en los estudiantes a
+través de encuestas y grupos de discusión.
+•
+
+Desarrollo del plan para implementar WebQuests, previo diseño, evaluación
+
+del material y programación de tiempos.
+
+22
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+•
+
+Implementar los WebQuests diseñados en un grupo de estudiantes y
+
+evaluar a través de entrevistas y encuestas su experiencia en cuanto al
+desarrollo de habilidades cognitivas e integración de habilidades de la
+lengua.
+•
+
+Proponer una metodología de diseño para WebQuests que sirvan
+
+como técnica que permita el aprendizaje autónomo de la lengua a través de
+la integración de las habilidades en las tareas de la WebQuest.
+
+IX. RESULTADOS ESPERADOS, POSIBLES APLICACIONES Y USO DEL
+PROYECTO
+A través de los instrumentos aplicados en esta investigación, se pretende en un
+primer escenario averiguar la situación actual respecto al aprendizaje autónomo
+de la lengua inglesa en los estudiantes universitarios. Se espera que estos
+resultados permitan justificar el uso de WebQuests como material de aprendizaje
+autónomo que integre las habilidades de la lengua.
+Por otro lado, a través de la aplicación de WebQuests, la evaluación de esta
+aplicación y su análisis, se espera reconocer la funcionalidad y beneficios de esta
+estrategia didáctica en el aprendizaje autónomo del inglés integrando todas las
+habilidades de la lengua.
+Finalmente, se propondrá una metodología para el diseño de WebQuests como
+material de aprendizaje autónomo del inglés que integre las habilidades de la
+lengua. El diseño de esta metodología tiene el objetivo de servir como punto de
+partida para docentes de inglés en cualquier nivel educativo que tengan la
+intención de integrar esta estrategia en los procesos de enseñanza-aprendizaje de
+los que forman parte.
+El análisis de bibliografía, previas investigaciones, el estado del arte y la aplicación
+de los WebQuests a los estudiantes de inglés como sujetos de estudio, permitirá
+comprobar o rechazar la hipótesis propuesta en este proyecto de investigación.
+23
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+X. INDICE TENTATIVO DE LA TESIS
+Dedicatorias.
+Agradecimientos.
+Índice.
+Índice de Figuras
+Índice de Tablas
+Abreviaturas y siglas
+Resumen en español
+Abstract.
+I. Introducción / planteamiento del problema y justificación.
+II. Antecedentes y fundamentación teórica.
+I.
+
+Tecnologías del Aprendizaje y el Conocimiento en la enseñanza de
+lenguas y Technology-Enhanced Language Learning (TELL).
+
+II.
+
+La WebQuest y su uso para el aprendizaje autónomo de Lenguas
+Extranjeras
+
+III.
+
+Habilidades Integradas en la enseñanza de Lenguas Extranjeras y
+aprendizaje basado en tareas
+
+IV.
+
+Competencias del nivel B1 según el Marco Común Europeo de
+Referencia para las Lenguas
+
+III. Hipótesis o supuestos.
+IV. Objetivos.
+V. Material y Métodos o Metodología
+VI. Resultados y discusión
+VII.
+
+Conclusiones.
+
+VIII.
+
+Bibliografía
+
+IX. Anexos.
+I.
+
+Fundamentación teórica.
+
+24
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+
+XI. REFERENCIAS BIBLIOGRÁFICAS
+Baguzina, E. (2020) WebQuests: Fostering language learning in a University Environment.
+The Moscow State University of International Relations (Mgimo University)
+(Russian
+
+Federation)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3552707
+Bernal, C. (2010) Metodología de la Investigación 3era Edición. Pearson. Disponible en
+http://virtualfif.uaq.mx/portal/pluginfile.php/11930/mod_resource/content/1/Bernal%
+20Cap%C3%ADtulo%207%20%281%29.pdf
+Borromeo García, C., Fernández Pérez, J., y Ramírez Martinell, A. (2020) La tecnología
+en la enseñanza de idiomas: evolución a través de los métodos. REencuentro.
+Análisis de Problemas Universitarios, 29 (76), 133-154. Universidad Autónoma
+Metropolitana. https://www.redalyc.org/journal/340/34065195009/html/
+Brown, D. (2007). Teaching by Principles: An Interactive Approach to Language
+Pedagogy. Second Edition Longman,
+Centro
+
+Virtual
+
+Cervantes
+
+(2022)
+
+Integración
+
+de
+
+destrezas.
+
+https://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/integracio
+ndestrezas.htm#:~:text=Por%20integraci%C3%B3n%20de%20destrezas%20se,de
+streza%3B%20as%C3%AD%20hay%2C%20p.
+Dodge, B. (5 de mayo de1997) Some thoughts about WebQuests. The WebQuest Page.
+https://webquest.org/sdsu/about_webquests.html
+Ghanizadeh et al. (2015) Technology-Enhanced Language Learning (TELL): A Review of
+Resourses and Upshots. International Letters of Chemistry, Physics and
+Astronomy. 54 (73-87). Disponible en https://www.scipress.com/ILCPA.54.73
+Hernández, Ma. P. (2007) Aula de español, enfoque por tareas y TIC. Algunas reflexiones
+sobre las WebQuest en la enseñanza de ELE. marcoELE. Revista de Didáctica
+Español Lengua Extranjera (5), 1-10.
+https://www.redalyc.org/articulo.oa?id=92152376005
+Lozano (2011) De las TIC a las TAC: tecnologías del aprendizaje y del conocimiento.
+Anuario
+
+ThinkEPI.
+
+5
+
+(45-47).
+
+Disponible
+
+en
+
+https://dialnet.unirioja.es/descarga/articulo/3647371.pdf
+
+25
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Marco Común Europeo de Referencia para las Lenguas (2021) Volumen complementario.
+Consejo
+
+Europeo.
+
+https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=22556
+Méndez, B. (2020) Methodology for the Use of WebQuest in Teaching Spanish as a
+Foreign Language. RAEL: Revista Electrónica de Lingüística Aplicada 19 (2), 2447.
+https://repositorio.uam.es/bitstream/handle/10486/700045/metodologia_mendez_ra
+el_2020.pdf?sequence=1&isAllowed=y
+Pérez, Ma. I. (2006) Diseño de WebQuests para la Enseñanza-Aprendizaje del Inglés
+como Lengua Extranjera: Aplicaciones en la Adquisición de Vocabulario y la
+Destreza
+
+Lectora.
+
+[Tesis
+
+Doctoral,
+
+Universidad
+
+de
+
+Granada].
+
+https://digibug.ugr.es/handle/10481/1034
+Pérez Zúñiga, R., Mercado Lozano, P., Martínez García, M., Mena Hernández, E. y
+Partida Ibarra, J. (2018) La sociedad del conocimiento y la sociedad de la
+información como la piedra angular en la innovación tecnológica educativa.
+Revista Iberoamericana para la Investigación y el desarrollo Educativo 8 (16).
+http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S200774672018000100847
+Rico Sirvent, C. (2017) La ayuda de las Nuevas Tecnologías en el aprendizaje del inglés
+como lengua extranjera. [Trabajo de fin de grado en Traducción e Interpretación,
+Universidad
+
+Pontificia
+
+Comillas].
+
+https://repositorio.comillas.edu/xmlui/bitstream/handle/11531/21568/TFG001517.p
+df?sequence=1
+Rojas Salazar, L. (2020) Aprendizaje Autónomo Del Inglés Como Lengua Extranjera En
+Un Ecosistema B-Learning Culturalmente Integrado. [Tesis de maestría,
+Universidad
+
+Pedagógica
+
+y
+
+Tecnológica
+
+de
+
+Colombia].
+
+https://repositorio.uptc.edu.co/bitstream/001/3203/1/Aprendizaje_autonomo_ingles.
+pdf
+Romero, Ma. Del C. (2020) Aprendizaje autónomo en el proceso de enseñanza del inglés.
+Revista Conexxión 9 (27), 43-52. http://aliatuniversidades.com.mx/conexxion/wpcontent/uploads/2016/09/Art4C27.pdf
+Sampieri, R. (2013) Metodología de la Investigación 6ta Edición. McGraw Hill Education.
+Disponible en https://www.uca.ac.cr/wp-content/uploads/2017/10/Investigacion.pdf
+
+26
+
+F-50-01
+PROTOCOLO DE INVESTIGACIÓN
+Sañudo, L. (2006) La ética en la investigación educativa. Hallazgos 6. 83-98. Disponible
+en https://www.redalyc.org/pdf/4138/413835165006.pdf
+Shutenko, A., Shutenko, E., Ryzhkova, I., Koreneva, A., Sidorova, M. y Rotaryanu, L.
+(2019) El uso de WebQuests en la enseñanza de idiomas extranjeros a
+estudiantes de especialidades no lingüísticas. Revista Espacios, 40 (19).
+http://www.revistaespacios.com/a19v40n19/19401907.html
+Shvaikina, N. (2020) Web Quest Technology in Teaching Foreign Languages in a
+Technical
+
+University.
+
+ARPHA
+
+Proceedings.
+
+2367-2374.
+
+https://ap.pensoft.net/article/22512/download/pdf/479326
+Trujillo Sáez, F., Salvadores Merino, C., y Gabarrón Pérez, A. (2019) Tecnología para la
+enseñanza y el aprendizaje de lenguas extranjeras: revisión de la literatura. RIED.
+Revista
+
+Iberoamericana
+
+de
+
+Educación
+
+a
+
+Distancia
+
+22
+
+(1).
+
+https://www.redalyc.org/journal/3314/331459398008/331459398008.pdf
+
+____________________________
+
+Firma del alumno
+
+Nivel de revisión: 01
+
+27
+
+
